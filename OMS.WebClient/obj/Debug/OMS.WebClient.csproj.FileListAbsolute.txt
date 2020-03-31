@@ -1,0 +1,938 @@
+D:\Order Management\OMSSourceSafe\OMS.WebClient\obj\Debug\ResolveAssemblyReference.cache
+D:\Order Management\OMSSourceSafe\OMS.WebClient\bin\OMS.WebClient.dll
+D:\Order Management\OMSSourceSafe\OMS.WebClient\bin\OMS.WebClient.pdb
+D:\Order Management\OMSSourceSafe\OMS.WebClient\bin\OMS.DAL.dll
+D:\Order Management\OMSSourceSafe\OMS.WebClient\bin\OMS.Facade.dll
+D:\Order Management\OMSSourceSafe\OMS.WebClient\bin\OMS.Framework.dll
+D:\Order Management\OMSSourceSafe\OMS.WebClient\bin\OMS.Facade.pdb
+D:\Order Management\OMSSourceSafe\OMS.WebClient\bin\OMS.Framework.pdb
+D:\Order Management\OMSSourceSafe\OMS.WebClient\bin\OMS.DAL.pdb
+D:\Order Management\OMSSourceSafe\OMS.WebClient\obj\Debug\OMS.WebClient.dll
+D:\Order Management\OMSSourceSafe\OMS.WebClient\obj\Debug\OMS.WebClient.pdb
+D:\PersonalProject\OMSSourceSafe\OMS.WebClient\bin\OMS.WebClient.dll
+D:\PersonalProject\OMSSourceSafe\OMS.WebClient\bin\OMS.WebClient.pdb
+D:\PersonalProject\OMSSourceSafe\OMS.WebClient\bin\OMS.DAL.dll
+D:\PersonalProject\OMSSourceSafe\OMS.WebClient\bin\OMS.Facade.dll
+D:\PersonalProject\OMSSourceSafe\OMS.WebClient\bin\OMS.Framework.dll
+D:\PersonalProject\OMSSourceSafe\OMS.WebClient\bin\OMS.Facade.pdb
+D:\PersonalProject\OMSSourceSafe\OMS.WebClient\bin\OMS.Framework.pdb
+D:\PersonalProject\OMSSourceSafe\OMS.WebClient\bin\OMS.DAL.pdb
+D:\PersonalProject\OMSSourceSafe\OMS.WebClient\obj\Debug\ResolveAssemblyReference.cache
+D:\PersonalProject\OMSSourceSafe\OMS.WebClient\obj\Debug\OMS.WebClient.dll
+D:\PersonalProject\OMSSourceSafe\OMS.WebClient\obj\Debug\OMS.WebClient.pdb
+E:\PersonalProject\OMSSourceSafe\OMSSourceSafe\OMS.WebClient\bin\OMS.WebClient.dll
+E:\PersonalProject\OMSSourceSafe\OMSSourceSafe\OMS.WebClient\bin\OMS.WebClient.pdb
+E:\PersonalProject\OMSSourceSafe\OMSSourceSafe\OMS.WebClient\bin\OMS.DAL.dll
+E:\PersonalProject\OMSSourceSafe\OMSSourceSafe\OMS.WebClient\bin\OMS.Facade.dll
+E:\PersonalProject\OMSSourceSafe\OMSSourceSafe\OMS.WebClient\bin\OMS.Framework.dll
+E:\PersonalProject\OMSSourceSafe\OMSSourceSafe\OMS.WebClient\bin\OMS.Facade.pdb
+E:\PersonalProject\OMSSourceSafe\OMSSourceSafe\OMS.WebClient\bin\OMS.Framework.pdb
+E:\PersonalProject\OMSSourceSafe\OMSSourceSafe\OMS.WebClient\bin\OMS.DAL.pdb
+E:\PersonalProject\OMSSourceSafe\OMSSourceSafe\OMS.WebClient\obj\Debug\ResolveAssemblyReference.cache
+E:\PersonalProject\OMSSourceSafe\OMSSourceSafe\OMS.WebClient\obj\Debug\OMS.WebClient.dll
+E:\PersonalProject\OMSSourceSafe\OMSSourceSafe\OMS.WebClient\obj\Debug\OMS.WebClient.pdb
+D:\31-01-2012\OMSSourceSafe\OMS.WebClient\bin\OMS.WebClient.dll
+D:\31-01-2012\OMSSourceSafe\OMS.WebClient\bin\OMS.WebClient.pdb
+D:\31-01-2012\OMSSourceSafe\OMS.WebClient\bin\OMS.DAL.dll
+D:\31-01-2012\OMSSourceSafe\OMS.WebClient\bin\OMS.Facade.dll
+D:\31-01-2012\OMSSourceSafe\OMS.WebClient\bin\OMS.Framework.dll
+D:\31-01-2012\OMSSourceSafe\OMS.WebClient\bin\OMS.Facade.pdb
+D:\31-01-2012\OMSSourceSafe\OMS.WebClient\bin\OMS.Framework.pdb
+D:\31-01-2012\OMSSourceSafe\OMS.WebClient\bin\OMS.DAL.pdb
+D:\31-01-2012\OMSSourceSafe\OMS.WebClient\obj\Debug\ResolveAssemblyReference.cache
+D:\31-01-2012\OMSSourceSafe\OMS.WebClient\obj\Debug\OMS.WebClient.dll
+D:\31-01-2012\OMSSourceSafe\OMS.WebClient\obj\Debug\OMS.WebClient.pdb
+E:\Zia_Working\OMSSourceSafe\OMSSourceSafe\OMS.WebClient\bin\OMS.WebClient.dll
+E:\Zia_Working\OMSSourceSafe\OMSSourceSafe\OMS.WebClient\bin\OMS.WebClient.pdb
+E:\Zia_Working\OMSSourceSafe\OMSSourceSafe\OMS.WebClient\bin\OMS.DAL.dll
+E:\Zia_Working\OMSSourceSafe\OMSSourceSafe\OMS.WebClient\bin\OMS.Facade.dll
+E:\Zia_Working\OMSSourceSafe\OMSSourceSafe\OMS.WebClient\bin\OMS.Framework.dll
+E:\Zia_Working\OMSSourceSafe\OMSSourceSafe\OMS.WebClient\bin\OMS.Facade.pdb
+E:\Zia_Working\OMSSourceSafe\OMSSourceSafe\OMS.WebClient\bin\OMS.Framework.pdb
+E:\Zia_Working\OMSSourceSafe\OMSSourceSafe\OMS.WebClient\bin\OMS.DAL.pdb
+E:\Zia_Working\OMSSourceSafe\OMSSourceSafe\OMS.WebClient\obj\Debug\ResolveAssemblyReference.cache
+E:\Zia_Working\OMSSourceSafe\OMSSourceSafe\OMS.WebClient\obj\Debug\OMS.WebClient.dll
+E:\Zia_Working\OMSSourceSafe\OMSSourceSafe\OMS.WebClient\obj\Debug\OMS.WebClient.pdb
+E:\Own Project\ehishab_solution\OMS.WebClient\bin\OMS.WebClient.dll
+E:\Own Project\ehishab_solution\OMS.WebClient\bin\OMS.WebClient.pdb
+E:\Own Project\ehishab_solution\OMS.WebClient\bin\OMS.DAL.dll
+E:\Own Project\ehishab_solution\OMS.WebClient\bin\OMS.Facade.dll
+E:\Own Project\ehishab_solution\OMS.WebClient\bin\OMS.Framework.dll
+E:\Own Project\ehishab_solution\OMS.WebClient\bin\OMS.Facade.pdb
+E:\Own Project\ehishab_solution\OMS.WebClient\bin\OMS.Framework.pdb
+E:\Own Project\ehishab_solution\OMS.WebClient\bin\OMS.DAL.pdb
+E:\Own Project\ehishab_solution\OMS.WebClient\obj\Debug\ResolveAssemblyReference.cache
+E:\Own Project\ehishab_solution\OMS.WebClient\obj\Debug\OMS.WebClient.dll
+E:\Own Project\ehishab_solution\OMS.WebClient\obj\Debug\OMS.WebClient.pdb
+D:\Personal Project\ehishabNew\ehishab_solution\OMS.WebClient\bin\OMS.WebClient.dll
+D:\Personal Project\ehishabNew\ehishab_solution\OMS.WebClient\bin\OMS.WebClient.pdb
+D:\Personal Project\ehishabNew\ehishab_solution\OMS.WebClient\bin\OMS.DAL.dll
+D:\Personal Project\ehishabNew\ehishab_solution\OMS.WebClient\bin\OMS.Facade.dll
+D:\Personal Project\ehishabNew\ehishab_solution\OMS.WebClient\bin\OMS.Framework.dll
+D:\Personal Project\ehishabNew\ehishab_solution\OMS.WebClient\bin\OMS.Facade.pdb
+D:\Personal Project\ehishabNew\ehishab_solution\OMS.WebClient\bin\OMS.Framework.pdb
+D:\Personal Project\ehishabNew\ehishab_solution\OMS.WebClient\bin\OMS.DAL.pdb
+D:\Personal Project\ehishabNew\ehishab_solution\OMS.WebClient\obj\Debug\ResolveAssemblyReference.cache
+D:\Personal Project\ehishabNew\ehishab_solution\OMS.WebClient\obj\Debug\OMS.WebClient.dll
+D:\Personal Project\ehishabNew\ehishab_solution\OMS.WebClient\obj\Debug\OMS.WebClient.pdb
+E:\Zia_Working\ehishabNew\ehishabNew\ehishab_solution\OMS.WebClient\bin\OMS.WebClient.dll
+E:\Zia_Working\ehishabNew\ehishabNew\ehishab_solution\OMS.WebClient\bin\OMS.WebClient.pdb
+E:\Zia_Working\ehishabNew\ehishabNew\ehishab_solution\OMS.WebClient\bin\OMS.DAL.dll
+E:\Zia_Working\ehishabNew\ehishabNew\ehishab_solution\OMS.WebClient\bin\OMS.Facade.dll
+E:\Zia_Working\ehishabNew\ehishabNew\ehishab_solution\OMS.WebClient\bin\OMS.Framework.dll
+E:\Zia_Working\ehishabNew\ehishabNew\ehishab_solution\OMS.WebClient\bin\OMS.Facade.pdb
+E:\Zia_Working\ehishabNew\ehishabNew\ehishab_solution\OMS.WebClient\bin\OMS.Framework.pdb
+E:\Zia_Working\ehishabNew\ehishabNew\ehishab_solution\OMS.WebClient\bin\OMS.DAL.pdb
+E:\Zia_Working\ehishabNew\ehishabNew\ehishab_solution\OMS.WebClient\obj\Debug\ResolveAssemblyReference.cache
+E:\Zia_Working\ehishabNew\ehishabNew\ehishab_solution\OMS.WebClient\obj\Debug\OMS.WebClient.dll
+E:\Zia_Working\ehishabNew\ehishabNew\ehishab_solution\OMS.WebClient\obj\Debug\OMS.WebClient.pdb
+D:\Personal Project\ehishabFinal\ehishab_solution\OMS.WebClient\bin\OMS.WebClient.dll
+D:\Personal Project\ehishabFinal\ehishab_solution\OMS.WebClient\bin\OMS.WebClient.pdb
+D:\Personal Project\ehishabFinal\ehishab_solution\OMS.WebClient\bin\OMS.DAL.dll
+D:\Personal Project\ehishabFinal\ehishab_solution\OMS.WebClient\bin\OMS.Facade.dll
+D:\Personal Project\ehishabFinal\ehishab_solution\OMS.WebClient\bin\OMS.Framework.dll
+D:\Personal Project\ehishabFinal\ehishab_solution\OMS.WebClient\bin\OMS.Facade.pdb
+D:\Personal Project\ehishabFinal\ehishab_solution\OMS.WebClient\bin\OMS.Framework.pdb
+D:\Personal Project\ehishabFinal\ehishab_solution\OMS.WebClient\bin\OMS.DAL.pdb
+D:\Personal Project\ehishabFinal\ehishab_solution\OMS.WebClient\obj\Debug\ResolveAssemblyReference.cache
+D:\Personal Project\ehishabFinal\ehishab_solution\OMS.WebClient\obj\Debug\OMS.WebClient.dll
+D:\Personal Project\ehishabFinal\ehishab_solution\OMS.WebClient\obj\Debug\OMS.WebClient.pdb
+I:\Project 2013\eTicket\ehishab_solution\OMS.WebClient\bin\OMS.WebClient.dll
+I:\Project 2013\eTicket\ehishab_solution\OMS.WebClient\bin\OMS.WebClient.pdb
+I:\Project 2013\eTicket\ehishab_solution\OMS.WebClient\bin\OMS.DAL.dll
+I:\Project 2013\eTicket\ehishab_solution\OMS.WebClient\bin\OMS.Facade.dll
+I:\Project 2013\eTicket\ehishab_solution\OMS.WebClient\bin\OMS.Framework.dll
+I:\Project 2013\eTicket\ehishab_solution\OMS.WebClient\bin\OMS.Facade.pdb
+I:\Project 2013\eTicket\ehishab_solution\OMS.WebClient\bin\OMS.Framework.pdb
+I:\Project 2013\eTicket\ehishab_solution\OMS.WebClient\bin\OMS.DAL.pdb
+I:\Project 2013\eTicket\ehishab_solution\OMS.WebClient\obj\Debug\ResolveAssemblyReference.cache
+I:\Project 2013\eTicket\ehishab_solution\OMS.WebClient\obj\Debug\OMS.WebClient.dll
+I:\Project 2013\eTicket\ehishab_solution\OMS.WebClient\obj\Debug\OMS.WebClient.pdb
+E:\Project 2013\eTicketSol\OMS.WebClient\bin\OMS.WebClient.dll
+E:\Project 2013\eTicketSol\OMS.WebClient\bin\OMS.WebClient.pdb
+E:\Project 2013\eTicketSol\OMS.WebClient\bin\OMS.DAL.dll
+E:\Project 2013\eTicketSol\OMS.WebClient\bin\OMS.Facade.dll
+E:\Project 2013\eTicketSol\OMS.WebClient\bin\OMS.Framework.dll
+E:\Project 2013\eTicketSol\OMS.WebClient\bin\OMS.Facade.pdb
+E:\Project 2013\eTicketSol\OMS.WebClient\bin\OMS.Framework.pdb
+E:\Project 2013\eTicketSol\OMS.WebClient\bin\OMS.DAL.pdb
+E:\Project 2013\eTicketSol\OMS.WebClient\obj\Debug\ResolveAssemblyReference.cache
+E:\Project 2013\eTicketSol\OMS.WebClient\obj\Debug\OMS.WebClient.dll
+E:\Project 2013\eTicketSol\OMS.WebClient\obj\Debug\OMS.WebClient.pdb
+F:\Zia\eTicketSol\OMS.WebClient\bin\OMS.WebClient.dll
+F:\Zia\eTicketSol\OMS.WebClient\bin\OMS.WebClient.pdb
+F:\Zia\eTicketSol\OMS.WebClient\bin\OMS.DAL.dll
+F:\Zia\eTicketSol\OMS.WebClient\bin\OMS.Facade.dll
+F:\Zia\eTicketSol\OMS.WebClient\bin\OMS.Framework.dll
+F:\Zia\eTicketSol\OMS.WebClient\bin\OMS.Facade.pdb
+F:\Zia\eTicketSol\OMS.WebClient\bin\OMS.Framework.pdb
+F:\Zia\eTicketSol\OMS.WebClient\bin\OMS.DAL.pdb
+F:\Zia\eTicketSol\OMS.WebClient\obj\Debug\ResolveAssemblyReference.cache
+F:\Zia\eTicketSol\OMS.WebClient\obj\Debug\OMS.WebClient.dll
+F:\Zia\eTicketSol\OMS.WebClient\obj\Debug\OMS.WebClient.pdb
+I:\Project 2013\eTicket\eTicketSol\OMS.WebClient\bin\OMS.WebClient.dll
+I:\Project 2013\eTicket\eTicketSol\OMS.WebClient\bin\OMS.WebClient.pdb
+I:\Project 2013\eTicket\eTicketSol\OMS.WebClient\bin\OMS.DAL.dll
+I:\Project 2013\eTicket\eTicketSol\OMS.WebClient\bin\OMS.Facade.dll
+I:\Project 2013\eTicket\eTicketSol\OMS.WebClient\bin\OMS.Framework.dll
+I:\Project 2013\eTicket\eTicketSol\OMS.WebClient\bin\OMS.Facade.pdb
+I:\Project 2013\eTicket\eTicketSol\OMS.WebClient\bin\OMS.Framework.pdb
+I:\Project 2013\eTicket\eTicketSol\OMS.WebClient\bin\OMS.DAL.pdb
+I:\Project 2013\eTicket\eTicketSol\OMS.WebClient\obj\Debug\ResolveAssemblyReference.cache
+I:\Project 2013\eTicket\eTicketSol\OMS.WebClient\obj\Debug\OMS.WebClient.dll
+I:\Project 2013\eTicket\eTicketSol\OMS.WebClient\obj\Debug\OMS.WebClient.pdb
+F:\eTicketSol\OMS.WebClient\bin\OMS.WebClient.dll
+F:\eTicketSol\OMS.WebClient\bin\OMS.WebClient.pdb
+F:\eTicketSol\OMS.WebClient\bin\OMS.DAL.dll
+F:\eTicketSol\OMS.WebClient\bin\OMS.Facade.dll
+F:\eTicketSol\OMS.WebClient\bin\OMS.Framework.dll
+F:\eTicketSol\OMS.WebClient\bin\OMS.Facade.pdb
+F:\eTicketSol\OMS.WebClient\bin\OMS.Framework.pdb
+F:\eTicketSol\OMS.WebClient\bin\OMS.DAL.pdb
+F:\eTicketSol\OMS.WebClient\obj\Debug\ResolveAssemblyReference.cache
+F:\eTicketSol\OMS.WebClient\obj\Debug\OMS.WebClient.dll
+F:\eTicketSol\OMS.WebClient\obj\Debug\OMS.WebClient.pdb
+F:\Zia\eticket_26-08-2013\eTicketSol\OMS.WebClient\bin\OMS.WebClient.dll
+F:\Zia\eticket_26-08-2013\eTicketSol\OMS.WebClient\bin\OMS.WebClient.pdb
+F:\Zia\eticket_26-08-2013\eTicketSol\OMS.WebClient\bin\OMS.DAL.dll
+F:\Zia\eticket_26-08-2013\eTicketSol\OMS.WebClient\bin\OMS.Facade.dll
+F:\Zia\eticket_26-08-2013\eTicketSol\OMS.WebClient\bin\OMS.Framework.dll
+F:\Zia\eticket_26-08-2013\eTicketSol\OMS.WebClient\bin\OMS.Facade.pdb
+F:\Zia\eticket_26-08-2013\eTicketSol\OMS.WebClient\bin\OMS.Framework.pdb
+F:\Zia\eticket_26-08-2013\eTicketSol\OMS.WebClient\bin\OMS.DAL.pdb
+F:\Zia\eticket_26-08-2013\eTicketSol\OMS.WebClient\obj\Debug\ResolveAssemblyReference.cache
+F:\Zia\eticket_26-08-2013\eTicketSol\OMS.WebClient\obj\Debug\OMS.WebClient.dll
+F:\Zia\eticket_26-08-2013\eTicketSol\OMS.WebClient\obj\Debug\OMS.WebClient.pdb
+F:\Zia\eticket_29-08-2013\eTicketSol\OMS.WebClient\bin\OMS.WebClient.dll
+F:\Zia\eticket_29-08-2013\eTicketSol\OMS.WebClient\bin\OMS.WebClient.pdb
+F:\Zia\eticket_29-08-2013\eTicketSol\OMS.WebClient\bin\OMS.DAL.dll
+F:\Zia\eticket_29-08-2013\eTicketSol\OMS.WebClient\bin\OMS.Facade.dll
+F:\Zia\eticket_29-08-2013\eTicketSol\OMS.WebClient\bin\OMS.Framework.dll
+F:\Zia\eticket_29-08-2013\eTicketSol\OMS.WebClient\bin\OMS.Facade.pdb
+F:\Zia\eticket_29-08-2013\eTicketSol\OMS.WebClient\bin\OMS.Framework.pdb
+F:\Zia\eticket_29-08-2013\eTicketSol\OMS.WebClient\bin\OMS.DAL.pdb
+F:\Zia\eticket_29-08-2013\eTicketSol\OMS.WebClient\obj\Debug\ResolveAssemblyReference.cache
+F:\Zia\eticket_29-08-2013\eTicketSol\OMS.WebClient\obj\Debug\OMS.WebClient.dll
+F:\Zia\eticket_29-08-2013\eTicketSol\OMS.WebClient\obj\Debug\OMS.WebClient.pdb
+F:\Zia\eticket_Sanjar\eTicketSol\OMS.WebClient\bin\OMS.WebClient.dll
+F:\Zia\eticket_Sanjar\eTicketSol\OMS.WebClient\bin\OMS.WebClient.pdb
+F:\Zia\eticket_Sanjar\eTicketSol\OMS.WebClient\bin\OMS.DAL.dll
+F:\Zia\eticket_Sanjar\eTicketSol\OMS.WebClient\bin\OMS.Facade.dll
+F:\Zia\eticket_Sanjar\eTicketSol\OMS.WebClient\bin\OMS.Framework.dll
+F:\Zia\eticket_Sanjar\eTicketSol\OMS.WebClient\bin\OMS.Facade.pdb
+F:\Zia\eticket_Sanjar\eTicketSol\OMS.WebClient\bin\OMS.Framework.pdb
+F:\Zia\eticket_Sanjar\eTicketSol\OMS.WebClient\bin\OMS.DAL.pdb
+F:\Zia\eticket_Sanjar\eTicketSol\OMS.WebClient\obj\Debug\ResolveAssemblyReference.cache
+F:\Zia\eticket_Sanjar\eTicketSol\OMS.WebClient\obj\Debug\OMS.WebClient.dll
+F:\Zia\eticket_Sanjar\eTicketSol\OMS.WebClient\obj\Debug\OMS.WebClient.pdb
+F:\Zia\eticket_Sanjar\eticket_17-09-2013\eTicketSol\OMS.WebClient\bin\OMS.WebClient.dll
+F:\Zia\eticket_Sanjar\eticket_17-09-2013\eTicketSol\OMS.WebClient\bin\OMS.WebClient.pdb
+F:\Zia\eticket_Sanjar\eticket_17-09-2013\eTicketSol\OMS.WebClient\bin\OMS.DAL.dll
+F:\Zia\eticket_Sanjar\eticket_17-09-2013\eTicketSol\OMS.WebClient\bin\OMS.Facade.dll
+F:\Zia\eticket_Sanjar\eticket_17-09-2013\eTicketSol\OMS.WebClient\bin\OMS.Framework.dll
+F:\Zia\eticket_Sanjar\eticket_17-09-2013\eTicketSol\OMS.WebClient\bin\OMS.Facade.pdb
+F:\Zia\eticket_Sanjar\eticket_17-09-2013\eTicketSol\OMS.WebClient\bin\OMS.Framework.pdb
+F:\Zia\eticket_Sanjar\eticket_17-09-2013\eTicketSol\OMS.WebClient\bin\OMS.DAL.pdb
+F:\Zia\eticket_Sanjar\eticket_17-09-2013\eTicketSol\OMS.WebClient\obj\Debug\ResolveAssemblyReference.cache
+F:\Zia\eticket_Sanjar\eticket_17-09-2013\eTicketSol\OMS.WebClient\obj\Debug\OMS.WebClient.dll
+F:\Zia\eticket_Sanjar\eticket_17-09-2013\eTicketSol\OMS.WebClient\obj\Debug\OMS.WebClient.pdb
+E:\Project 2013\eticket_30-09-2013\eTicketSol\OMS.WebClient\bin\OMS.WebClient.dll
+E:\Project 2013\eticket_30-09-2013\eTicketSol\OMS.WebClient\bin\OMS.WebClient.pdb
+E:\Project 2013\eticket_30-09-2013\eTicketSol\OMS.WebClient\bin\OMS.DAL.dll
+E:\Project 2013\eticket_30-09-2013\eTicketSol\OMS.WebClient\bin\OMS.Facade.dll
+E:\Project 2013\eticket_30-09-2013\eTicketSol\OMS.WebClient\bin\OMS.Framework.dll
+E:\Project 2013\eticket_30-09-2013\eTicketSol\OMS.WebClient\bin\OMS.Facade.pdb
+E:\Project 2013\eticket_30-09-2013\eTicketSol\OMS.WebClient\bin\OMS.Framework.pdb
+E:\Project 2013\eticket_30-09-2013\eTicketSol\OMS.WebClient\bin\OMS.DAL.pdb
+E:\Project 2013\eticket_30-09-2013\eTicketSol\OMS.WebClient\obj\Debug\ResolveAssemblyReference.cache
+E:\Project 2013\eticket_30-09-2013\eTicketSol\OMS.WebClient\obj\Debug\OMS.WebClient.dll
+E:\Project 2013\eticket_30-09-2013\eTicketSol\OMS.WebClient\obj\Debug\OMS.WebClient.pdb
+F:\Zia\eticket_Sanjar\eticket_23-10-2013\eTicketSol\OMS.WebClient\bin\OMS.WebClient.dll
+F:\Zia\eticket_Sanjar\eticket_23-10-2013\eTicketSol\OMS.WebClient\bin\OMS.WebClient.pdb
+F:\Zia\eticket_Sanjar\eticket_23-10-2013\eTicketSol\OMS.WebClient\bin\OMS.DAL.dll
+F:\Zia\eticket_Sanjar\eticket_23-10-2013\eTicketSol\OMS.WebClient\bin\OMS.Facade.dll
+F:\Zia\eticket_Sanjar\eticket_23-10-2013\eTicketSol\OMS.WebClient\bin\OMS.Framework.dll
+F:\Zia\eticket_Sanjar\eticket_23-10-2013\eTicketSol\OMS.WebClient\bin\OMS.Facade.pdb
+F:\Zia\eticket_Sanjar\eticket_23-10-2013\eTicketSol\OMS.WebClient\bin\OMS.Framework.pdb
+F:\Zia\eticket_Sanjar\eticket_23-10-2013\eTicketSol\OMS.WebClient\bin\OMS.DAL.pdb
+F:\Zia\eticket_Sanjar\eticket_23-10-2013\eTicketSol\OMS.WebClient\obj\Debug\ResolveAssemblyReference.cache
+F:\Zia\eticket_Sanjar\eticket_23-10-2013\eTicketSol\OMS.WebClient\obj\Debug\OMS.WebClient.dll
+F:\Zia\eticket_Sanjar\eticket_23-10-2013\eTicketSol\OMS.WebClient\obj\Debug\OMS.WebClient.pdb
+E:\Project 2013\eTicket_27-10-2013\eticketSol\OMS.WebClient\bin\OMS.WebClient.dll
+E:\Project 2013\eTicket_27-10-2013\eticketSol\OMS.WebClient\bin\OMS.WebClient.pdb
+E:\Project 2013\eTicket_27-10-2013\eticketSol\OMS.WebClient\bin\OMS.DAL.dll
+E:\Project 2013\eTicket_27-10-2013\eticketSol\OMS.WebClient\bin\OMS.Facade.dll
+E:\Project 2013\eTicket_27-10-2013\eticketSol\OMS.WebClient\bin\OMS.Framework.dll
+E:\Project 2013\eTicket_27-10-2013\eticketSol\OMS.WebClient\bin\OMS.Facade.pdb
+E:\Project 2013\eTicket_27-10-2013\eticketSol\OMS.WebClient\bin\OMS.Framework.pdb
+E:\Project 2013\eTicket_27-10-2013\eticketSol\OMS.WebClient\bin\OMS.DAL.pdb
+E:\Project 2013\eTicket_27-10-2013\eticketSol\OMS.WebClient\obj\Debug\ResolveAssemblyReference.cache
+E:\Project 2013\eTicket_27-10-2013\eticketSol\OMS.WebClient\obj\Debug\OMS.WebClient.dll
+E:\Project 2013\eTicket_27-10-2013\eticketSol\OMS.WebClient\obj\Debug\OMS.WebClient.pdb
+F:\Project 2014\ETicket\eticketSol\OMS.WebClient\bin\OMS.WebClient.dll
+F:\Project 2014\ETicket\eticketSol\OMS.WebClient\bin\OMS.WebClient.pdb
+F:\Project 2014\ETicket\eticketSol\OMS.WebClient\bin\OMS.DAL.dll
+F:\Project 2014\ETicket\eticketSol\OMS.WebClient\bin\OMS.Facade.dll
+F:\Project 2014\ETicket\eticketSol\OMS.WebClient\bin\OMS.Framework.dll
+F:\Project 2014\ETicket\eticketSol\OMS.WebClient\bin\OMS.Facade.pdb
+F:\Project 2014\ETicket\eticketSol\OMS.WebClient\bin\OMS.Framework.pdb
+F:\Project 2014\ETicket\eticketSol\OMS.WebClient\bin\OMS.DAL.pdb
+F:\Project 2014\ETicket\eticketSol\OMS.WebClient\obj\Debug\ResolveAssemblyReference.cache
+F:\Project 2014\ETicket\eticketSol\OMS.WebClient\obj\Debug\OMS.WebClient.dll
+F:\Project 2014\ETicket\eticketSol\OMS.WebClient\obj\Debug\OMS.WebClient.pdb
+F:\Project 2014\eHishab_babu\OMS.WebClient\bin\OMS.WebClient.dll
+F:\Project 2014\eHishab_babu\OMS.WebClient\bin\OMS.WebClient.pdb
+F:\Project 2014\eHishab_babu\OMS.WebClient\bin\OMS.DAL.dll
+F:\Project 2014\eHishab_babu\OMS.WebClient\bin\OMS.Facade.dll
+F:\Project 2014\eHishab_babu\OMS.WebClient\bin\OMS.Framework.dll
+F:\Project 2014\eHishab_babu\OMS.WebClient\bin\OMS.Facade.pdb
+F:\Project 2014\eHishab_babu\OMS.WebClient\bin\OMS.Framework.pdb
+F:\Project 2014\eHishab_babu\OMS.WebClient\bin\OMS.DAL.pdb
+F:\Project 2014\eHishab_babu\OMS.WebClient\obj\Debug\ResolveAssemblyReference.cache
+F:\Project 2014\eHishab_babu\OMS.WebClient\obj\Debug\OMS.WebClient.dll
+F:\Project 2014\eHishab_babu\OMS.WebClient\obj\Debug\OMS.WebClient.pdb
+F:\Project 2016\AGS Accounts\eHishab_babu\OMS.WebClient\bin\OMS.WebClient.dll
+F:\Project 2016\AGS Accounts\eHishab_babu\OMS.WebClient\bin\OMS.WebClient.pdb
+F:\Project 2016\AGS Accounts\eHishab_babu\OMS.WebClient\bin\OMS.DAL.dll
+F:\Project 2016\AGS Accounts\eHishab_babu\OMS.WebClient\bin\OMS.Facade.dll
+F:\Project 2016\AGS Accounts\eHishab_babu\OMS.WebClient\bin\OMS.Framework.dll
+F:\Project 2016\AGS Accounts\eHishab_babu\OMS.WebClient\bin\OMS.Facade.pdb
+F:\Project 2016\AGS Accounts\eHishab_babu\OMS.WebClient\bin\OMS.Framework.pdb
+F:\Project 2016\AGS Accounts\eHishab_babu\OMS.WebClient\bin\OMS.DAL.pdb
+F:\Project 2016\AGS Accounts\eHishab_babu\OMS.WebClient\obj\Debug\ResolveAssemblyReference.cache
+F:\Project 2016\AGS Accounts\eHishab_babu\OMS.WebClient\obj\Debug\OMS.WebClient.dll
+F:\Project 2016\AGS Accounts\eHishab_babu\OMS.WebClient\obj\Debug\OMS.WebClient.pdb
+F:\Project 2016\AGS Accounts\eHishab_AGS\OMS.WebClient\bin\OMS.WebClient.dll
+F:\Project 2016\AGS Accounts\eHishab_AGS\OMS.WebClient\bin\OMS.WebClient.pdb
+F:\Project 2016\AGS Accounts\eHishab_AGS\OMS.WebClient\bin\OMS.DAL.dll
+F:\Project 2016\AGS Accounts\eHishab_AGS\OMS.WebClient\bin\OMS.Facade.dll
+F:\Project 2016\AGS Accounts\eHishab_AGS\OMS.WebClient\bin\OMS.Framework.dll
+F:\Project 2016\AGS Accounts\eHishab_AGS\OMS.WebClient\bin\OMS.Facade.pdb
+F:\Project 2016\AGS Accounts\eHishab_AGS\OMS.WebClient\bin\OMS.Framework.pdb
+F:\Project 2016\AGS Accounts\eHishab_AGS\OMS.WebClient\bin\OMS.DAL.pdb
+F:\Project 2016\AGS Accounts\eHishab_AGS\OMS.WebClient\obj\Debug\ResolveAssemblyReference.cache
+F:\Project 2016\AGS Accounts\eHishab_AGS\OMS.WebClient\obj\Debug\OMS.WebClient.dll
+F:\Project 2016\AGS Accounts\eHishab_AGS\OMS.WebClient\obj\Debug\OMS.WebClient.pdb
+D:\Project 2016\AGS Int\eHishab_AGS\OMS.WebClient\bin\OMS.WebClient.dll
+D:\Project 2016\AGS Int\eHishab_AGS\OMS.WebClient\bin\OMS.WebClient.pdb
+D:\Project 2016\AGS Int\eHishab_AGS\OMS.WebClient\bin\OMS.DAL.dll
+D:\Project 2016\AGS Int\eHishab_AGS\OMS.WebClient\bin\OMS.Facade.dll
+D:\Project 2016\AGS Int\eHishab_AGS\OMS.WebClient\bin\OMS.Framework.dll
+D:\Project 2016\AGS Int\eHishab_AGS\OMS.WebClient\bin\OMS.Facade.pdb
+D:\Project 2016\AGS Int\eHishab_AGS\OMS.WebClient\bin\OMS.Framework.pdb
+D:\Project 2016\AGS Int\eHishab_AGS\OMS.WebClient\bin\OMS.DAL.pdb
+D:\Project 2016\AGS Int\eHishab_AGS\OMS.WebClient\obj\Debug\ResolveAssemblyReference.cache
+D:\Project 2016\AGS Int\eHishab_AGS\OMS.WebClient\obj\Debug\OMS.WebClient.dll
+D:\Project 2016\AGS Int\eHishab_AGS\OMS.WebClient\obj\Debug\OMS.WebClient.pdb
+F:\Project 2016\eHishab_Demo\OMS.WebClient\bin\OMS.WebClient.dll
+F:\Project 2016\eHishab_Demo\OMS.WebClient\bin\OMS.WebClient.pdb
+F:\Project 2016\eHishab_Demo\OMS.WebClient\bin\OMS.DAL.dll
+F:\Project 2016\eHishab_Demo\OMS.WebClient\bin\OMS.Facade.dll
+F:\Project 2016\eHishab_Demo\OMS.WebClient\bin\OMS.Framework.dll
+F:\Project 2016\eHishab_Demo\OMS.WebClient\bin\OMS.Facade.pdb
+F:\Project 2016\eHishab_Demo\OMS.WebClient\bin\OMS.Framework.pdb
+F:\Project 2016\eHishab_Demo\OMS.WebClient\bin\OMS.DAL.pdb
+F:\Project 2016\eHishab_Demo\OMS.WebClient\obj\Debug\ResolveAssemblyReference.cache
+F:\Project 2016\eHishab_Demo\OMS.WebClient\obj\Debug\OMS.WebClient.dll
+F:\Project 2016\eHishab_Demo\OMS.WebClient\obj\Debug\OMS.WebClient.pdb
+F:\Project 2016\PrimetechAccounts\OMS.WebClient\bin\OMS.WebClient.dll
+F:\Project 2016\PrimetechAccounts\OMS.WebClient\bin\OMS.WebClient.pdb
+F:\Project 2016\PrimetechAccounts\OMS.WebClient\bin\OMS.DAL.dll
+F:\Project 2016\PrimetechAccounts\OMS.WebClient\bin\OMS.Facade.dll
+F:\Project 2016\PrimetechAccounts\OMS.WebClient\bin\OMS.Framework.dll
+F:\Project 2016\PrimetechAccounts\OMS.WebClient\bin\OMS.Facade.pdb
+F:\Project 2016\PrimetechAccounts\OMS.WebClient\bin\OMS.Framework.pdb
+F:\Project 2016\PrimetechAccounts\OMS.WebClient\bin\OMS.DAL.pdb
+F:\Project 2016\PrimetechAccounts\OMS.WebClient\obj\Debug\ResolveAssemblyReference.cache
+F:\Project 2016\PrimetechAccounts\OMS.WebClient\obj\Debug\OMS.WebClient.dll
+F:\Project 2016\PrimetechAccounts\OMS.WebClient\obj\Debug\OMS.WebClient.pdb
+E:\Software\LOCAL SERVER\PrimetechAccounts\OMS.WebClient\obj\Debug\OMS.WebClient.csprojResolveAssemblyReference.cache
+E:\Software\LOCAL SERVER\PrimetechAccounts\OMS.WebClient\bin\OMS.WebClient.dll
+E:\Software\LOCAL SERVER\PrimetechAccounts\OMS.WebClient\bin\OMS.WebClient.pdb
+E:\Software\LOCAL SERVER\PrimetechAccounts\OMS.WebClient\bin\crystaldecisions.crystalreports.engine.dll
+E:\Software\LOCAL SERVER\PrimetechAccounts\OMS.WebClient\bin\CrystalDecisions.Enterprise.Framework.dll
+E:\Software\LOCAL SERVER\PrimetechAccounts\OMS.WebClient\bin\CrystalDecisions.Enterprise.InfoStore.dll
+E:\Software\LOCAL SERVER\PrimetechAccounts\OMS.WebClient\bin\crystaldecisions.reportsource.dll
+E:\Software\LOCAL SERVER\PrimetechAccounts\OMS.WebClient\bin\crystaldecisions.shared.dll
+E:\Software\LOCAL SERVER\PrimetechAccounts\OMS.WebClient\bin\crystaldecisions.web.dll
+E:\Software\LOCAL SERVER\PrimetechAccounts\OMS.WebClient\bin\OMS.DAL.dll
+E:\Software\LOCAL SERVER\PrimetechAccounts\OMS.WebClient\bin\OMS.Facade.dll
+E:\Software\LOCAL SERVER\PrimetechAccounts\OMS.WebClient\bin\OMS.Framework.dll
+E:\Software\LOCAL SERVER\PrimetechAccounts\OMS.WebClient\bin\OMS.DAL.pdb
+E:\Software\LOCAL SERVER\PrimetechAccounts\OMS.WebClient\bin\OMS.Facade.pdb
+E:\Software\LOCAL SERVER\PrimetechAccounts\OMS.WebClient\bin\OMS.Framework.pdb
+E:\Software\LOCAL SERVER\PrimetechAccounts\OMS.WebClient\obj\Debug\OMS.WebClient.dll
+E:\Software\LOCAL SERVER\PrimetechAccounts\OMS.WebClient\obj\Debug\OMS.WebClient.pdb
+F:\SHUVO\PrimetechAccounts\PrimetechAccounts\OMS.WebClient\obj\Debug\OMS.WebClient.csprojResolveAssemblyReference.cache
+F:\SHUVO\PrimetechAccounts\PrimetechAccounts\OMS.WebClient\bin\OMS.WebClient.dll.config
+F:\SHUVO\PrimetechAccounts\PrimetechAccounts\OMS.WebClient\bin\OMS.WebClient.dll
+F:\SHUVO\PrimetechAccounts\PrimetechAccounts\OMS.WebClient\bin\OMS.WebClient.pdb
+F:\SHUVO\PrimetechAccounts\PrimetechAccounts\OMS.WebClient\bin\crystaldecisions.crystalreports.engine.dll
+F:\SHUVO\PrimetechAccounts\PrimetechAccounts\OMS.WebClient\bin\crystaldecisions.reportsource.dll
+F:\SHUVO\PrimetechAccounts\PrimetechAccounts\OMS.WebClient\bin\crystaldecisions.shared.dll
+F:\SHUVO\PrimetechAccounts\PrimetechAccounts\OMS.WebClient\bin\crystaldecisions.web.dll
+F:\SHUVO\PrimetechAccounts\PrimetechAccounts\OMS.WebClient\bin\Google.Maps.dll
+F:\SHUVO\PrimetechAccounts\PrimetechAccounts\OMS.WebClient\bin\Newtonsoft.Json.dll
+F:\SHUVO\PrimetechAccounts\PrimetechAccounts\OMS.WebClient\bin\OMS.DAL.dll
+F:\SHUVO\PrimetechAccounts\PrimetechAccounts\OMS.WebClient\bin\OMS.Facade.dll
+F:\SHUVO\PrimetechAccounts\PrimetechAccounts\OMS.WebClient\bin\OMS.Framework.dll
+F:\SHUVO\PrimetechAccounts\PrimetechAccounts\OMS.WebClient\bin\stdole.dll
+F:\SHUVO\PrimetechAccounts\PrimetechAccounts\OMS.WebClient\bin\OMS.DAL.pdb
+F:\SHUVO\PrimetechAccounts\PrimetechAccounts\OMS.WebClient\bin\OMS.Facade.pdb
+F:\SHUVO\PrimetechAccounts\PrimetechAccounts\OMS.WebClient\bin\OMS.Framework.pdb
+F:\SHUVO\PrimetechAccounts\PrimetechAccounts\OMS.WebClient\bin\Google.Maps.pdb
+F:\SHUVO\PrimetechAccounts\PrimetechAccounts\OMS.WebClient\bin\Newtonsoft.Json.xml
+F:\SHUVO\PrimetechAccounts\PrimetechAccounts\OMS.WebClient\obj\Debug\OMS.WebClient.dll
+F:\SHUVO\PrimetechAccounts\PrimetechAccounts\OMS.WebClient\obj\Debug\OMS.WebClient.pdb
+F:\SHUVO\PrimetechAccounts\PrimetechAccounts\OMS.WebClient\bin\crystaldecisions.crystalreports.engine.xml
+F:\SHUVO\PrimetechAccounts\PrimetechAccounts\OMS.WebClient\bin\crystaldecisions.reportsource.xml
+F:\SHUVO\PrimetechAccounts\PrimetechAccounts\OMS.WebClient\bin\crystaldecisions.shared.xml
+F:\SHUVO\PrimetechAccounts\PrimetechAccounts\OMS.WebClient\bin\crystaldecisions.web.xml
+F:\SHUVO\BAPA\PrimetechAccounts 14-06-2016\OMS.WebClient\obj\Debug\OMS.WebClient.csprojResolveAssemblyReference.cache
+F:\SHUVO\BAPA\PrimetechAccounts 14-06-2016\OMS.WebClient\obj\Debug\OMS.WebClient.dll
+F:\SHUVO\BAPA\PrimetechAccounts 14-06-2016\OMS.WebClient\obj\Debug\OMS.WebClient.pdb
+F:\SHUVO\BAPA\PrimetechAccounts 14-06-2016\OMS.WebClient\bin\OMS.WebClient.dll.config
+F:\SHUVO\BAPA\PrimetechAccounts 14-06-2016\OMS.WebClient\bin\OMS.WebClient.dll
+F:\SHUVO\BAPA\PrimetechAccounts 14-06-2016\OMS.WebClient\bin\OMS.WebClient.pdb
+F:\SHUVO\BAPA\PrimetechAccounts 14-06-2016\OMS.WebClient\bin\crystaldecisions.crystalreports.engine.dll
+F:\SHUVO\BAPA\PrimetechAccounts 14-06-2016\OMS.WebClient\bin\crystaldecisions.reportsource.dll
+F:\SHUVO\BAPA\PrimetechAccounts 14-06-2016\OMS.WebClient\bin\crystaldecisions.shared.dll
+F:\SHUVO\BAPA\PrimetechAccounts 14-06-2016\OMS.WebClient\bin\crystaldecisions.web.dll
+F:\SHUVO\BAPA\PrimetechAccounts 14-06-2016\OMS.WebClient\bin\Google.Maps.dll
+F:\SHUVO\BAPA\PrimetechAccounts 14-06-2016\OMS.WebClient\bin\Newtonsoft.Json.dll
+F:\SHUVO\BAPA\PrimetechAccounts 14-06-2016\OMS.WebClient\bin\OMS.DAL.dll
+F:\SHUVO\BAPA\PrimetechAccounts 14-06-2016\OMS.WebClient\bin\OMS.Facade.dll
+F:\SHUVO\BAPA\PrimetechAccounts 14-06-2016\OMS.WebClient\bin\OMS.Framework.dll
+F:\SHUVO\BAPA\PrimetechAccounts 14-06-2016\OMS.WebClient\bin\stdole.dll
+F:\SHUVO\BAPA\PrimetechAccounts 14-06-2016\OMS.WebClient\bin\OMS.DAL.pdb
+F:\SHUVO\BAPA\PrimetechAccounts 14-06-2016\OMS.WebClient\bin\OMS.Facade.pdb
+F:\SHUVO\BAPA\PrimetechAccounts 14-06-2016\OMS.WebClient\bin\OMS.Framework.pdb
+F:\SHUVO\BAPA\PrimetechAccounts 14-06-2016\OMS.WebClient\bin\crystaldecisions.crystalreports.engine.xml
+F:\SHUVO\BAPA\PrimetechAccounts 14-06-2016\OMS.WebClient\bin\crystaldecisions.reportsource.xml
+F:\SHUVO\BAPA\PrimetechAccounts 14-06-2016\OMS.WebClient\bin\crystaldecisions.shared.xml
+F:\SHUVO\BAPA\PrimetechAccounts 14-06-2016\OMS.WebClient\bin\crystaldecisions.web.xml
+F:\SHUVO\BAPA\PrimetechAccounts 14-06-2016\OMS.WebClient\bin\Google.Maps.pdb
+F:\SHUVO\BAPA\PrimetechAccounts 14-06-2016\OMS.WebClient\bin\Newtonsoft.Json.xml
+C:\Users\SHUVO\Desktop\BAPA\PrimetechAccounts 16-06-2016\PrimetechAccounts 14-06-2016\OMS.WebClient\bin\OMS.WebClient.dll
+C:\Users\SHUVO\Desktop\BAPA\PrimetechAccounts 16-06-2016\PrimetechAccounts 14-06-2016\OMS.WebClient\bin\OMS.WebClient.pdb
+C:\Users\SHUVO\Desktop\BAPA\PrimetechAccounts 16-06-2016\PrimetechAccounts 14-06-2016\OMS.WebClient\bin\Google.Maps.dll
+C:\Users\SHUVO\Desktop\BAPA\PrimetechAccounts 16-06-2016\PrimetechAccounts 14-06-2016\OMS.WebClient\bin\Newtonsoft.Json.dll
+C:\Users\SHUVO\Desktop\BAPA\PrimetechAccounts 16-06-2016\PrimetechAccounts 14-06-2016\OMS.WebClient\bin\OMS.DAL.dll
+C:\Users\SHUVO\Desktop\BAPA\PrimetechAccounts 16-06-2016\PrimetechAccounts 14-06-2016\OMS.WebClient\bin\OMS.Facade.dll
+C:\Users\SHUVO\Desktop\BAPA\PrimetechAccounts 16-06-2016\PrimetechAccounts 14-06-2016\OMS.WebClient\bin\OMS.Framework.dll
+C:\Users\SHUVO\Desktop\BAPA\PrimetechAccounts 16-06-2016\PrimetechAccounts 14-06-2016\OMS.WebClient\bin\OMS.DAL.pdb
+C:\Users\SHUVO\Desktop\BAPA\PrimetechAccounts 16-06-2016\PrimetechAccounts 14-06-2016\OMS.WebClient\bin\OMS.Facade.pdb
+C:\Users\SHUVO\Desktop\BAPA\PrimetechAccounts 16-06-2016\PrimetechAccounts 14-06-2016\OMS.WebClient\bin\OMS.Framework.pdb
+C:\Users\SHUVO\Desktop\BAPA\PrimetechAccounts 16-06-2016\PrimetechAccounts 14-06-2016\OMS.WebClient\bin\crystaldecisions.crystalreports.engine.xml
+C:\Users\SHUVO\Desktop\BAPA\PrimetechAccounts 16-06-2016\PrimetechAccounts 14-06-2016\OMS.WebClient\bin\crystaldecisions.reportsource.xml
+C:\Users\SHUVO\Desktop\BAPA\PrimetechAccounts 16-06-2016\PrimetechAccounts 14-06-2016\OMS.WebClient\bin\crystaldecisions.shared.xml
+C:\Users\SHUVO\Desktop\BAPA\PrimetechAccounts 16-06-2016\PrimetechAccounts 14-06-2016\OMS.WebClient\bin\crystaldecisions.web.xml
+C:\Users\SHUVO\Desktop\BAPA\PrimetechAccounts 16-06-2016\PrimetechAccounts 14-06-2016\OMS.WebClient\bin\Google.Maps.pdb
+C:\Users\SHUVO\Desktop\BAPA\PrimetechAccounts 16-06-2016\PrimetechAccounts 14-06-2016\OMS.WebClient\bin\Newtonsoft.Json.xml
+C:\Users\SHUVO\Desktop\BAPA\PrimetechAccounts 16-06-2016\PrimetechAccounts 14-06-2016\OMS.WebClient\obj\Debug\OMS.WebClient.csprojResolveAssemblyReference.cache
+C:\Users\SHUVO\Desktop\BAPA\PrimetechAccounts 16-06-2016\PrimetechAccounts 14-06-2016\OMS.WebClient\obj\Debug\OMS.WebClient.dll
+C:\Users\SHUVO\Desktop\BAPA\PrimetechAccounts 16-06-2016\PrimetechAccounts 14-06-2016\OMS.WebClient\obj\Debug\OMS.WebClient.pdb
+C:\Users\SHUVO\Desktop\BAPA\PrimetechAccounts 16-06-2016\PrimetechAccounts 14-06-2016\OMS.WebClient\bin\OMS.WebClient.dll.config
+D:\Shovo\PrimetechAccounts 18-06-2016 Night\PrimetechAccounts 14-06-2016\OMS.WebClient\bin\OMS.WebClient.dll.config
+D:\Shovo\PrimetechAccounts 18-06-2016 Night\PrimetechAccounts 14-06-2016\OMS.WebClient\bin\OMS.WebClient.dll
+D:\Shovo\PrimetechAccounts 18-06-2016 Night\PrimetechAccounts 14-06-2016\OMS.WebClient\bin\OMS.WebClient.pdb
+D:\Shovo\PrimetechAccounts 18-06-2016 Night\PrimetechAccounts 14-06-2016\OMS.WebClient\bin\Google.Maps.dll
+D:\Shovo\PrimetechAccounts 18-06-2016 Night\PrimetechAccounts 14-06-2016\OMS.WebClient\bin\Newtonsoft.Json.dll
+D:\Shovo\PrimetechAccounts 18-06-2016 Night\PrimetechAccounts 14-06-2016\OMS.WebClient\bin\OMS.DAL.dll
+D:\Shovo\PrimetechAccounts 18-06-2016 Night\PrimetechAccounts 14-06-2016\OMS.WebClient\bin\OMS.Facade.dll
+D:\Shovo\PrimetechAccounts 18-06-2016 Night\PrimetechAccounts 14-06-2016\OMS.WebClient\bin\OMS.Framework.dll
+D:\Shovo\PrimetechAccounts 18-06-2016 Night\PrimetechAccounts 14-06-2016\OMS.WebClient\bin\OMS.DAL.pdb
+D:\Shovo\PrimetechAccounts 18-06-2016 Night\PrimetechAccounts 14-06-2016\OMS.WebClient\bin\OMS.Facade.pdb
+D:\Shovo\PrimetechAccounts 18-06-2016 Night\PrimetechAccounts 14-06-2016\OMS.WebClient\bin\OMS.Framework.pdb
+D:\Shovo\PrimetechAccounts 18-06-2016 Night\PrimetechAccounts 14-06-2016\OMS.WebClient\bin\Google.Maps.pdb
+D:\Shovo\PrimetechAccounts 18-06-2016 Night\PrimetechAccounts 14-06-2016\OMS.WebClient\bin\Newtonsoft.Json.xml
+D:\Shovo\PrimetechAccounts 18-06-2016 Night\PrimetechAccounts 14-06-2016\OMS.WebClient\obj\Debug\OMS.WebClient.csprojResolveAssemblyReference.cache
+D:\Shovo\PrimetechAccounts 18-06-2016 Night\PrimetechAccounts 14-06-2016\OMS.WebClient\obj\Debug\OMS.WebClient.dll
+D:\Shovo\PrimetechAccounts 18-06-2016 Night\PrimetechAccounts 14-06-2016\OMS.WebClient\obj\Debug\OMS.WebClient.pdb
+D:\BAPA\PrimetechAccounts18-06-2016\OMS.WebClient\bin\OMS.WebClient.dll.config
+D:\BAPA\PrimetechAccounts18-06-2016\OMS.WebClient\bin\OMS.WebClient.dll
+D:\BAPA\PrimetechAccounts18-06-2016\OMS.WebClient\bin\OMS.WebClient.pdb
+D:\BAPA\PrimetechAccounts18-06-2016\OMS.WebClient\bin\Google.Maps.dll
+D:\BAPA\PrimetechAccounts18-06-2016\OMS.WebClient\bin\Newtonsoft.Json.dll
+D:\BAPA\PrimetechAccounts18-06-2016\OMS.WebClient\bin\OMS.DAL.dll
+D:\BAPA\PrimetechAccounts18-06-2016\OMS.WebClient\bin\OMS.Facade.dll
+D:\BAPA\PrimetechAccounts18-06-2016\OMS.WebClient\bin\OMS.Framework.dll
+D:\BAPA\PrimetechAccounts18-06-2016\OMS.WebClient\bin\OMS.DAL.pdb
+D:\BAPA\PrimetechAccounts18-06-2016\OMS.WebClient\bin\OMS.Facade.pdb
+D:\BAPA\PrimetechAccounts18-06-2016\OMS.WebClient\bin\OMS.Framework.pdb
+D:\BAPA\PrimetechAccounts18-06-2016\OMS.WebClient\bin\crystaldecisions.crystalreports.engine.xml
+D:\BAPA\PrimetechAccounts18-06-2016\OMS.WebClient\bin\crystaldecisions.reportsource.xml
+D:\BAPA\PrimetechAccounts18-06-2016\OMS.WebClient\bin\crystaldecisions.shared.xml
+D:\BAPA\PrimetechAccounts18-06-2016\OMS.WebClient\bin\crystaldecisions.web.xml
+D:\BAPA\PrimetechAccounts18-06-2016\OMS.WebClient\bin\Google.Maps.pdb
+D:\BAPA\PrimetechAccounts18-06-2016\OMS.WebClient\bin\Newtonsoft.Json.xml
+D:\BAPA\PrimetechAccounts18-06-2016\OMS.WebClient\obj\Debug\OMS.WebClient.csprojResolveAssemblyReference.cache
+D:\BAPA\PrimetechAccounts18-06-2016\OMS.WebClient\obj\Debug\OMS.WebClient.dll
+D:\BAPA\PrimetechAccounts18-06-2016\OMS.WebClient\obj\Debug\OMS.WebClient.pdb
+F:\SHUVO\BAPA\PrimetechAccounts19-06-2016\PrimetechAccounts18-06-2016\OMS.WebClient\bin\OMS.WebClient.dll.config
+F:\SHUVO\BAPA\PrimetechAccounts19-06-2016\PrimetechAccounts18-06-2016\OMS.WebClient\bin\OMS.WebClient.dll
+F:\SHUVO\BAPA\PrimetechAccounts19-06-2016\PrimetechAccounts18-06-2016\OMS.WebClient\bin\OMS.WebClient.pdb
+F:\SHUVO\BAPA\PrimetechAccounts19-06-2016\PrimetechAccounts18-06-2016\OMS.WebClient\bin\crystaldecisions.crystalreports.engine.dll
+F:\SHUVO\BAPA\PrimetechAccounts19-06-2016\PrimetechAccounts18-06-2016\OMS.WebClient\bin\crystaldecisions.reportsource.dll
+F:\SHUVO\BAPA\PrimetechAccounts19-06-2016\PrimetechAccounts18-06-2016\OMS.WebClient\bin\crystaldecisions.shared.dll
+F:\SHUVO\BAPA\PrimetechAccounts19-06-2016\PrimetechAccounts18-06-2016\OMS.WebClient\bin\crystaldecisions.web.dll
+F:\SHUVO\BAPA\PrimetechAccounts19-06-2016\PrimetechAccounts18-06-2016\OMS.WebClient\bin\Google.Maps.dll
+F:\SHUVO\BAPA\PrimetechAccounts19-06-2016\PrimetechAccounts18-06-2016\OMS.WebClient\bin\Newtonsoft.Json.dll
+F:\SHUVO\BAPA\PrimetechAccounts19-06-2016\PrimetechAccounts18-06-2016\OMS.WebClient\bin\OMS.DAL.dll
+F:\SHUVO\BAPA\PrimetechAccounts19-06-2016\PrimetechAccounts18-06-2016\OMS.WebClient\bin\OMS.Facade.dll
+F:\SHUVO\BAPA\PrimetechAccounts19-06-2016\PrimetechAccounts18-06-2016\OMS.WebClient\bin\OMS.Framework.dll
+F:\SHUVO\BAPA\PrimetechAccounts19-06-2016\PrimetechAccounts18-06-2016\OMS.WebClient\bin\stdole.dll
+F:\SHUVO\BAPA\PrimetechAccounts19-06-2016\PrimetechAccounts18-06-2016\OMS.WebClient\bin\OMS.DAL.pdb
+F:\SHUVO\BAPA\PrimetechAccounts19-06-2016\PrimetechAccounts18-06-2016\OMS.WebClient\bin\OMS.Facade.pdb
+F:\SHUVO\BAPA\PrimetechAccounts19-06-2016\PrimetechAccounts18-06-2016\OMS.WebClient\bin\OMS.Framework.pdb
+F:\SHUVO\BAPA\PrimetechAccounts19-06-2016\PrimetechAccounts18-06-2016\OMS.WebClient\bin\crystaldecisions.crystalreports.engine.xml
+F:\SHUVO\BAPA\PrimetechAccounts19-06-2016\PrimetechAccounts18-06-2016\OMS.WebClient\bin\crystaldecisions.reportsource.xml
+F:\SHUVO\BAPA\PrimetechAccounts19-06-2016\PrimetechAccounts18-06-2016\OMS.WebClient\bin\crystaldecisions.shared.xml
+F:\SHUVO\BAPA\PrimetechAccounts19-06-2016\PrimetechAccounts18-06-2016\OMS.WebClient\bin\crystaldecisions.web.xml
+F:\SHUVO\BAPA\PrimetechAccounts19-06-2016\PrimetechAccounts18-06-2016\OMS.WebClient\bin\Google.Maps.pdb
+F:\SHUVO\BAPA\PrimetechAccounts19-06-2016\PrimetechAccounts18-06-2016\OMS.WebClient\bin\Newtonsoft.Json.xml
+F:\SHUVO\BAPA\PrimetechAccounts19-06-2016\PrimetechAccounts18-06-2016\OMS.WebClient\obj\Debug\OMS.WebClient.dll
+F:\SHUVO\BAPA\PrimetechAccounts19-06-2016\PrimetechAccounts18-06-2016\OMS.WebClient\obj\Debug\OMS.WebClient.pdb
+F:\SHUVO\BAPA\PrimetechAccounts19-06-2016\PrimetechAccounts18-06-2016\OMS.WebClient\obj\Debug\OMS.WebClient.csprojResolveAssemblyReference.cache
+F:\SHUVO\BAPA\PrimetechAccounts1-07-2016\OMS.WebClient\bin\OMS.WebClient.dll.config
+F:\SHUVO\BAPA\PrimetechAccounts1-07-2016\OMS.WebClient\bin\OMS.WebClient.dll
+F:\SHUVO\BAPA\PrimetechAccounts1-07-2016\OMS.WebClient\bin\OMS.WebClient.pdb
+F:\SHUVO\BAPA\PrimetechAccounts1-07-2016\OMS.WebClient\bin\crystaldecisions.crystalreports.engine.dll
+F:\SHUVO\BAPA\PrimetechAccounts1-07-2016\OMS.WebClient\bin\crystaldecisions.reportsource.dll
+F:\SHUVO\BAPA\PrimetechAccounts1-07-2016\OMS.WebClient\bin\crystaldecisions.shared.dll
+F:\SHUVO\BAPA\PrimetechAccounts1-07-2016\OMS.WebClient\bin\crystaldecisions.web.dll
+F:\SHUVO\BAPA\PrimetechAccounts1-07-2016\OMS.WebClient\bin\Google.Maps.dll
+F:\SHUVO\BAPA\PrimetechAccounts1-07-2016\OMS.WebClient\bin\Newtonsoft.Json.dll
+F:\SHUVO\BAPA\PrimetechAccounts1-07-2016\OMS.WebClient\bin\OMS.DAL.dll
+F:\SHUVO\BAPA\PrimetechAccounts1-07-2016\OMS.WebClient\bin\OMS.Facade.dll
+F:\SHUVO\BAPA\PrimetechAccounts1-07-2016\OMS.WebClient\bin\OMS.Framework.dll
+F:\SHUVO\BAPA\PrimetechAccounts1-07-2016\OMS.WebClient\bin\stdole.dll
+F:\SHUVO\BAPA\PrimetechAccounts1-07-2016\OMS.WebClient\bin\OMS.DAL.pdb
+F:\SHUVO\BAPA\PrimetechAccounts1-07-2016\OMS.WebClient\bin\OMS.Facade.pdb
+F:\SHUVO\BAPA\PrimetechAccounts1-07-2016\OMS.WebClient\bin\OMS.Framework.pdb
+F:\SHUVO\BAPA\PrimetechAccounts1-07-2016\OMS.WebClient\bin\crystaldecisions.crystalreports.engine.xml
+F:\SHUVO\BAPA\PrimetechAccounts1-07-2016\OMS.WebClient\bin\crystaldecisions.reportsource.xml
+F:\SHUVO\BAPA\PrimetechAccounts1-07-2016\OMS.WebClient\bin\crystaldecisions.shared.xml
+F:\SHUVO\BAPA\PrimetechAccounts1-07-2016\OMS.WebClient\bin\crystaldecisions.web.xml
+F:\SHUVO\BAPA\PrimetechAccounts1-07-2016\OMS.WebClient\bin\Google.Maps.pdb
+F:\SHUVO\BAPA\PrimetechAccounts1-07-2016\OMS.WebClient\bin\Newtonsoft.Json.xml
+F:\SHUVO\BAPA\PrimetechAccounts1-07-2016\OMS.WebClient\obj\Debug\OMS.WebClient.csprojResolveAssemblyReference.cache
+F:\SHUVO\BAPA\PrimetechAccounts1-07-2016\OMS.WebClient\obj\Debug\OMS.WebClient.dll
+F:\SHUVO\BAPA\PrimetechAccounts1-07-2016\OMS.WebClient\obj\Debug\OMS.WebClient.pdb
+D:\working\BAPA\PrimetechAccounts17-07-2016 (1)\OMS.WebClient\bin\OMS.WebClient.dll.config
+D:\working\BAPA\PrimetechAccounts17-07-2016 (1)\OMS.WebClient\bin\OMS.WebClient.dll
+D:\working\BAPA\PrimetechAccounts17-07-2016 (1)\OMS.WebClient\bin\OMS.WebClient.pdb
+D:\working\BAPA\PrimetechAccounts17-07-2016 (1)\OMS.WebClient\bin\Google.Maps.dll
+D:\working\BAPA\PrimetechAccounts17-07-2016 (1)\OMS.WebClient\bin\Newtonsoft.Json.dll
+D:\working\BAPA\PrimetechAccounts17-07-2016 (1)\OMS.WebClient\bin\OMS.DAL.dll
+D:\working\BAPA\PrimetechAccounts17-07-2016 (1)\OMS.WebClient\bin\OMS.Facade.dll
+D:\working\BAPA\PrimetechAccounts17-07-2016 (1)\OMS.WebClient\bin\OMS.Framework.dll
+D:\working\BAPA\PrimetechAccounts17-07-2016 (1)\OMS.WebClient\bin\OMS.DAL.pdb
+D:\working\BAPA\PrimetechAccounts17-07-2016 (1)\OMS.WebClient\bin\OMS.Facade.pdb
+D:\working\BAPA\PrimetechAccounts17-07-2016 (1)\OMS.WebClient\bin\OMS.Framework.pdb
+D:\working\BAPA\PrimetechAccounts17-07-2016 (1)\OMS.WebClient\bin\Google.Maps.pdb
+D:\working\BAPA\PrimetechAccounts17-07-2016 (1)\OMS.WebClient\bin\Newtonsoft.Json.xml
+D:\working\BAPA\PrimetechAccounts17-07-2016 (1)\OMS.WebClient\obj\Debug\OMS.WebClient.csprojResolveAssemblyReference.cache
+D:\working\BAPA\PrimetechAccounts17-07-2016 (1)\OMS.WebClient\obj\Debug\OMS.WebClient.dll
+D:\working\BAPA\PrimetechAccounts17-07-2016 (1)\OMS.WebClient\obj\Debug\OMS.WebClient.pdb
+F:\SHUVO\BAPA\PrimetechAccounts-8-08-2016 (1)\PrimetechAccounts17-07-2016 (1)\OMS.WebClient\bin\OMS.WebClient.dll.config
+F:\SHUVO\BAPA\PrimetechAccounts-8-08-2016 (1)\PrimetechAccounts17-07-2016 (1)\OMS.WebClient\bin\OMS.WebClient.dll
+F:\SHUVO\BAPA\PrimetechAccounts-8-08-2016 (1)\PrimetechAccounts17-07-2016 (1)\OMS.WebClient\bin\OMS.WebClient.pdb
+F:\SHUVO\BAPA\PrimetechAccounts-8-08-2016 (1)\PrimetechAccounts17-07-2016 (1)\OMS.WebClient\bin\crystaldecisions.crystalreports.engine.dll
+F:\SHUVO\BAPA\PrimetechAccounts-8-08-2016 (1)\PrimetechAccounts17-07-2016 (1)\OMS.WebClient\bin\crystaldecisions.reportsource.dll
+F:\SHUVO\BAPA\PrimetechAccounts-8-08-2016 (1)\PrimetechAccounts17-07-2016 (1)\OMS.WebClient\bin\crystaldecisions.shared.dll
+F:\SHUVO\BAPA\PrimetechAccounts-8-08-2016 (1)\PrimetechAccounts17-07-2016 (1)\OMS.WebClient\bin\crystaldecisions.web.dll
+F:\SHUVO\BAPA\PrimetechAccounts-8-08-2016 (1)\PrimetechAccounts17-07-2016 (1)\OMS.WebClient\bin\Google.Maps.dll
+F:\SHUVO\BAPA\PrimetechAccounts-8-08-2016 (1)\PrimetechAccounts17-07-2016 (1)\OMS.WebClient\bin\Newtonsoft.Json.dll
+F:\SHUVO\BAPA\PrimetechAccounts-8-08-2016 (1)\PrimetechAccounts17-07-2016 (1)\OMS.WebClient\bin\OMS.DAL.dll
+F:\SHUVO\BAPA\PrimetechAccounts-8-08-2016 (1)\PrimetechAccounts17-07-2016 (1)\OMS.WebClient\bin\OMS.Facade.dll
+F:\SHUVO\BAPA\PrimetechAccounts-8-08-2016 (1)\PrimetechAccounts17-07-2016 (1)\OMS.WebClient\bin\OMS.Framework.dll
+F:\SHUVO\BAPA\PrimetechAccounts-8-08-2016 (1)\PrimetechAccounts17-07-2016 (1)\OMS.WebClient\bin\stdole.dll
+F:\SHUVO\BAPA\PrimetechAccounts-8-08-2016 (1)\PrimetechAccounts17-07-2016 (1)\OMS.WebClient\bin\OMS.DAL.pdb
+F:\SHUVO\BAPA\PrimetechAccounts-8-08-2016 (1)\PrimetechAccounts17-07-2016 (1)\OMS.WebClient\bin\OMS.Facade.pdb
+F:\SHUVO\BAPA\PrimetechAccounts-8-08-2016 (1)\PrimetechAccounts17-07-2016 (1)\OMS.WebClient\bin\OMS.Framework.pdb
+F:\SHUVO\BAPA\PrimetechAccounts-8-08-2016 (1)\PrimetechAccounts17-07-2016 (1)\OMS.WebClient\bin\crystaldecisions.crystalreports.engine.xml
+F:\SHUVO\BAPA\PrimetechAccounts-8-08-2016 (1)\PrimetechAccounts17-07-2016 (1)\OMS.WebClient\bin\crystaldecisions.reportsource.xml
+F:\SHUVO\BAPA\PrimetechAccounts-8-08-2016 (1)\PrimetechAccounts17-07-2016 (1)\OMS.WebClient\bin\crystaldecisions.shared.xml
+F:\SHUVO\BAPA\PrimetechAccounts-8-08-2016 (1)\PrimetechAccounts17-07-2016 (1)\OMS.WebClient\bin\crystaldecisions.web.xml
+F:\SHUVO\BAPA\PrimetechAccounts-8-08-2016 (1)\PrimetechAccounts17-07-2016 (1)\OMS.WebClient\bin\Google.Maps.pdb
+F:\SHUVO\BAPA\PrimetechAccounts-8-08-2016 (1)\PrimetechAccounts17-07-2016 (1)\OMS.WebClient\bin\Newtonsoft.Json.xml
+F:\SHUVO\BAPA\PrimetechAccounts-8-08-2016 (1)\PrimetechAccounts17-07-2016 (1)\OMS.WebClient\obj\Debug\OMS.WebClient.csprojResolveAssemblyReference.cache
+F:\SHUVO\BAPA\PrimetechAccounts-8-08-2016 (1)\PrimetechAccounts17-07-2016 (1)\OMS.WebClient\obj\Debug\OMS.WebClient.dll
+F:\SHUVO\BAPA\PrimetechAccounts-8-08-2016 (1)\PrimetechAccounts17-07-2016 (1)\OMS.WebClient\obj\Debug\OMS.WebClient.pdb
+D:\working\BAPA\PrimetechAccounts-11-08-2016\OMS.WebClient\bin\OMS.WebClient.dll.config
+D:\working\BAPA\PrimetechAccounts-11-08-2016\OMS.WebClient\bin\OMS.WebClient.dll
+D:\working\BAPA\PrimetechAccounts-11-08-2016\OMS.WebClient\bin\OMS.WebClient.pdb
+D:\working\BAPA\PrimetechAccounts-11-08-2016\OMS.WebClient\bin\Google.Maps.dll
+D:\working\BAPA\PrimetechAccounts-11-08-2016\OMS.WebClient\bin\Newtonsoft.Json.dll
+D:\working\BAPA\PrimetechAccounts-11-08-2016\OMS.WebClient\bin\OMS.DAL.dll
+D:\working\BAPA\PrimetechAccounts-11-08-2016\OMS.WebClient\bin\OMS.Facade.dll
+D:\working\BAPA\PrimetechAccounts-11-08-2016\OMS.WebClient\bin\OMS.Framework.dll
+D:\working\BAPA\PrimetechAccounts-11-08-2016\OMS.WebClient\bin\OMS.DAL.pdb
+D:\working\BAPA\PrimetechAccounts-11-08-2016\OMS.WebClient\bin\OMS.Facade.pdb
+D:\working\BAPA\PrimetechAccounts-11-08-2016\OMS.WebClient\bin\OMS.Framework.pdb
+D:\working\BAPA\PrimetechAccounts-11-08-2016\OMS.WebClient\bin\Google.Maps.pdb
+D:\working\BAPA\PrimetechAccounts-11-08-2016\OMS.WebClient\bin\Newtonsoft.Json.xml
+D:\working\BAPA\PrimetechAccounts-11-08-2016\OMS.WebClient\obj\Debug\OMS.WebClient.csprojResolveAssemblyReference.cache
+D:\working\BAPA\PrimetechAccounts-11-08-2016\OMS.WebClient\obj\Debug\OMS.WebClient.dll
+D:\working\BAPA\PrimetechAccounts-11-08-2016\OMS.WebClient\obj\Debug\OMS.WebClient.pdb
+D:\Projects\Incentive-14-08-2016\OMS.WebClient\bin\OMS.WebClient.dll.config
+D:\Projects\Incentive-14-08-2016\OMS.WebClient\bin\OMS.WebClient.dll
+D:\Projects\Incentive-14-08-2016\OMS.WebClient\bin\OMS.WebClient.pdb
+D:\Projects\Incentive-14-08-2016\OMS.WebClient\bin\Google.Maps.dll
+D:\Projects\Incentive-14-08-2016\OMS.WebClient\bin\Newtonsoft.Json.dll
+D:\Projects\Incentive-14-08-2016\OMS.WebClient\bin\OMS.DAL.dll
+D:\Projects\Incentive-14-08-2016\OMS.WebClient\bin\OMS.Facade.dll
+D:\Projects\Incentive-14-08-2016\OMS.WebClient\bin\OMS.Framework.dll
+D:\Projects\Incentive-14-08-2016\OMS.WebClient\bin\OMS.DAL.pdb
+D:\Projects\Incentive-14-08-2016\OMS.WebClient\bin\OMS.Facade.pdb
+D:\Projects\Incentive-14-08-2016\OMS.WebClient\bin\OMS.Framework.pdb
+D:\Projects\Incentive-14-08-2016\OMS.WebClient\bin\crystaldecisions.crystalreports.engine.xml
+D:\Projects\Incentive-14-08-2016\OMS.WebClient\bin\crystaldecisions.reportsource.xml
+D:\Projects\Incentive-14-08-2016\OMS.WebClient\bin\crystaldecisions.shared.xml
+D:\Projects\Incentive-14-08-2016\OMS.WebClient\bin\crystaldecisions.web.xml
+D:\Projects\Incentive-14-08-2016\OMS.WebClient\bin\Google.Maps.pdb
+D:\Projects\Incentive-14-08-2016\OMS.WebClient\bin\Newtonsoft.Json.xml
+D:\Projects\Incentive-14-08-2016\OMS.WebClient\obj\Debug\OMS.WebClient.csprojResolveAssemblyReference.cache
+D:\Projects\Incentive-14-08-2016\OMS.WebClient\obj\Debug\OMS.WebClient.dll
+D:\Projects\Incentive-14-08-2016\OMS.WebClient\obj\Debug\OMS.WebClient.pdb
+D:\working\BAPA\Incentive-15-08-2016\OMS.WebClient\bin\OMS.WebClient.dll.config
+D:\working\BAPA\Incentive-15-08-2016\OMS.WebClient\bin\OMS.WebClient.dll
+D:\working\BAPA\Incentive-15-08-2016\OMS.WebClient\bin\OMS.WebClient.pdb
+D:\working\BAPA\Incentive-15-08-2016\OMS.WebClient\bin\Google.Maps.dll
+D:\working\BAPA\Incentive-15-08-2016\OMS.WebClient\bin\Newtonsoft.Json.dll
+D:\working\BAPA\Incentive-15-08-2016\OMS.WebClient\bin\OMS.DAL.dll
+D:\working\BAPA\Incentive-15-08-2016\OMS.WebClient\bin\OMS.Facade.dll
+D:\working\BAPA\Incentive-15-08-2016\OMS.WebClient\bin\OMS.Framework.dll
+D:\working\BAPA\Incentive-15-08-2016\OMS.WebClient\bin\OMS.DAL.pdb
+D:\working\BAPA\Incentive-15-08-2016\OMS.WebClient\bin\OMS.Facade.pdb
+D:\working\BAPA\Incentive-15-08-2016\OMS.WebClient\bin\OMS.Framework.pdb
+D:\working\BAPA\Incentive-15-08-2016\OMS.WebClient\bin\Google.Maps.pdb
+D:\working\BAPA\Incentive-15-08-2016\OMS.WebClient\bin\Newtonsoft.Json.xml
+D:\working\BAPA\Incentive-15-08-2016\OMS.WebClient\obj\Debug\OMS.WebClient.csprojResolveAssemblyReference.cache
+D:\working\BAPA\Incentive-15-08-2016\OMS.WebClient\obj\Debug\OMS.WebClient.dll
+D:\working\BAPA\Incentive-15-08-2016\OMS.WebClient\obj\Debug\OMS.WebClient.pdb
+F:\SHUVO\BAPA\Incentive-Update-15-08-2016\OMS.WebClient\bin\OMS.WebClient.dll.config
+F:\SHUVO\BAPA\Incentive-Update-15-08-2016\OMS.WebClient\bin\OMS.WebClient.dll
+F:\SHUVO\BAPA\Incentive-Update-15-08-2016\OMS.WebClient\bin\OMS.WebClient.pdb
+F:\SHUVO\BAPA\Incentive-Update-15-08-2016\OMS.WebClient\bin\crystaldecisions.crystalreports.engine.dll
+F:\SHUVO\BAPA\Incentive-Update-15-08-2016\OMS.WebClient\bin\crystaldecisions.reportsource.dll
+F:\SHUVO\BAPA\Incentive-Update-15-08-2016\OMS.WebClient\bin\crystaldecisions.shared.dll
+F:\SHUVO\BAPA\Incentive-Update-15-08-2016\OMS.WebClient\bin\crystaldecisions.web.dll
+F:\SHUVO\BAPA\Incentive-Update-15-08-2016\OMS.WebClient\bin\Google.Maps.dll
+F:\SHUVO\BAPA\Incentive-Update-15-08-2016\OMS.WebClient\bin\Newtonsoft.Json.dll
+F:\SHUVO\BAPA\Incentive-Update-15-08-2016\OMS.WebClient\bin\OMS.DAL.dll
+F:\SHUVO\BAPA\Incentive-Update-15-08-2016\OMS.WebClient\bin\OMS.Facade.dll
+F:\SHUVO\BAPA\Incentive-Update-15-08-2016\OMS.WebClient\bin\OMS.Framework.dll
+F:\SHUVO\BAPA\Incentive-Update-15-08-2016\OMS.WebClient\bin\stdole.dll
+F:\SHUVO\BAPA\Incentive-Update-15-08-2016\OMS.WebClient\bin\OMS.DAL.pdb
+F:\SHUVO\BAPA\Incentive-Update-15-08-2016\OMS.WebClient\bin\OMS.Facade.pdb
+F:\SHUVO\BAPA\Incentive-Update-15-08-2016\OMS.WebClient\bin\OMS.Framework.pdb
+F:\SHUVO\BAPA\Incentive-Update-15-08-2016\OMS.WebClient\bin\crystaldecisions.crystalreports.engine.xml
+F:\SHUVO\BAPA\Incentive-Update-15-08-2016\OMS.WebClient\bin\crystaldecisions.reportsource.xml
+F:\SHUVO\BAPA\Incentive-Update-15-08-2016\OMS.WebClient\bin\crystaldecisions.shared.xml
+F:\SHUVO\BAPA\Incentive-Update-15-08-2016\OMS.WebClient\bin\crystaldecisions.web.xml
+F:\SHUVO\BAPA\Incentive-Update-15-08-2016\OMS.WebClient\bin\Google.Maps.pdb
+F:\SHUVO\BAPA\Incentive-Update-15-08-2016\OMS.WebClient\bin\Newtonsoft.Json.xml
+F:\SHUVO\BAPA\Incentive-Update-15-08-2016\OMS.WebClient\obj\Debug\OMS.WebClient.csprojResolveAssemblyReference.cache
+F:\SHUVO\BAPA\Incentive-Update-15-08-2016\OMS.WebClient\obj\Debug\OMS.WebClient.dll
+F:\SHUVO\BAPA\Incentive-Update-15-08-2016\OMS.WebClient\obj\Debug\OMS.WebClient.pdb
+D:\BAPA\Incentive-Update-17-08-2016\OMS.WebClient\bin\OMS.WebClient.dll.config
+D:\BAPA\Incentive-Update-17-08-2016\OMS.WebClient\bin\OMS.WebClient.dll
+D:\BAPA\Incentive-Update-17-08-2016\OMS.WebClient\bin\OMS.WebClient.pdb
+D:\BAPA\Incentive-Update-17-08-2016\OMS.WebClient\bin\Google.Maps.dll
+D:\BAPA\Incentive-Update-17-08-2016\OMS.WebClient\bin\Newtonsoft.Json.dll
+D:\BAPA\Incentive-Update-17-08-2016\OMS.WebClient\bin\OMS.DAL.dll
+D:\BAPA\Incentive-Update-17-08-2016\OMS.WebClient\bin\OMS.Facade.dll
+D:\BAPA\Incentive-Update-17-08-2016\OMS.WebClient\bin\OMS.Framework.dll
+D:\BAPA\Incentive-Update-17-08-2016\OMS.WebClient\bin\OMS.DAL.pdb
+D:\BAPA\Incentive-Update-17-08-2016\OMS.WebClient\bin\OMS.Facade.pdb
+D:\BAPA\Incentive-Update-17-08-2016\OMS.WebClient\bin\OMS.Framework.pdb
+D:\BAPA\Incentive-Update-17-08-2016\OMS.WebClient\bin\crystaldecisions.crystalreports.engine.xml
+D:\BAPA\Incentive-Update-17-08-2016\OMS.WebClient\bin\crystaldecisions.reportsource.xml
+D:\BAPA\Incentive-Update-17-08-2016\OMS.WebClient\bin\crystaldecisions.shared.xml
+D:\BAPA\Incentive-Update-17-08-2016\OMS.WebClient\bin\crystaldecisions.web.xml
+D:\BAPA\Incentive-Update-17-08-2016\OMS.WebClient\bin\Google.Maps.pdb
+D:\BAPA\Incentive-Update-17-08-2016\OMS.WebClient\bin\Newtonsoft.Json.xml
+D:\BAPA\Incentive-Update-17-08-2016\OMS.WebClient\obj\Debug\OMS.WebClient.csprojResolveAssemblyReference.cache
+D:\BAPA\Incentive-Update-17-08-2016\OMS.WebClient\obj\Debug\OMS.WebClient.dll
+D:\BAPA\Incentive-Update-17-08-2016\OMS.WebClient\obj\Debug\OMS.WebClient.pdb
+F:\SHUVO\BAPA\Incentive-18-08-2016\OMS.WebClient\bin\OMS.WebClient.dll.config
+F:\SHUVO\BAPA\Incentive-18-08-2016\OMS.WebClient\bin\OMS.WebClient.dll
+F:\SHUVO\BAPA\Incentive-18-08-2016\OMS.WebClient\bin\OMS.WebClient.pdb
+F:\SHUVO\BAPA\Incentive-18-08-2016\OMS.WebClient\bin\crystaldecisions.crystalreports.engine.dll
+F:\SHUVO\BAPA\Incentive-18-08-2016\OMS.WebClient\bin\crystaldecisions.reportsource.dll
+F:\SHUVO\BAPA\Incentive-18-08-2016\OMS.WebClient\bin\crystaldecisions.shared.dll
+F:\SHUVO\BAPA\Incentive-18-08-2016\OMS.WebClient\bin\crystaldecisions.web.dll
+F:\SHUVO\BAPA\Incentive-18-08-2016\OMS.WebClient\bin\Google.Maps.dll
+F:\SHUVO\BAPA\Incentive-18-08-2016\OMS.WebClient\bin\Newtonsoft.Json.dll
+F:\SHUVO\BAPA\Incentive-18-08-2016\OMS.WebClient\bin\OMS.DAL.dll
+F:\SHUVO\BAPA\Incentive-18-08-2016\OMS.WebClient\bin\OMS.Facade.dll
+F:\SHUVO\BAPA\Incentive-18-08-2016\OMS.WebClient\bin\OMS.Framework.dll
+F:\SHUVO\BAPA\Incentive-18-08-2016\OMS.WebClient\bin\stdole.dll
+F:\SHUVO\BAPA\Incentive-18-08-2016\OMS.WebClient\bin\OMS.DAL.pdb
+F:\SHUVO\BAPA\Incentive-18-08-2016\OMS.WebClient\bin\OMS.Facade.pdb
+F:\SHUVO\BAPA\Incentive-18-08-2016\OMS.WebClient\bin\OMS.Framework.pdb
+F:\SHUVO\BAPA\Incentive-18-08-2016\OMS.WebClient\bin\crystaldecisions.crystalreports.engine.xml
+F:\SHUVO\BAPA\Incentive-18-08-2016\OMS.WebClient\bin\crystaldecisions.reportsource.xml
+F:\SHUVO\BAPA\Incentive-18-08-2016\OMS.WebClient\bin\crystaldecisions.shared.xml
+F:\SHUVO\BAPA\Incentive-18-08-2016\OMS.WebClient\bin\crystaldecisions.web.xml
+F:\SHUVO\BAPA\Incentive-18-08-2016\OMS.WebClient\bin\Google.Maps.pdb
+F:\SHUVO\BAPA\Incentive-18-08-2016\OMS.WebClient\bin\Newtonsoft.Json.xml
+F:\SHUVO\BAPA\Incentive-18-08-2016\OMS.WebClient\obj\Debug\OMS.WebClient.csprojResolveAssemblyReference.cache
+F:\SHUVO\BAPA\Incentive-18-08-2016\OMS.WebClient\obj\Debug\OMS.WebClient.dll
+F:\SHUVO\BAPA\Incentive-18-08-2016\OMS.WebClient\obj\Debug\OMS.WebClient.pdb
+D:\working\BAPA\Incentive-22-08-2016\OMS.WebClient\bin\OMS.WebClient.dll.config
+D:\working\BAPA\Incentive-22-08-2016\OMS.WebClient\bin\OMS.WebClient.dll
+D:\working\BAPA\Incentive-22-08-2016\OMS.WebClient\bin\OMS.WebClient.pdb
+D:\working\BAPA\Incentive-22-08-2016\OMS.WebClient\bin\Google.Maps.dll
+D:\working\BAPA\Incentive-22-08-2016\OMS.WebClient\bin\Newtonsoft.Json.dll
+D:\working\BAPA\Incentive-22-08-2016\OMS.WebClient\bin\OMS.DAL.dll
+D:\working\BAPA\Incentive-22-08-2016\OMS.WebClient\bin\OMS.Facade.dll
+D:\working\BAPA\Incentive-22-08-2016\OMS.WebClient\bin\OMS.Framework.dll
+D:\working\BAPA\Incentive-22-08-2016\OMS.WebClient\bin\OMS.DAL.pdb
+D:\working\BAPA\Incentive-22-08-2016\OMS.WebClient\bin\OMS.Facade.pdb
+D:\working\BAPA\Incentive-22-08-2016\OMS.WebClient\bin\OMS.Framework.pdb
+D:\working\BAPA\Incentive-22-08-2016\OMS.WebClient\bin\Google.Maps.pdb
+D:\working\BAPA\Incentive-22-08-2016\OMS.WebClient\bin\Newtonsoft.Json.xml
+D:\working\BAPA\Incentive-22-08-2016\OMS.WebClient\obj\Debug\OMS.WebClient.csprojResolveAssemblyReference.cache
+D:\working\BAPA\Incentive-22-08-2016\OMS.WebClient\obj\Debug\OMS.WebClient.dll
+D:\working\BAPA\Incentive-22-08-2016\OMS.WebClient\obj\Debug\OMS.WebClient.pdb
+D:\BAPA\Incentive-7-10-2016_new\Incentive-22-08-2016\OMS.WebClient\bin\OMS.WebClient.dll.config
+D:\BAPA\Incentive-7-10-2016_new\Incentive-22-08-2016\OMS.WebClient\bin\OMS.WebClient.dll
+D:\BAPA\Incentive-7-10-2016_new\Incentive-22-08-2016\OMS.WebClient\bin\OMS.WebClient.pdb
+D:\BAPA\Incentive-7-10-2016_new\Incentive-22-08-2016\OMS.WebClient\bin\Google.Maps.dll
+D:\BAPA\Incentive-7-10-2016_new\Incentive-22-08-2016\OMS.WebClient\bin\Newtonsoft.Json.dll
+D:\BAPA\Incentive-7-10-2016_new\Incentive-22-08-2016\OMS.WebClient\bin\OMS.DAL.dll
+D:\BAPA\Incentive-7-10-2016_new\Incentive-22-08-2016\OMS.WebClient\bin\OMS.Facade.dll
+D:\BAPA\Incentive-7-10-2016_new\Incentive-22-08-2016\OMS.WebClient\bin\OMS.Framework.dll
+D:\BAPA\Incentive-7-10-2016_new\Incentive-22-08-2016\OMS.WebClient\bin\OMS.DAL.pdb
+D:\BAPA\Incentive-7-10-2016_new\Incentive-22-08-2016\OMS.WebClient\bin\OMS.Facade.pdb
+D:\BAPA\Incentive-7-10-2016_new\Incentive-22-08-2016\OMS.WebClient\bin\OMS.Framework.pdb
+D:\BAPA\Incentive-7-10-2016_new\Incentive-22-08-2016\OMS.WebClient\bin\crystaldecisions.crystalreports.engine.xml
+D:\BAPA\Incentive-7-10-2016_new\Incentive-22-08-2016\OMS.WebClient\bin\crystaldecisions.reportsource.xml
+D:\BAPA\Incentive-7-10-2016_new\Incentive-22-08-2016\OMS.WebClient\bin\crystaldecisions.shared.xml
+D:\BAPA\Incentive-7-10-2016_new\Incentive-22-08-2016\OMS.WebClient\bin\crystaldecisions.web.xml
+D:\BAPA\Incentive-7-10-2016_new\Incentive-22-08-2016\OMS.WebClient\bin\Google.Maps.pdb
+D:\BAPA\Incentive-7-10-2016_new\Incentive-22-08-2016\OMS.WebClient\bin\Newtonsoft.Json.xml
+D:\BAPA\Incentive-7-10-2016_new\Incentive-22-08-2016\OMS.WebClient\obj\Debug\OMS.WebClient.csprojResolveAssemblyReference.cache
+D:\BAPA\Incentive-7-10-2016_new\Incentive-22-08-2016\OMS.WebClient\obj\Debug\OMS.WebClient.dll
+D:\BAPA\Incentive-7-10-2016_new\Incentive-22-08-2016\OMS.WebClient\obj\Debug\OMS.WebClient.pdb
+D:\working\BAPA\Incentive-7-10-2016\OMS.WebClient\bin\OMS.WebClient.dll.config
+D:\working\BAPA\Incentive-7-10-2016\OMS.WebClient\bin\OMS.WebClient.dll
+D:\working\BAPA\Incentive-7-10-2016\OMS.WebClient\bin\OMS.WebClient.pdb
+D:\working\BAPA\Incentive-7-10-2016\OMS.WebClient\bin\Google.Maps.dll
+D:\working\BAPA\Incentive-7-10-2016\OMS.WebClient\bin\Newtonsoft.Json.dll
+D:\working\BAPA\Incentive-7-10-2016\OMS.WebClient\bin\OMS.DAL.dll
+D:\working\BAPA\Incentive-7-10-2016\OMS.WebClient\bin\OMS.Facade.dll
+D:\working\BAPA\Incentive-7-10-2016\OMS.WebClient\bin\OMS.Framework.dll
+D:\working\BAPA\Incentive-7-10-2016\OMS.WebClient\bin\OMS.DAL.pdb
+D:\working\BAPA\Incentive-7-10-2016\OMS.WebClient\bin\OMS.Facade.pdb
+D:\working\BAPA\Incentive-7-10-2016\OMS.WebClient\bin\OMS.Framework.pdb
+D:\working\BAPA\Incentive-7-10-2016\OMS.WebClient\bin\Google.Maps.pdb
+D:\working\BAPA\Incentive-7-10-2016\OMS.WebClient\bin\Newtonsoft.Json.xml
+D:\working\BAPA\Incentive-7-10-2016\OMS.WebClient\obj\Debug\OMS.WebClient.csprojResolveAssemblyReference.cache
+D:\working\BAPA\Incentive-7-10-2016\OMS.WebClient\obj\Debug\OMS.WebClient.dll
+D:\working\BAPA\Incentive-7-10-2016\OMS.WebClient\obj\Debug\OMS.WebClient.pdb
+F:\WorkingDir\RubelVhai\BAPA\Incentive-7-10-2016\OMS.WebClient\bin\OMS.WebClient.dll.config
+F:\WorkingDir\RubelVhai\BAPA\Incentive-7-10-2016\OMS.WebClient\bin\OMS.WebClient.dll
+F:\WorkingDir\RubelVhai\BAPA\Incentive-7-10-2016\OMS.WebClient\bin\OMS.WebClient.pdb
+F:\WorkingDir\RubelVhai\BAPA\Incentive-7-10-2016\OMS.WebClient\bin\crystaldecisions.crystalreports.engine.dll
+F:\WorkingDir\RubelVhai\BAPA\Incentive-7-10-2016\OMS.WebClient\bin\crystaldecisions.reportsource.dll
+F:\WorkingDir\RubelVhai\BAPA\Incentive-7-10-2016\OMS.WebClient\bin\crystaldecisions.shared.dll
+F:\WorkingDir\RubelVhai\BAPA\Incentive-7-10-2016\OMS.WebClient\bin\crystaldecisions.web.dll
+F:\WorkingDir\RubelVhai\BAPA\Incentive-7-10-2016\OMS.WebClient\bin\Google.Maps.dll
+F:\WorkingDir\RubelVhai\BAPA\Incentive-7-10-2016\OMS.WebClient\bin\Newtonsoft.Json.dll
+F:\WorkingDir\RubelVhai\BAPA\Incentive-7-10-2016\OMS.WebClient\bin\OMS.DAL.dll
+F:\WorkingDir\RubelVhai\BAPA\Incentive-7-10-2016\OMS.WebClient\bin\OMS.Facade.dll
+F:\WorkingDir\RubelVhai\BAPA\Incentive-7-10-2016\OMS.WebClient\bin\OMS.Framework.dll
+F:\WorkingDir\RubelVhai\BAPA\Incentive-7-10-2016\OMS.WebClient\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\WorkingDir\RubelVhai\BAPA\Incentive-7-10-2016\OMS.WebClient\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\WorkingDir\RubelVhai\BAPA\Incentive-7-10-2016\OMS.WebClient\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\WorkingDir\RubelVhai\BAPA\Incentive-7-10-2016\OMS.WebClient\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\WorkingDir\RubelVhai\BAPA\Incentive-7-10-2016\OMS.WebClient\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\WorkingDir\RubelVhai\BAPA\Incentive-7-10-2016\OMS.WebClient\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\WorkingDir\RubelVhai\BAPA\Incentive-7-10-2016\OMS.WebClient\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\WorkingDir\RubelVhai\BAPA\Incentive-7-10-2016\OMS.WebClient\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\WorkingDir\RubelVhai\BAPA\Incentive-7-10-2016\OMS.WebClient\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\WorkingDir\RubelVhai\BAPA\Incentive-7-10-2016\OMS.WebClient\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\WorkingDir\RubelVhai\BAPA\Incentive-7-10-2016\OMS.WebClient\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\WorkingDir\RubelVhai\BAPA\Incentive-7-10-2016\OMS.WebClient\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\WorkingDir\RubelVhai\BAPA\Incentive-7-10-2016\OMS.WebClient\bin\stdole.dll
+F:\WorkingDir\RubelVhai\BAPA\Incentive-7-10-2016\OMS.WebClient\bin\OMS.DAL.pdb
+F:\WorkingDir\RubelVhai\BAPA\Incentive-7-10-2016\OMS.WebClient\bin\OMS.Facade.pdb
+F:\WorkingDir\RubelVhai\BAPA\Incentive-7-10-2016\OMS.WebClient\bin\OMS.Framework.pdb
+F:\WorkingDir\RubelVhai\BAPA\Incentive-7-10-2016\OMS.WebClient\bin\Google.Maps.pdb
+F:\WorkingDir\RubelVhai\BAPA\Incentive-7-10-2016\OMS.WebClient\bin\Newtonsoft.Json.xml
+F:\WorkingDir\RubelVhai\BAPA\Incentive-7-10-2016\OMS.WebClient\obj\Debug\OMS.WebClient.csprojResolveAssemblyReference.cache
+F:\WorkingDir\RubelVhai\BAPA\Incentive-7-10-2016\OMS.WebClient\obj\Debug\OMS.WebClient.dll
+F:\WorkingDir\RubelVhai\BAPA\Incentive-7-10-2016\OMS.WebClient\obj\Debug\OMS.WebClient.pdb
+D:\BAPA\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.WebClient\bin\OMS.WebClient.dll.config
+D:\BAPA\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.WebClient\bin\OMS.WebClient.dll
+D:\BAPA\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.WebClient\bin\OMS.WebClient.pdb
+D:\BAPA\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.WebClient\bin\Google.Maps.dll
+D:\BAPA\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.WebClient\bin\Newtonsoft.Json.dll
+D:\BAPA\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.WebClient\bin\OMS.DAL.dll
+D:\BAPA\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.WebClient\bin\OMS.Facade.dll
+D:\BAPA\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.WebClient\bin\OMS.Framework.dll
+D:\BAPA\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.WebClient\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\BAPA\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.WebClient\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\BAPA\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.WebClient\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\BAPA\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.WebClient\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\BAPA\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.WebClient\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\BAPA\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.WebClient\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\BAPA\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.WebClient\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\BAPA\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.WebClient\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\BAPA\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.WebClient\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\BAPA\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.WebClient\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\BAPA\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.WebClient\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\BAPA\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.WebClient\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\BAPA\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.WebClient\bin\stdole.dll
+D:\BAPA\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.WebClient\bin\OMS.DAL.pdb
+D:\BAPA\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.WebClient\bin\OMS.Facade.pdb
+D:\BAPA\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.WebClient\bin\OMS.Framework.pdb
+D:\BAPA\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.WebClient\bin\crystaldecisions.crystalreports.engine.xml
+D:\BAPA\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.WebClient\bin\crystaldecisions.reportsource.xml
+D:\BAPA\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.WebClient\bin\crystaldecisions.shared.xml
+D:\BAPA\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.WebClient\bin\crystaldecisions.web.xml
+D:\BAPA\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.WebClient\bin\Google.Maps.pdb
+D:\BAPA\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.WebClient\bin\Newtonsoft.Json.xml
+D:\BAPA\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.WebClient\obj\Debug\OMS.WebClient.csprojResolveAssemblyReference.cache
+D:\BAPA\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.WebClient\obj\Debug\OMS.WebClient.dll
+D:\BAPA\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.WebClient\obj\Debug\OMS.WebClient.pdb
+F:\WorkingDir\RubelVhai\BAPA_25\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.WebClient\bin\OMS.WebClient.dll.config
+F:\WorkingDir\RubelVhai\BAPA_25\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.WebClient\bin\OMS.WebClient.dll
+F:\WorkingDir\RubelVhai\BAPA_25\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.WebClient\bin\OMS.WebClient.pdb
+F:\WorkingDir\RubelVhai\BAPA_25\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.WebClient\bin\crystaldecisions.crystalreports.engine.dll
+F:\WorkingDir\RubelVhai\BAPA_25\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.WebClient\bin\crystaldecisions.reportsource.dll
+F:\WorkingDir\RubelVhai\BAPA_25\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.WebClient\bin\crystaldecisions.shared.dll
+F:\WorkingDir\RubelVhai\BAPA_25\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.WebClient\bin\crystaldecisions.web.dll
+F:\WorkingDir\RubelVhai\BAPA_25\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.WebClient\bin\Google.Maps.dll
+F:\WorkingDir\RubelVhai\BAPA_25\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.WebClient\bin\Newtonsoft.Json.dll
+F:\WorkingDir\RubelVhai\BAPA_25\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.WebClient\bin\OMS.DAL.dll
+F:\WorkingDir\RubelVhai\BAPA_25\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.WebClient\bin\OMS.Facade.dll
+F:\WorkingDir\RubelVhai\BAPA_25\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.WebClient\bin\OMS.Framework.dll
+F:\WorkingDir\RubelVhai\BAPA_25\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.WebClient\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\WorkingDir\RubelVhai\BAPA_25\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.WebClient\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\WorkingDir\RubelVhai\BAPA_25\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.WebClient\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\WorkingDir\RubelVhai\BAPA_25\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.WebClient\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\WorkingDir\RubelVhai\BAPA_25\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.WebClient\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\WorkingDir\RubelVhai\BAPA_25\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.WebClient\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\WorkingDir\RubelVhai\BAPA_25\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.WebClient\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\WorkingDir\RubelVhai\BAPA_25\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.WebClient\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\WorkingDir\RubelVhai\BAPA_25\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.WebClient\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\WorkingDir\RubelVhai\BAPA_25\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.WebClient\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\WorkingDir\RubelVhai\BAPA_25\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.WebClient\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\WorkingDir\RubelVhai\BAPA_25\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.WebClient\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\WorkingDir\RubelVhai\BAPA_25\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.WebClient\bin\stdole.dll
+F:\WorkingDir\RubelVhai\BAPA_25\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.WebClient\bin\OMS.DAL.pdb
+F:\WorkingDir\RubelVhai\BAPA_25\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.WebClient\bin\OMS.Facade.pdb
+F:\WorkingDir\RubelVhai\BAPA_25\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.WebClient\bin\OMS.Framework.pdb
+F:\WorkingDir\RubelVhai\BAPA_25\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.WebClient\bin\Google.Maps.pdb
+F:\WorkingDir\RubelVhai\BAPA_25\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.WebClient\bin\Newtonsoft.Json.xml
+F:\WorkingDir\RubelVhai\BAPA_25\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.WebClient\obj\Debug\OMS.WebClient.csprojResolveAssemblyReference.cache
+F:\WorkingDir\RubelVhai\BAPA_25\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.WebClient\obj\Debug\OMS.WebClient.dll
+F:\WorkingDir\RubelVhai\BAPA_25\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.WebClient\obj\Debug\OMS.WebClient.pdb
+F:\WorkingDir\RubelVhai\BAPA-Latest\BAPA_25_10_2016\OMS.WebClient\bin\OMS.WebClient.dll.config
+F:\WorkingDir\RubelVhai\BAPA-Latest\BAPA_25_10_2016\OMS.WebClient\bin\OMS.WebClient.dll
+F:\WorkingDir\RubelVhai\BAPA-Latest\BAPA_25_10_2016\OMS.WebClient\bin\OMS.WebClient.pdb
+F:\WorkingDir\RubelVhai\BAPA-Latest\BAPA_25_10_2016\OMS.WebClient\bin\crystaldecisions.crystalreports.engine.dll
+F:\WorkingDir\RubelVhai\BAPA-Latest\BAPA_25_10_2016\OMS.WebClient\bin\crystaldecisions.reportsource.dll
+F:\WorkingDir\RubelVhai\BAPA-Latest\BAPA_25_10_2016\OMS.WebClient\bin\crystaldecisions.shared.dll
+F:\WorkingDir\RubelVhai\BAPA-Latest\BAPA_25_10_2016\OMS.WebClient\bin\crystaldecisions.web.dll
+F:\WorkingDir\RubelVhai\BAPA-Latest\BAPA_25_10_2016\OMS.WebClient\bin\Google.Maps.dll
+F:\WorkingDir\RubelVhai\BAPA-Latest\BAPA_25_10_2016\OMS.WebClient\bin\Newtonsoft.Json.dll
+F:\WorkingDir\RubelVhai\BAPA-Latest\BAPA_25_10_2016\OMS.WebClient\bin\OMS.DAL.dll
+F:\WorkingDir\RubelVhai\BAPA-Latest\BAPA_25_10_2016\OMS.WebClient\bin\OMS.Facade.dll
+F:\WorkingDir\RubelVhai\BAPA-Latest\BAPA_25_10_2016\OMS.WebClient\bin\OMS.Framework.dll
+F:\WorkingDir\RubelVhai\BAPA-Latest\BAPA_25_10_2016\OMS.WebClient\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\WorkingDir\RubelVhai\BAPA-Latest\BAPA_25_10_2016\OMS.WebClient\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\WorkingDir\RubelVhai\BAPA-Latest\BAPA_25_10_2016\OMS.WebClient\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\WorkingDir\RubelVhai\BAPA-Latest\BAPA_25_10_2016\OMS.WebClient\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\WorkingDir\RubelVhai\BAPA-Latest\BAPA_25_10_2016\OMS.WebClient\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\WorkingDir\RubelVhai\BAPA-Latest\BAPA_25_10_2016\OMS.WebClient\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\WorkingDir\RubelVhai\BAPA-Latest\BAPA_25_10_2016\OMS.WebClient\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\WorkingDir\RubelVhai\BAPA-Latest\BAPA_25_10_2016\OMS.WebClient\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\WorkingDir\RubelVhai\BAPA-Latest\BAPA_25_10_2016\OMS.WebClient\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\WorkingDir\RubelVhai\BAPA-Latest\BAPA_25_10_2016\OMS.WebClient\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\WorkingDir\RubelVhai\BAPA-Latest\BAPA_25_10_2016\OMS.WebClient\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\WorkingDir\RubelVhai\BAPA-Latest\BAPA_25_10_2016\OMS.WebClient\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\WorkingDir\RubelVhai\BAPA-Latest\BAPA_25_10_2016\OMS.WebClient\bin\stdole.dll
+F:\WorkingDir\RubelVhai\BAPA-Latest\BAPA_25_10_2016\OMS.WebClient\bin\OMS.DAL.pdb
+F:\WorkingDir\RubelVhai\BAPA-Latest\BAPA_25_10_2016\OMS.WebClient\bin\OMS.Facade.pdb
+F:\WorkingDir\RubelVhai\BAPA-Latest\BAPA_25_10_2016\OMS.WebClient\bin\OMS.Framework.pdb
+F:\WorkingDir\RubelVhai\BAPA-Latest\BAPA_25_10_2016\OMS.WebClient\bin\Google.Maps.pdb
+F:\WorkingDir\RubelVhai\BAPA-Latest\BAPA_25_10_2016\OMS.WebClient\bin\Newtonsoft.Json.xml
+F:\WorkingDir\RubelVhai\BAPA-Latest\BAPA_25_10_2016\OMS.WebClient\obj\Debug\OMS.WebClient.csprojResolveAssemblyReference.cache
+F:\WorkingDir\RubelVhai\BAPA-Latest\BAPA_25_10_2016\OMS.WebClient\obj\Debug\OMS.WebClient.dll
+F:\WorkingDir\RubelVhai\BAPA-Latest\BAPA_25_10_2016\OMS.WebClient\obj\Debug\OMS.WebClient.pdb
+D:\Imtiaz\BAPA_17_12_2016\BAPA_25_10_2016\OMS.WebClient\bin\OMS.WebClient.dll.config
+D:\Imtiaz\BAPA_17_12_2016\BAPA_25_10_2016\OMS.WebClient\bin\OMS.WebClient.dll
+D:\Imtiaz\BAPA_17_12_2016\BAPA_25_10_2016\OMS.WebClient\bin\OMS.WebClient.pdb
+D:\Imtiaz\BAPA_17_12_2016\BAPA_25_10_2016\OMS.WebClient\bin\crystaldecisions.crystalreports.engine.dll
+D:\Imtiaz\BAPA_17_12_2016\BAPA_25_10_2016\OMS.WebClient\bin\crystaldecisions.reportsource.dll
+D:\Imtiaz\BAPA_17_12_2016\BAPA_25_10_2016\OMS.WebClient\bin\crystaldecisions.shared.dll
+D:\Imtiaz\BAPA_17_12_2016\BAPA_25_10_2016\OMS.WebClient\bin\crystaldecisions.web.dll
+D:\Imtiaz\BAPA_17_12_2016\BAPA_25_10_2016\OMS.WebClient\bin\Google.Maps.dll
+D:\Imtiaz\BAPA_17_12_2016\BAPA_25_10_2016\OMS.WebClient\bin\Newtonsoft.Json.dll
+D:\Imtiaz\BAPA_17_12_2016\BAPA_25_10_2016\OMS.WebClient\bin\OMS.DAL.dll
+D:\Imtiaz\BAPA_17_12_2016\BAPA_25_10_2016\OMS.WebClient\bin\OMS.Facade.dll
+D:\Imtiaz\BAPA_17_12_2016\BAPA_25_10_2016\OMS.WebClient\bin\OMS.Framework.dll
+D:\Imtiaz\BAPA_17_12_2016\BAPA_25_10_2016\OMS.WebClient\bin\stdole.dll
+D:\Imtiaz\BAPA_17_12_2016\BAPA_25_10_2016\OMS.WebClient\bin\OMS.DAL.pdb
+D:\Imtiaz\BAPA_17_12_2016\BAPA_25_10_2016\OMS.WebClient\bin\OMS.Facade.pdb
+D:\Imtiaz\BAPA_17_12_2016\BAPA_25_10_2016\OMS.WebClient\bin\OMS.Framework.pdb
+D:\Imtiaz\BAPA_17_12_2016\BAPA_25_10_2016\OMS.WebClient\bin\crystaldecisions.crystalreports.engine.xml
+D:\Imtiaz\BAPA_17_12_2016\BAPA_25_10_2016\OMS.WebClient\bin\crystaldecisions.reportsource.xml
+D:\Imtiaz\BAPA_17_12_2016\BAPA_25_10_2016\OMS.WebClient\bin\crystaldecisions.shared.xml
+D:\Imtiaz\BAPA_17_12_2016\BAPA_25_10_2016\OMS.WebClient\bin\crystaldecisions.web.xml
+D:\Imtiaz\BAPA_17_12_2016\BAPA_25_10_2016\OMS.WebClient\bin\Google.Maps.pdb
+D:\Imtiaz\BAPA_17_12_2016\BAPA_25_10_2016\OMS.WebClient\bin\Newtonsoft.Json.xml
+D:\Imtiaz\BAPA_17_12_2016\BAPA_25_10_2016\OMS.WebClient\obj\Debug\OMS.WebClient.csprojResolveAssemblyReference.cache
+D:\Imtiaz\BAPA_17_12_2016\BAPA_25_10_2016\OMS.WebClient\obj\Debug\OMS.WebClient.dll
+D:\Imtiaz\BAPA_17_12_2016\BAPA_25_10_2016\OMS.WebClient\obj\Debug\OMS.WebClient.pdb
+D:\BAPA\BAPA_21_12_2016\BAPA_25_10_2016\OMS.WebClient\bin\OMS.WebClient.dll.config
+D:\BAPA\BAPA_21_12_2016\BAPA_25_10_2016\OMS.WebClient\bin\OMS.WebClient.dll
+D:\BAPA\BAPA_21_12_2016\BAPA_25_10_2016\OMS.WebClient\bin\OMS.WebClient.pdb
+D:\BAPA\BAPA_21_12_2016\BAPA_25_10_2016\OMS.WebClient\bin\Google.Maps.dll
+D:\BAPA\BAPA_21_12_2016\BAPA_25_10_2016\OMS.WebClient\bin\Newtonsoft.Json.dll
+D:\BAPA\BAPA_21_12_2016\BAPA_25_10_2016\OMS.WebClient\bin\OMS.DAL.dll
+D:\BAPA\BAPA_21_12_2016\BAPA_25_10_2016\OMS.WebClient\bin\OMS.Facade.dll
+D:\BAPA\BAPA_21_12_2016\BAPA_25_10_2016\OMS.WebClient\bin\OMS.Framework.dll
+D:\BAPA\BAPA_21_12_2016\BAPA_25_10_2016\OMS.WebClient\bin\OMS.DAL.pdb
+D:\BAPA\BAPA_21_12_2016\BAPA_25_10_2016\OMS.WebClient\bin\OMS.Facade.pdb
+D:\BAPA\BAPA_21_12_2016\BAPA_25_10_2016\OMS.WebClient\bin\OMS.Framework.pdb
+D:\BAPA\BAPA_21_12_2016\BAPA_25_10_2016\OMS.WebClient\bin\crystaldecisions.crystalreports.engine.xml
+D:\BAPA\BAPA_21_12_2016\BAPA_25_10_2016\OMS.WebClient\bin\crystaldecisions.reportsource.xml
+D:\BAPA\BAPA_21_12_2016\BAPA_25_10_2016\OMS.WebClient\bin\crystaldecisions.shared.xml
+D:\BAPA\BAPA_21_12_2016\BAPA_25_10_2016\OMS.WebClient\bin\crystaldecisions.web.xml
+D:\BAPA\BAPA_21_12_2016\BAPA_25_10_2016\OMS.WebClient\bin\Google.Maps.pdb
+D:\BAPA\BAPA_21_12_2016\BAPA_25_10_2016\OMS.WebClient\bin\Newtonsoft.Json.xml
+D:\BAPA\BAPA_21_12_2016\BAPA_25_10_2016\OMS.WebClient\obj\Debug\OMS.WebClient.csprojResolveAssemblyReference.cache
+D:\BAPA\BAPA_21_12_2016\BAPA_25_10_2016\OMS.WebClient\obj\Debug\OMS.WebClient.dll
+D:\BAPA\BAPA_21_12_2016\BAPA_25_10_2016\OMS.WebClient\obj\Debug\OMS.WebClient.pdb
+D:\Imtiaz\BAPA_23_12_2016\OMS.WebClient\bin\OMS.WebClient.dll.config
+D:\Imtiaz\BAPA_23_12_2016\OMS.WebClient\bin\OMS.WebClient.dll
+D:\Imtiaz\BAPA_23_12_2016\OMS.WebClient\bin\OMS.WebClient.pdb
+D:\Imtiaz\BAPA_23_12_2016\OMS.WebClient\bin\crystaldecisions.crystalreports.engine.dll
+D:\Imtiaz\BAPA_23_12_2016\OMS.WebClient\bin\crystaldecisions.reportsource.dll
+D:\Imtiaz\BAPA_23_12_2016\OMS.WebClient\bin\crystaldecisions.shared.dll
+D:\Imtiaz\BAPA_23_12_2016\OMS.WebClient\bin\crystaldecisions.web.dll
+D:\Imtiaz\BAPA_23_12_2016\OMS.WebClient\bin\Google.Maps.dll
+D:\Imtiaz\BAPA_23_12_2016\OMS.WebClient\bin\Newtonsoft.Json.dll
+D:\Imtiaz\BAPA_23_12_2016\OMS.WebClient\bin\OMS.DAL.dll
+D:\Imtiaz\BAPA_23_12_2016\OMS.WebClient\bin\OMS.Facade.dll
+D:\Imtiaz\BAPA_23_12_2016\OMS.WebClient\bin\OMS.Framework.dll
+D:\Imtiaz\BAPA_23_12_2016\OMS.WebClient\bin\stdole.dll
+D:\Imtiaz\BAPA_23_12_2016\OMS.WebClient\bin\OMS.DAL.pdb
+D:\Imtiaz\BAPA_23_12_2016\OMS.WebClient\bin\OMS.Facade.pdb
+D:\Imtiaz\BAPA_23_12_2016\OMS.WebClient\bin\OMS.Framework.pdb
+D:\Imtiaz\BAPA_23_12_2016\OMS.WebClient\bin\crystaldecisions.crystalreports.engine.xml
+D:\Imtiaz\BAPA_23_12_2016\OMS.WebClient\bin\crystaldecisions.reportsource.xml
+D:\Imtiaz\BAPA_23_12_2016\OMS.WebClient\bin\crystaldecisions.shared.xml
+D:\Imtiaz\BAPA_23_12_2016\OMS.WebClient\bin\crystaldecisions.web.xml
+D:\Imtiaz\BAPA_23_12_2016\OMS.WebClient\bin\Google.Maps.pdb
+D:\Imtiaz\BAPA_23_12_2016\OMS.WebClient\bin\Newtonsoft.Json.xml
+D:\Imtiaz\BAPA_23_12_2016\OMS.WebClient\obj\Debug\OMS.WebClient.csprojResolveAssemblyReference.cache
+D:\Imtiaz\BAPA_23_12_2016\OMS.WebClient\obj\Debug\OMS.WebClient.dll
+D:\Imtiaz\BAPA_23_12_2016\OMS.WebClient\obj\Debug\OMS.WebClient.pdb
+D:\Office\BAPA\BAPA_7_2_20176(1)\BAPA_23_12_2016\OMS.WebClient\bin\OMS.WebClient.dll.config
+D:\Office\BAPA\BAPA_7_2_20176(1)\BAPA_23_12_2016\OMS.WebClient\bin\OMS.WebClient.dll
+D:\Office\BAPA\BAPA_7_2_20176(1)\BAPA_23_12_2016\OMS.WebClient\bin\OMS.WebClient.pdb
+D:\Office\BAPA\BAPA_7_2_20176(1)\BAPA_23_12_2016\OMS.WebClient\bin\Google.Maps.dll
+D:\Office\BAPA\BAPA_7_2_20176(1)\BAPA_23_12_2016\OMS.WebClient\bin\Newtonsoft.Json.dll
+D:\Office\BAPA\BAPA_7_2_20176(1)\BAPA_23_12_2016\OMS.WebClient\bin\OMS.DAL.dll
+D:\Office\BAPA\BAPA_7_2_20176(1)\BAPA_23_12_2016\OMS.WebClient\bin\OMS.Facade.dll
+D:\Office\BAPA\BAPA_7_2_20176(1)\BAPA_23_12_2016\OMS.WebClient\bin\OMS.Framework.dll
+D:\Office\BAPA\BAPA_7_2_20176(1)\BAPA_23_12_2016\OMS.WebClient\bin\OMS.DAL.pdb
+D:\Office\BAPA\BAPA_7_2_20176(1)\BAPA_23_12_2016\OMS.WebClient\bin\OMS.Facade.pdb
+D:\Office\BAPA\BAPA_7_2_20176(1)\BAPA_23_12_2016\OMS.WebClient\bin\OMS.Framework.pdb
+D:\Office\BAPA\BAPA_7_2_20176(1)\BAPA_23_12_2016\OMS.WebClient\bin\crystaldecisions.crystalreports.engine.xml
+D:\Office\BAPA\BAPA_7_2_20176(1)\BAPA_23_12_2016\OMS.WebClient\bin\crystaldecisions.reportsource.xml
+D:\Office\BAPA\BAPA_7_2_20176(1)\BAPA_23_12_2016\OMS.WebClient\bin\crystaldecisions.shared.xml
+D:\Office\BAPA\BAPA_7_2_20176(1)\BAPA_23_12_2016\OMS.WebClient\bin\crystaldecisions.web.xml
+D:\Office\BAPA\BAPA_7_2_20176(1)\BAPA_23_12_2016\OMS.WebClient\bin\Google.Maps.pdb
+D:\Office\BAPA\BAPA_7_2_20176(1)\BAPA_23_12_2016\OMS.WebClient\bin\Newtonsoft.Json.xml
+D:\Office\BAPA\BAPA_7_2_20176(1)\BAPA_23_12_2016\OMS.WebClient\obj\Debug\OMS.WebClient.csprojResolveAssemblyReference.cache
+D:\Office\BAPA\BAPA_7_2_20176(1)\BAPA_23_12_2016\OMS.WebClient\obj\Debug\OMS.WebClient.dll
+D:\Office\BAPA\BAPA_7_2_20176(1)\BAPA_23_12_2016\OMS.WebClient\obj\Debug\OMS.WebClient.pdb
+E:\BAPA_10_3_2017\BAPA_10_3_2017\OMS.WebClient\bin\OMS.WebClient.dll.config
+E:\BAPA_10_3_2017\BAPA_10_3_2017\OMS.WebClient\bin\OMS.WebClient.dll
+E:\BAPA_10_3_2017\BAPA_10_3_2017\OMS.WebClient\bin\OMS.WebClient.pdb
+E:\BAPA_10_3_2017\BAPA_10_3_2017\OMS.WebClient\bin\Google.Maps.dll
+E:\BAPA_10_3_2017\BAPA_10_3_2017\OMS.WebClient\bin\Newtonsoft.Json.dll
+E:\BAPA_10_3_2017\BAPA_10_3_2017\OMS.WebClient\bin\OMS.DAL.dll
+E:\BAPA_10_3_2017\BAPA_10_3_2017\OMS.WebClient\bin\OMS.Facade.dll
+E:\BAPA_10_3_2017\BAPA_10_3_2017\OMS.WebClient\bin\OMS.Framework.dll
+E:\BAPA_10_3_2017\BAPA_10_3_2017\OMS.WebClient\bin\OMS.DAL.pdb
+E:\BAPA_10_3_2017\BAPA_10_3_2017\OMS.WebClient\bin\OMS.Facade.pdb
+E:\BAPA_10_3_2017\BAPA_10_3_2017\OMS.WebClient\bin\OMS.Framework.pdb
+E:\BAPA_10_3_2017\BAPA_10_3_2017\OMS.WebClient\bin\crystaldecisions.crystalreports.engine.xml
+E:\BAPA_10_3_2017\BAPA_10_3_2017\OMS.WebClient\bin\crystaldecisions.reportsource.xml
+E:\BAPA_10_3_2017\BAPA_10_3_2017\OMS.WebClient\bin\crystaldecisions.shared.xml
+E:\BAPA_10_3_2017\BAPA_10_3_2017\OMS.WebClient\bin\crystaldecisions.web.xml
+E:\BAPA_10_3_2017\BAPA_10_3_2017\OMS.WebClient\bin\Google.Maps.pdb
+E:\BAPA_10_3_2017\BAPA_10_3_2017\OMS.WebClient\bin\Newtonsoft.Json.xml
+E:\BAPA_10_3_2017\BAPA_10_3_2017\OMS.WebClient\obj\Debug\OMS.WebClient.csprojResolveAssemblyReference.cache
+E:\BAPA_10_3_2017\BAPA_10_3_2017\OMS.WebClient\obj\Debug\OMS.WebClient.dll
+E:\BAPA_10_3_2017\BAPA_10_3_2017\OMS.WebClient\obj\Debug\OMS.WebClient.pdb

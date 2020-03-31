@@ -1,0 +1,215 @@
+D:\Order Management\OMSSourceSafe\OMS.Framework\bin\Debug\OMS.Framework.dll
+D:\Order Management\OMSSourceSafe\OMS.Framework\bin\Debug\OMS.Framework.pdb
+D:\Order Management\OMSSourceSafe\OMS.Framework\obj\Debug\ResolveAssemblyReference.cache
+D:\Order Management\OMSSourceSafe\OMS.Framework\obj\Debug\OMS.Framework.dll
+D:\Order Management\OMSSourceSafe\OMS.Framework\obj\Debug\OMS.Framework.pdb
+D:\PersonalProject\OMSSourceSafe\OMS.Framework\bin\Debug\OMS.Framework.dll
+D:\PersonalProject\OMSSourceSafe\OMS.Framework\bin\Debug\OMS.Framework.pdb
+D:\PersonalProject\OMSSourceSafe\OMS.Framework\obj\Debug\ResolveAssemblyReference.cache
+D:\PersonalProject\OMSSourceSafe\OMS.Framework\obj\Debug\OMS.Framework.dll
+D:\PersonalProject\OMSSourceSafe\OMS.Framework\obj\Debug\OMS.Framework.pdb
+D:\31-01-2012\OMSSourceSafe\OMS.Framework\bin\Debug\OMS.Framework.dll
+D:\31-01-2012\OMSSourceSafe\OMS.Framework\bin\Debug\OMS.Framework.pdb
+D:\31-01-2012\OMSSourceSafe\OMS.Framework\obj\Debug\ResolveAssemblyReference.cache
+D:\31-01-2012\OMSSourceSafe\OMS.Framework\obj\Debug\OMS.Framework.dll
+D:\31-01-2012\OMSSourceSafe\OMS.Framework\obj\Debug\OMS.Framework.pdb
+E:\Zia_Working\OMSSourceSafe\OMSSourceSafe\OMS.Framework\bin\Debug\OMS.Framework.dll
+E:\Zia_Working\OMSSourceSafe\OMSSourceSafe\OMS.Framework\bin\Debug\OMS.Framework.pdb
+E:\Zia_Working\OMSSourceSafe\OMSSourceSafe\OMS.Framework\obj\Debug\ResolveAssemblyReference.cache
+E:\Zia_Working\OMSSourceSafe\OMSSourceSafe\OMS.Framework\obj\Debug\OMS.Framework.dll
+E:\Zia_Working\OMSSourceSafe\OMSSourceSafe\OMS.Framework\obj\Debug\OMS.Framework.pdb
+E:\Own Project\ehishab_solution\OMS.Framework\bin\Debug\OMS.Framework.dll
+E:\Own Project\ehishab_solution\OMS.Framework\bin\Debug\OMS.Framework.pdb
+E:\Own Project\ehishab_solution\OMS.Framework\obj\Debug\ResolveAssemblyReference.cache
+E:\Own Project\ehishab_solution\OMS.Framework\obj\Debug\OMS.Framework.dll
+E:\Own Project\ehishab_solution\OMS.Framework\obj\Debug\OMS.Framework.pdb
+D:\Personal Project\ehishabNew\ehishab_solution\OMS.Framework\bin\Debug\OMS.Framework.dll
+D:\Personal Project\ehishabNew\ehishab_solution\OMS.Framework\bin\Debug\OMS.Framework.pdb
+D:\Personal Project\ehishabNew\ehishab_solution\OMS.Framework\obj\Debug\ResolveAssemblyReference.cache
+D:\Personal Project\ehishabNew\ehishab_solution\OMS.Framework\obj\Debug\OMS.Framework.dll
+D:\Personal Project\ehishabNew\ehishab_solution\OMS.Framework\obj\Debug\OMS.Framework.pdb
+E:\Zia_Working\ehishabNew\ehishabNew\ehishab_solution\OMS.Framework\bin\Debug\OMS.Framework.dll
+E:\Zia_Working\ehishabNew\ehishabNew\ehishab_solution\OMS.Framework\bin\Debug\OMS.Framework.pdb
+E:\Zia_Working\ehishabNew\ehishabNew\ehishab_solution\OMS.Framework\obj\Debug\ResolveAssemblyReference.cache
+E:\Zia_Working\ehishabNew\ehishabNew\ehishab_solution\OMS.Framework\obj\Debug\OMS.Framework.dll
+E:\Zia_Working\ehishabNew\ehishabNew\ehishab_solution\OMS.Framework\obj\Debug\OMS.Framework.pdb
+D:\Personal Project\ehishabFinal\ehishab_solution\OMS.Framework\bin\Debug\OMS.Framework.dll
+D:\Personal Project\ehishabFinal\ehishab_solution\OMS.Framework\bin\Debug\OMS.Framework.pdb
+D:\Personal Project\ehishabFinal\ehishab_solution\OMS.Framework\obj\Debug\ResolveAssemblyReference.cache
+D:\Personal Project\ehishabFinal\ehishab_solution\OMS.Framework\obj\Debug\OMS.Framework.dll
+D:\Personal Project\ehishabFinal\ehishab_solution\OMS.Framework\obj\Debug\OMS.Framework.pdb
+I:\Project 2013\eTicket\ehishab_solution\OMS.Framework\bin\Debug\OMS.Framework.dll
+I:\Project 2013\eTicket\ehishab_solution\OMS.Framework\bin\Debug\OMS.Framework.pdb
+I:\Project 2013\eTicket\ehishab_solution\OMS.Framework\obj\Debug\ResolveAssemblyReference.cache
+I:\Project 2013\eTicket\ehishab_solution\OMS.Framework\obj\Debug\OMS.Framework.dll
+I:\Project 2013\eTicket\ehishab_solution\OMS.Framework\obj\Debug\OMS.Framework.pdb
+E:\Project 2013\eTicketSol\OMS.Framework\bin\Debug\OMS.Framework.dll
+E:\Project 2013\eTicketSol\OMS.Framework\bin\Debug\OMS.Framework.pdb
+E:\Project 2013\eTicketSol\OMS.Framework\obj\Debug\ResolveAssemblyReference.cache
+E:\Project 2013\eTicketSol\OMS.Framework\obj\Debug\OMS.Framework.dll
+E:\Project 2013\eTicketSol\OMS.Framework\obj\Debug\OMS.Framework.pdb
+F:\Zia\eTicketSol\OMS.Framework\bin\Debug\OMS.Framework.dll
+F:\Zia\eTicketSol\OMS.Framework\bin\Debug\OMS.Framework.pdb
+F:\Zia\eTicketSol\OMS.Framework\obj\Debug\ResolveAssemblyReference.cache
+F:\Zia\eTicketSol\OMS.Framework\obj\Debug\OMS.Framework.dll
+F:\Zia\eTicketSol\OMS.Framework\obj\Debug\OMS.Framework.pdb
+I:\Project 2013\eTicket\eTicketSol\OMS.Framework\bin\Debug\OMS.Framework.dll
+I:\Project 2013\eTicket\eTicketSol\OMS.Framework\bin\Debug\OMS.Framework.pdb
+I:\Project 2013\eTicket\eTicketSol\OMS.Framework\obj\Debug\ResolveAssemblyReference.cache
+I:\Project 2013\eTicket\eTicketSol\OMS.Framework\obj\Debug\OMS.Framework.dll
+I:\Project 2013\eTicket\eTicketSol\OMS.Framework\obj\Debug\OMS.Framework.pdb
+F:\eTicketSol\OMS.Framework\bin\Debug\OMS.Framework.dll
+F:\eTicketSol\OMS.Framework\bin\Debug\OMS.Framework.pdb
+F:\eTicketSol\OMS.Framework\obj\Debug\ResolveAssemblyReference.cache
+F:\eTicketSol\OMS.Framework\obj\Debug\OMS.Framework.dll
+F:\eTicketSol\OMS.Framework\obj\Debug\OMS.Framework.pdb
+F:\Zia\eticket_26-08-2013\eTicketSol\OMS.Framework\bin\Debug\OMS.Framework.dll
+F:\Zia\eticket_26-08-2013\eTicketSol\OMS.Framework\bin\Debug\OMS.Framework.pdb
+F:\Zia\eticket_26-08-2013\eTicketSol\OMS.Framework\obj\Debug\ResolveAssemblyReference.cache
+F:\Zia\eticket_26-08-2013\eTicketSol\OMS.Framework\obj\Debug\OMS.Framework.dll
+F:\Zia\eticket_26-08-2013\eTicketSol\OMS.Framework\obj\Debug\OMS.Framework.pdb
+F:\Zia\eticket_29-08-2013\eTicketSol\OMS.Framework\bin\Debug\OMS.Framework.dll
+F:\Zia\eticket_29-08-2013\eTicketSol\OMS.Framework\bin\Debug\OMS.Framework.pdb
+F:\Zia\eticket_29-08-2013\eTicketSol\OMS.Framework\obj\Debug\ResolveAssemblyReference.cache
+F:\Zia\eticket_29-08-2013\eTicketSol\OMS.Framework\obj\Debug\OMS.Framework.dll
+F:\Zia\eticket_29-08-2013\eTicketSol\OMS.Framework\obj\Debug\OMS.Framework.pdb
+F:\Zia\eticket_Sanjar\eTicketSol\OMS.Framework\bin\Debug\OMS.Framework.dll
+F:\Zia\eticket_Sanjar\eTicketSol\OMS.Framework\bin\Debug\OMS.Framework.pdb
+F:\Zia\eticket_Sanjar\eTicketSol\OMS.Framework\obj\Debug\ResolveAssemblyReference.cache
+F:\Zia\eticket_Sanjar\eTicketSol\OMS.Framework\obj\Debug\OMS.Framework.dll
+F:\Zia\eticket_Sanjar\eTicketSol\OMS.Framework\obj\Debug\OMS.Framework.pdb
+F:\Zia\eticket_Sanjar\eticket_17-09-2013\eTicketSol\OMS.Framework\bin\Debug\OMS.Framework.dll
+F:\Zia\eticket_Sanjar\eticket_17-09-2013\eTicketSol\OMS.Framework\bin\Debug\OMS.Framework.pdb
+F:\Zia\eticket_Sanjar\eticket_17-09-2013\eTicketSol\OMS.Framework\obj\Debug\ResolveAssemblyReference.cache
+F:\Zia\eticket_Sanjar\eticket_17-09-2013\eTicketSol\OMS.Framework\obj\Debug\OMS.Framework.dll
+F:\Zia\eticket_Sanjar\eticket_17-09-2013\eTicketSol\OMS.Framework\obj\Debug\OMS.Framework.pdb
+E:\Project 2013\eticket_30-09-2013\eTicketSol\OMS.Framework\bin\Debug\OMS.Framework.dll
+E:\Project 2013\eticket_30-09-2013\eTicketSol\OMS.Framework\bin\Debug\OMS.Framework.pdb
+E:\Project 2013\eticket_30-09-2013\eTicketSol\OMS.Framework\obj\Debug\ResolveAssemblyReference.cache
+E:\Project 2013\eticket_30-09-2013\eTicketSol\OMS.Framework\obj\Debug\OMS.Framework.dll
+E:\Project 2013\eticket_30-09-2013\eTicketSol\OMS.Framework\obj\Debug\OMS.Framework.pdb
+F:\Zia\eticket_Sanjar\eticket_23-10-2013\eTicketSol\OMS.Framework\bin\Debug\OMS.Framework.dll
+F:\Zia\eticket_Sanjar\eticket_23-10-2013\eTicketSol\OMS.Framework\bin\Debug\OMS.Framework.pdb
+F:\Zia\eticket_Sanjar\eticket_23-10-2013\eTicketSol\OMS.Framework\obj\Debug\ResolveAssemblyReference.cache
+F:\Zia\eticket_Sanjar\eticket_23-10-2013\eTicketSol\OMS.Framework\obj\Debug\OMS.Framework.dll
+F:\Zia\eticket_Sanjar\eticket_23-10-2013\eTicketSol\OMS.Framework\obj\Debug\OMS.Framework.pdb
+E:\Project 2013\eTicket_27-10-2013\eticketSol\OMS.Framework\bin\Debug\OMS.Framework.dll
+E:\Project 2013\eTicket_27-10-2013\eticketSol\OMS.Framework\bin\Debug\OMS.Framework.pdb
+E:\Project 2013\eTicket_27-10-2013\eticketSol\OMS.Framework\obj\Debug\ResolveAssemblyReference.cache
+E:\Project 2013\eTicket_27-10-2013\eticketSol\OMS.Framework\obj\Debug\OMS.Framework.dll
+E:\Project 2013\eTicket_27-10-2013\eticketSol\OMS.Framework\obj\Debug\OMS.Framework.pdb
+F:\Project 2014\eHishab_babu\OMS.Framework\bin\Debug\OMS.Framework.dll
+F:\Project 2014\eHishab_babu\OMS.Framework\bin\Debug\OMS.Framework.pdb
+F:\Project 2014\eHishab_babu\OMS.Framework\obj\Debug\ResolveAssemblyReference.cache
+F:\Project 2014\eHishab_babu\OMS.Framework\obj\Debug\OMS.Framework.dll
+F:\Project 2014\eHishab_babu\OMS.Framework\obj\Debug\OMS.Framework.pdb
+F:\Project 2016\AGS Accounts\eHishab_babu\OMS.Framework\bin\Debug\OMS.Framework.dll
+F:\Project 2016\AGS Accounts\eHishab_babu\OMS.Framework\bin\Debug\OMS.Framework.pdb
+F:\Project 2016\AGS Accounts\eHishab_babu\OMS.Framework\obj\Debug\ResolveAssemblyReference.cache
+F:\Project 2016\AGS Accounts\eHishab_babu\OMS.Framework\obj\Debug\OMS.Framework.dll
+F:\Project 2016\AGS Accounts\eHishab_babu\OMS.Framework\obj\Debug\OMS.Framework.pdb
+F:\Project 2016\AGS Accounts\eHishab_AGS\OMS.Framework\bin\Debug\OMS.Framework.dll
+F:\Project 2016\AGS Accounts\eHishab_AGS\OMS.Framework\bin\Debug\OMS.Framework.pdb
+F:\Project 2016\AGS Accounts\eHishab_AGS\OMS.Framework\obj\Debug\ResolveAssemblyReference.cache
+F:\Project 2016\AGS Accounts\eHishab_AGS\OMS.Framework\obj\Debug\OMS.Framework.dll
+F:\Project 2016\AGS Accounts\eHishab_AGS\OMS.Framework\obj\Debug\OMS.Framework.pdb
+D:\Project 2016\AGS Int\eHishab_AGS\OMS.Framework\bin\Debug\OMS.Framework.dll
+D:\Project 2016\AGS Int\eHishab_AGS\OMS.Framework\bin\Debug\OMS.Framework.pdb
+D:\Project 2016\AGS Int\eHishab_AGS\OMS.Framework\obj\Debug\ResolveAssemblyReference.cache
+D:\Project 2016\AGS Int\eHishab_AGS\OMS.Framework\obj\Debug\OMS.Framework.dll
+D:\Project 2016\AGS Int\eHishab_AGS\OMS.Framework\obj\Debug\OMS.Framework.pdb
+F:\Project 2016\PrimetechAccounts\OMS.Framework\bin\Debug\OMS.Framework.dll
+F:\Project 2016\PrimetechAccounts\OMS.Framework\bin\Debug\OMS.Framework.pdb
+F:\Project 2016\PrimetechAccounts\OMS.Framework\obj\Debug\ResolveAssemblyReference.cache
+F:\Project 2016\PrimetechAccounts\OMS.Framework\obj\Debug\OMS.Framework.dll
+F:\Project 2016\PrimetechAccounts\OMS.Framework\obj\Debug\OMS.Framework.pdb
+E:\Software\LOCAL SERVER\PrimetechAccounts\OMS.Framework\bin\Debug\OMS.Framework.dll
+E:\Software\LOCAL SERVER\PrimetechAccounts\OMS.Framework\bin\Debug\OMS.Framework.pdb
+E:\Software\LOCAL SERVER\PrimetechAccounts\OMS.Framework\obj\Debug\OMS.Framework.dll
+E:\Software\LOCAL SERVER\PrimetechAccounts\OMS.Framework\obj\Debug\OMS.Framework.pdb
+F:\SHUVO\PrimetechAccounts\PrimetechAccounts\OMS.Framework\bin\Debug\OMS.Framework.dll
+F:\SHUVO\PrimetechAccounts\PrimetechAccounts\OMS.Framework\bin\Debug\OMS.Framework.pdb
+F:\SHUVO\PrimetechAccounts\PrimetechAccounts\OMS.Framework\obj\Debug\OMS.Framework.dll
+F:\SHUVO\PrimetechAccounts\PrimetechAccounts\OMS.Framework\obj\Debug\OMS.Framework.pdb
+C:\Users\SHUVO\Desktop\BAPA\PrimetechAccounts 16-06-2016\PrimetechAccounts 14-06-2016\OMS.Framework\bin\Debug\OMS.Framework.dll
+C:\Users\SHUVO\Desktop\BAPA\PrimetechAccounts 16-06-2016\PrimetechAccounts 14-06-2016\OMS.Framework\bin\Debug\OMS.Framework.pdb
+C:\Users\SHUVO\Desktop\BAPA\PrimetechAccounts 16-06-2016\PrimetechAccounts 14-06-2016\OMS.Framework\obj\Debug\OMS.Framework.csprojResolveAssemblyReference.cache
+C:\Users\SHUVO\Desktop\BAPA\PrimetechAccounts 16-06-2016\PrimetechAccounts 14-06-2016\OMS.Framework\obj\Debug\OMS.Framework.dll
+C:\Users\SHUVO\Desktop\BAPA\PrimetechAccounts 16-06-2016\PrimetechAccounts 14-06-2016\OMS.Framework\obj\Debug\OMS.Framework.pdb
+F:\SHUVO\BAPA\PrimetechAccounts1-07-2016\OMS.Framework\bin\Debug\OMS.Framework.dll
+F:\SHUVO\BAPA\PrimetechAccounts1-07-2016\OMS.Framework\bin\Debug\OMS.Framework.pdb
+F:\SHUVO\BAPA\PrimetechAccounts1-07-2016\OMS.Framework\obj\Debug\OMS.Framework.dll
+F:\SHUVO\BAPA\PrimetechAccounts1-07-2016\OMS.Framework\obj\Debug\OMS.Framework.pdb
+D:\working\BAPA\PrimetechAccounts17-07-2016 (1)\OMS.Framework\bin\Debug\OMS.Framework.dll
+D:\working\BAPA\PrimetechAccounts17-07-2016 (1)\OMS.Framework\bin\Debug\OMS.Framework.pdb
+D:\working\BAPA\PrimetechAccounts17-07-2016 (1)\OMS.Framework\obj\Debug\OMS.Framework.csprojResolveAssemblyReference.cache
+D:\working\BAPA\PrimetechAccounts17-07-2016 (1)\OMS.Framework\obj\Debug\OMS.Framework.dll
+D:\working\BAPA\PrimetechAccounts17-07-2016 (1)\OMS.Framework\obj\Debug\OMS.Framework.pdb
+F:\SHUVO\BAPA\PrimetechAccounts-8-08-2016 (1)\PrimetechAccounts17-07-2016 (1)\OMS.Framework\bin\Debug\OMS.Framework.dll
+F:\SHUVO\BAPA\PrimetechAccounts-8-08-2016 (1)\PrimetechAccounts17-07-2016 (1)\OMS.Framework\bin\Debug\OMS.Framework.pdb
+F:\SHUVO\BAPA\PrimetechAccounts-8-08-2016 (1)\PrimetechAccounts17-07-2016 (1)\OMS.Framework\obj\Debug\OMS.Framework.csprojResolveAssemblyReference.cache
+F:\SHUVO\BAPA\PrimetechAccounts-8-08-2016 (1)\PrimetechAccounts17-07-2016 (1)\OMS.Framework\obj\Debug\OMS.Framework.dll
+F:\SHUVO\BAPA\PrimetechAccounts-8-08-2016 (1)\PrimetechAccounts17-07-2016 (1)\OMS.Framework\obj\Debug\OMS.Framework.pdb
+D:\working\BAPA\PrimetechAccounts-11-08-2016\OMS.Framework\bin\Debug\OMS.Framework.dll
+D:\working\BAPA\PrimetechAccounts-11-08-2016\OMS.Framework\bin\Debug\OMS.Framework.pdb
+D:\working\BAPA\PrimetechAccounts-11-08-2016\OMS.Framework\obj\Debug\OMS.Framework.csprojResolveAssemblyReference.cache
+D:\working\BAPA\PrimetechAccounts-11-08-2016\OMS.Framework\obj\Debug\OMS.Framework.dll
+D:\working\BAPA\PrimetechAccounts-11-08-2016\OMS.Framework\obj\Debug\OMS.Framework.pdb
+D:\Projects\Incentive-14-08-2016\OMS.Framework\bin\Debug\OMS.Framework.dll
+D:\Projects\Incentive-14-08-2016\OMS.Framework\bin\Debug\OMS.Framework.pdb
+D:\Projects\Incentive-14-08-2016\OMS.Framework\obj\Debug\OMS.Framework.csprojResolveAssemblyReference.cache
+D:\Projects\Incentive-14-08-2016\OMS.Framework\obj\Debug\OMS.Framework.dll
+D:\Projects\Incentive-14-08-2016\OMS.Framework\obj\Debug\OMS.Framework.pdb
+D:\working\BAPA\Incentive-15-08-2016\OMS.Framework\bin\Debug\OMS.Framework.dll
+D:\working\BAPA\Incentive-15-08-2016\OMS.Framework\bin\Debug\OMS.Framework.pdb
+D:\working\BAPA\Incentive-15-08-2016\OMS.Framework\obj\Debug\OMS.Framework.csprojResolveAssemblyReference.cache
+D:\working\BAPA\Incentive-15-08-2016\OMS.Framework\obj\Debug\OMS.Framework.dll
+D:\working\BAPA\Incentive-15-08-2016\OMS.Framework\obj\Debug\OMS.Framework.pdb
+D:\working\BAPA\Incentive-22-08-2016\OMS.Framework\bin\Debug\OMS.Framework.dll
+D:\working\BAPA\Incentive-22-08-2016\OMS.Framework\bin\Debug\OMS.Framework.pdb
+D:\working\BAPA\Incentive-22-08-2016\OMS.Framework\obj\Debug\OMS.Framework.dll
+D:\working\BAPA\Incentive-22-08-2016\OMS.Framework\obj\Debug\OMS.Framework.pdb
+D:\BAPA\Incentive-7-10-2016_new\Incentive-22-08-2016\OMS.Framework\bin\Debug\OMS.Framework.dll
+D:\BAPA\Incentive-7-10-2016_new\Incentive-22-08-2016\OMS.Framework\bin\Debug\OMS.Framework.pdb
+D:\BAPA\Incentive-7-10-2016_new\Incentive-22-08-2016\OMS.Framework\obj\Debug\OMS.Framework.csprojResolveAssemblyReference.cache
+D:\BAPA\Incentive-7-10-2016_new\Incentive-22-08-2016\OMS.Framework\obj\Debug\OMS.Framework.dll
+D:\BAPA\Incentive-7-10-2016_new\Incentive-22-08-2016\OMS.Framework\obj\Debug\OMS.Framework.pdb
+D:\working\BAPA\Incentive-7-10-2016\OMS.Framework\bin\Debug\OMS.Framework.dll
+D:\working\BAPA\Incentive-7-10-2016\OMS.Framework\bin\Debug\OMS.Framework.pdb
+D:\working\BAPA\Incentive-7-10-2016\OMS.Framework\obj\Debug\OMS.Framework.csprojResolveAssemblyReference.cache
+D:\working\BAPA\Incentive-7-10-2016\OMS.Framework\obj\Debug\OMS.Framework.dll
+D:\working\BAPA\Incentive-7-10-2016\OMS.Framework\obj\Debug\OMS.Framework.pdb
+F:\WorkingDir\RubelVhai\BAPA\Incentive-7-10-2016\OMS.Framework\bin\Debug\OMS.Framework.dll
+F:\WorkingDir\RubelVhai\BAPA\Incentive-7-10-2016\OMS.Framework\bin\Debug\OMS.Framework.pdb
+F:\WorkingDir\RubelVhai\BAPA\Incentive-7-10-2016\OMS.Framework\obj\Debug\OMS.Framework.csprojResolveAssemblyReference.cache
+F:\WorkingDir\RubelVhai\BAPA\Incentive-7-10-2016\OMS.Framework\obj\Debug\OMS.Framework.dll
+F:\WorkingDir\RubelVhai\BAPA\Incentive-7-10-2016\OMS.Framework\obj\Debug\OMS.Framework.pdb
+F:\SHUVO\BAPA\BAPA\Incentive-24-10-2016\OMS.Framework\bin\Debug\OMS.Framework.dll
+F:\SHUVO\BAPA\BAPA\Incentive-24-10-2016\OMS.Framework\bin\Debug\OMS.Framework.pdb
+F:\SHUVO\BAPA\BAPA\Incentive-24-10-2016\OMS.Framework\obj\Debug\OMS.Framework.csprojResolveAssemblyReference.cache
+F:\SHUVO\BAPA\BAPA\Incentive-24-10-2016\OMS.Framework\obj\Debug\OMS.Framework.dll
+F:\SHUVO\BAPA\BAPA\Incentive-24-10-2016\OMS.Framework\obj\Debug\OMS.Framework.pdb
+F:\WorkingDir\RubelVhai\BAPA-Latest\BAPA_25_10_2016\OMS.Framework\bin\Debug\OMS.Framework.dll
+F:\WorkingDir\RubelVhai\BAPA-Latest\BAPA_25_10_2016\OMS.Framework\bin\Debug\OMS.Framework.pdb
+F:\WorkingDir\RubelVhai\BAPA-Latest\BAPA_25_10_2016\OMS.Framework\obj\Debug\OMS.Framework.csprojResolveAssemblyReference.cache
+F:\WorkingDir\RubelVhai\BAPA-Latest\BAPA_25_10_2016\OMS.Framework\obj\Debug\OMS.Framework.dll
+F:\WorkingDir\RubelVhai\BAPA-Latest\BAPA_25_10_2016\OMS.Framework\obj\Debug\OMS.Framework.pdb
+D:\Imtiaz\BAPA_17_12_2016\BAPA_25_10_2016\OMS.Framework\bin\Debug\OMS.Framework.dll
+D:\Imtiaz\BAPA_17_12_2016\BAPA_25_10_2016\OMS.Framework\bin\Debug\OMS.Framework.pdb
+D:\Imtiaz\BAPA_17_12_2016\BAPA_25_10_2016\OMS.Framework\obj\Debug\OMS.Framework.dll
+D:\Imtiaz\BAPA_17_12_2016\BAPA_25_10_2016\OMS.Framework\obj\Debug\OMS.Framework.pdb
+D:\Imtiaz\BAPA_17_12_2016\BAPA_25_10_2016\OMS.Framework\obj\Debug\OMS.Framework.csprojResolveAssemblyReference.cache
+D:\Imtiaz\BAPA_23_12_2016\OMS.Framework\bin\Debug\OMS.Framework.dll
+D:\Imtiaz\BAPA_23_12_2016\OMS.Framework\bin\Debug\OMS.Framework.pdb
+D:\Imtiaz\BAPA_23_12_2016\OMS.Framework\obj\Debug\OMS.Framework.dll
+D:\Imtiaz\BAPA_23_12_2016\OMS.Framework\obj\Debug\OMS.Framework.pdb
+D:\Office\BAPA\BAPA_7_2_20176(1)\BAPA_23_12_2016\OMS.Framework\bin\Debug\OMS.Framework.dll
+D:\Office\BAPA\BAPA_7_2_20176(1)\BAPA_23_12_2016\OMS.Framework\bin\Debug\OMS.Framework.pdb
+D:\Office\BAPA\BAPA_7_2_20176(1)\BAPA_23_12_2016\OMS.Framework\obj\Debug\OMS.Framework.csprojResolveAssemblyReference.cache
+D:\Office\BAPA\BAPA_7_2_20176(1)\BAPA_23_12_2016\OMS.Framework\obj\Debug\OMS.Framework.dll
+D:\Office\BAPA\BAPA_7_2_20176(1)\BAPA_23_12_2016\OMS.Framework\obj\Debug\OMS.Framework.pdb
+E:\BAPA_10_3_2017\BAPA_10_3_2017\OMS.Framework\bin\Debug\OMS.Framework.dll
+E:\BAPA_10_3_2017\BAPA_10_3_2017\OMS.Framework\bin\Debug\OMS.Framework.pdb
+E:\BAPA_10_3_2017\BAPA_10_3_2017\OMS.Framework\obj\Debug\OMS.Framework.csprojResolveAssemblyReference.cache
+E:\BAPA_10_3_2017\BAPA_10_3_2017\OMS.Framework\obj\Debug\OMS.Framework.dll
+E:\BAPA_10_3_2017\BAPA_10_3_2017\OMS.Framework\obj\Debug\OMS.Framework.pdb

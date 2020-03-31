@@ -1,0 +1,221 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="OMS.master.cs" Inherits="OMS.WebClient.OMS" %>
+
+<%@ Register Assembly="AjaxControlToolkit" Namespace="AjaxControlToolkit" TagPrefix="cc1" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>e-Ticket</title>
+    <link rel="stylesheet" type="text/css" href="App_Themes/Default/MainCSS.css" />
+    <link rel="stylesheet" type="text/css" href="App_Themes/Default/Menu.css" />
+    
+    <script type="text/javascript" src="js/cssverticalmenu.js" />
+
+    <script language="javascript" type="text/javascripBt" ></script>
+    
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    
+    <style type="text/css">
+        .auto-style1 {
+            width: 103%;
+        }
+    </style>
+    
+    </head>
+<body>
+    <form id="form1" runat="server">
+    <cc1:ToolkitScriptManager ID="ToolkitScriptManager1" runat="server">
+        <Scripts>
+            <asp:ScriptReference NotifyScriptLoaded="true" Path="~/App_Themes/Default/_lib/js/jquery-1.4.2.min.js" />
+            <asp:ScriptReference NotifyScriptLoaded="true" Path="~/App_Themes/Default/_lib/js/vmenu.js" />
+            </Scripts>
+    </cc1:ToolkitScriptManager>
+   <div>
+        <table width="100%" align="center" style="border-style: groove; border-width: thin">
+        <tr>
+            <td colspan="2">
+            <table width ="100%">
+                <tr>
+                <td>
+                    <asp:Image ID="imgLogo" runat="server"/>
+                    <%--<asp:Image ID="imgLogo" runat="server" Height="100px" Width="100px" />--%>
+                                        <%--<asp:Image ID="Image1" runat="server" ImageUrl="~/Images/PrimeTech_Logo.jpg" 
+                                        Height="100px" Width="100px" />--%>
+                       <br />
+                    <asp:Label ID="lblCompany" runat="server" Text="" style="font-size:16px; font-weight:bold;"></asp:Label>
+                      <br />
+                    <asp:Label ID="lblAddress"
+                        runat="server" Text="" style="font-size:14px; font-weight:bold;"></asp:Label>
+                                                
+                </td>
+                <td  style="width: 30%; vertical-align:bottom;" align="right">
+                    <asp:Image ID="Image1" runat="server" ImageUrl="~/Images/eHishab.jpg" />
+                    <br />
+                               <h2 align ="right" style="color: #0000FF;" >Welcome To e-Hishab</h2>
+                    
+                </td>
+            </tr>
+            </table>
+            </td>
+        </tr>
+            
+            <tr>
+            <td align="left" >
+                <asp:Label ID="lblBranchName" runat="server" ForeColor="Maroon" 
+                    Font-Bold="True"></asp:Label>
+            </td>
+                <td align="right" class="auto-style1">
+                    <asp:HyperLink ID="lnkChangePassword" runat="server" Text="Change Password" NavigateUrl="~/ChangePassword.aspx"></asp:HyperLink>&nbsp;&nbsp;||&nbsp;&nbsp;<asp:LinkButton CausesValidation="false" ID="lnkSignOut" runat="server" onclick="lnkSignOut_Click">SignOut</asp:LinkButton>
+                </td>
+            </tr>
+            <tr>
+                <td style="width:300px;border-color:#C0C0C0;border-style:solid;border-width:thin"valign="top"; bgcolor="#77ACAA">
+                    <%--<asp:Menu ID="Menu1" runat="server" Height="100%" Width="100%" CssClass="PrettyMenu"
+                        SkinID="SampleMenuVertical" Orientation="Vertical">
+                    </asp:Menu>
+                    <asp:SiteMapDataSource ID="UserSiteMapDataSource" runat="server" ShowStartingNode="False"
+                        SiteMapProvider="General" />--%>
+                    <asp:ListView ID="lvContacts" runat="server" DataKeyNames="IID" OnItemDataBound="lvContacts_ItemDataBound">
+                        <LayoutTemplate>
+                            <table width="100%" >
+                                <tr id="tr1" runat="server" class="dGridHeaderClass">
+                                    <th id="th1" runat="server" align="center">
+                                        <asp:Label ID="lblClassH" runat="server" Text="Contacts"></asp:Label>
+                                    </th>
+                                </tr>
+                                <tr id="itemPlaceholder" runat="server">
+                                </tr>
+                            </table>
+                        </LayoutTemplate>
+                        <ItemTemplate>
+                            <tr id="trBody" runat="server" class="dGridRowClass">
+                                <td align="left" width="80%">
+                                    <asp:HyperLink ID="lnkPage" runat="server"></asp:HyperLink>
+                                </td>
+                            </tr>
+                        </ItemTemplate>
+                    </asp:ListView>
+                    <%--<asp:ListView ID="lvTicketSale" runat="server" DataKeyNames="IID" OnItemDataBound="lvTicketSale_ItemDataBound">
+                        <LayoutTemplate>
+                            <table width="100%" >
+                                <tr id="tr1" runat="server" class="dGridHeaderClass">
+                                    <th id="th1" runat="server" align="center">
+                                        <asp:Label ID="lblClassH" runat="server" Text="Ticket Management"></asp:Label>
+                                    </th>
+                                </tr>
+                                <tr id="itemPlaceholder" runat="server">
+                                </tr>
+                            </table>
+                        </LayoutTemplate>
+                        <ItemTemplate>
+                            <tr id="trBody" runat="server" class="dGridRowClass">
+                                <td align="left" width="80%">
+                                    <asp:HyperLink ID="lnkPage" runat="server"></asp:HyperLink>
+                                </td>
+                            </tr>
+                        </ItemTemplate>
+                    </asp:ListView>--%>
+                    <asp:ListView ID="lvFinancialManagement" runat="server" DataKeyNames="IID" OnItemDataBound="lvFinancialManagement_ItemDataBound">
+                        <LayoutTemplate>
+                            <table width="100%" >
+                                <tr id="tr1" runat="server" class="dGridHeaderClass">
+                                    <th id="th1" runat="server" align="center">
+                                        <asp:Label ID="lblClassH" runat="server" Text="Financial Management"></asp:Label>
+                                    </th>
+                                </tr>
+                                <tr id="itemPlaceholder" runat="server">
+                                </tr>
+                            </table>
+                        </LayoutTemplate>
+                        <ItemTemplate>
+                            <tr id="trBody" runat="server" class="dGridRowClass">
+                                <td align="left" width="80%">
+                                    <asp:HyperLink ID="lnkPage" runat="server"></asp:HyperLink>
+                                </td>
+                            </tr>
+                        </ItemTemplate>
+                    </asp:ListView>
+                    
+                    <asp:ListView ID="lvBankManagement" runat="server" DataKeyNames="IID" OnItemDataBound="lvBankManagement_ItemDataBound">
+                        <LayoutTemplate>
+                            <table width="100%" >
+                                
+                                <tr id="tr1" runat="server" class="dGridHeaderClass">
+                                    <th id="th1" runat="server" align="center">
+                                        <asp:Label ID="lblClassH" runat="server" Text="Bank Management"></asp:Label>
+                                    </th>
+                                </tr>
+                                <tr id="itemPlaceholder" runat="server">
+                                </tr>
+                            </table>
+                        </LayoutTemplate>
+                        <ItemTemplate>
+                            <tr id="trBody" runat="server" class="dGridRowClass">
+                                <td align="left" width="80%">
+                                    <asp:HyperLink ID="lnkPage" runat="server"></asp:HyperLink>
+                                </td>
+                            </tr>
+                        </ItemTemplate>
+                    </asp:ListView>
+                    <%--<asp:ListView ID="lvInventroy" runat="server" DataKeyNames="IID" OnItemDataBound="lvInventroy_ItemDataBound">
+                        <LayoutTemplate>
+                            <table width="100%" >
+                                <tr id="tr1" runat="server" class="dGridHeaderClass">
+                                    <th id="th1" runat="server" align="center">
+                                        <asp:Label ID="lblClassH" runat="server" Text="Inventory Management"></asp:Label>
+                                    </th>
+                                </tr>
+                                <tr id="itemPlaceholder" runat="server">
+                                </tr>
+                            </table>
+                        </LayoutTemplate>
+                        <ItemTemplate>
+                            <tr id="trBody" runat="server" class="dGridRowClass">
+                                <td align="left" width="80%">
+                                    <asp:HyperLink ID="lnkPage" runat="server"></asp:HyperLink>
+                                </td>
+                            </tr>
+                        </ItemTemplate>
+                    </asp:ListView>--%>
+                    <asp:ListView ID="lvAdminManagement" runat="server" DataKeyNames="IID" OnItemDataBound="lvAdminManagement_ItemDataBound">
+                        <LayoutTemplate>
+                            <table width="100%" >
+                                <tr id="tr1" runat="server" class="dGridHeaderClass">
+                                    <th id="th1" runat="server" align="center">
+                                        <asp:Label ID="lblClassH" runat="server" Text="Admin Management"></asp:Label>
+                                    </th>
+                                </tr>
+                                <tr id="itemPlaceholder" runat="server">
+                                </tr>
+                            </table>
+                        </LayoutTemplate>
+                        <ItemTemplate>
+                            <tr id="trBody" runat="server" class="dGridRowClass">
+                                <td align="left" width="80%">
+                                    <asp:HyperLink ID="lnkPage" runat="server"></asp:HyperLink>
+                                </td>
+                            </tr>
+                        </ItemTemplate>
+                    </asp:ListView>
+                </td>
+                
+                <td valign="top" bgcolor="#EFF7FF" style="border: thin solid #C0C0C0;" class="auto-style1">
+                    
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                        </asp:ContentPlaceHolder>
+                    
+                </td>
+            </tr>
+            
+            <tr>
+                <td align ="center" colspan= "2" style="border: thin solid #C0C0C0; background-color :#006666; color: #FFFFFF; font-size: x-small;">
+                    <br />
+                    <h3>e-Hishab(Meets the Local Requirements)</h3> 
+                    <br />
+                </td>
+            </tr>
+        </table>
+    </div>
+    </form>
+</body>
+</html>

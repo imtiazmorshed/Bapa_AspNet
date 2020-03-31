@@ -1,0 +1,337 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\AccountingPublish</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="App_Themes/Default/Default.skin">
+      <publishTime>03/04/2012 06:05:18</publishTime>
+    </File>
+    <File Include="App_Themes/Default/MainCSS.css">
+      <publishTime>12/19/2016 04:40:32</publishTime>
+    </File>
+    <File Include="App_Themes/Default/Menu.css">
+      <publishTime>05/20/2012 12:28:54</publishTime>
+    </File>
+    <File Include="App_Themes/Default/_lib/common/11.png">
+      <publishTime>10/05/2011 07:58:20</publishTime>
+    </File>
+    <File Include="App_Themes/Default/_lib/common/btn.png">
+      <publishTime>10/11/2011 05:31:18</publishTime>
+    </File>
+    <File Include="App_Themes/Default/_lib/common/btnImg.png">
+      <publishTime>03/06/2012 02:18:12</publishTime>
+    </File>
+    <File Include="App_Themes/Default/_lib/common/notice.png">
+      <publishTime>09/14/2011 06:56:12</publishTime>
+    </File>
+    <File Include="App_Themes/Default/_lib/css/login.css">
+      <publishTime>10/22/2011 12:48:38</publishTime>
+    </File>
+    <File Include="App_Themes/Default/_lib/css/style.css">
+      <publishTime>05/29/2012 01:10:16</publishTime>
+    </File>
+    <File Include="App_Themes/Default/_lib/js/jquery-1.4.2.min.js">
+      <publishTime>05/11/2012 06:28:16</publishTime>
+    </File>
+    <File Include="App_Themes/Default/_lib/js/menu.js">
+      <publishTime>05/11/2012 06:28:16</publishTime>
+    </File>
+    <File Include="App_Themes/Default/_lib/js/vmenu.js">
+      <publishTime>05/11/2012 06:28:16</publishTime>
+    </File>
+    <File Include="bin/AjaxControlToolkit.dll">
+      <publishTime>12/19/2016 04:40:32</publishTime>
+    </File>
+    <File Include="bin/crystaldecisions.crystalreports.engine.dll">
+      <publishTime>10/14/2007 06:01:52</publishTime>
+    </File>
+    <File Include="bin/crystaldecisions.reportsource.dll">
+      <publishTime>10/14/2007 06:01:52</publishTime>
+    </File>
+    <File Include="bin/crystaldecisions.shared.dll">
+      <publishTime>10/14/2007 06:01:48</publishTime>
+    </File>
+    <File Include="bin/crystaldecisions.web.dll">
+      <publishTime>10/14/2007 06:02:26</publishTime>
+    </File>
+    <File Include="bin/Google.Maps.dll">
+      <publishTime>12/19/2016 04:40:42</publishTime>
+    </File>
+    <File Include="bin/Google.Maps.pdb">
+      <publishTime>12/19/2016 04:40:42</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>12/19/2016 04:40:42</publishTime>
+    </File>
+    <File Include="bin/OMS.DAL.dll">
+      <publishTime>03/11/2017 00:12:50</publishTime>
+    </File>
+    <File Include="bin/OMS.DAL.pdb">
+      <publishTime>03/11/2017 00:12:50</publishTime>
+    </File>
+    <File Include="bin/OMS.Facade.dll">
+      <publishTime>03/11/2017 01:17:32</publishTime>
+    </File>
+    <File Include="bin/OMS.Facade.pdb">
+      <publishTime>03/11/2017 01:17:32</publishTime>
+    </File>
+    <File Include="bin/OMS.Framework.dll">
+      <publishTime>03/11/2017 00:12:50</publishTime>
+    </File>
+    <File Include="bin/OMS.Framework.pdb">
+      <publishTime>03/11/2017 00:12:50</publishTime>
+    </File>
+    <File Include="bin/OMS.WebClient.dll">
+      <publishTime>03/25/2017 14:25:47</publishTime>
+    </File>
+    <File Include="bin/OMS.WebClient.pdb">
+      <publishTime>03/25/2017 14:25:47</publishTime>
+    </File>
+    <File Include="ChangePassword.aspx">
+      <publishTime>05/24/2012 13:07:00</publishTime>
+    </File>
+    <File Include="Controls/accountTree.ascx">
+      <publishTime>12/08/2011 03:32:50</publishTime>
+    </File>
+    <File Include="Controls/ucTransaction.ascx">
+      <publishTime>12/19/2016 04:40:34</publishTime>
+    </File>
+    <File Include="Controls/wucChannelOrderDetail.ascx">
+      <publishTime>08/08/2010 01:33:42</publishTime>
+    </File>
+    <File Include="Controls/wucCustomerReceivable.ascx">
+      <publishTime>12/19/2016 04:40:34</publishTime>
+    </File>
+    <File Include="Controls/wucMoneyReceipt.ascx">
+      <publishTime>12/19/2016 04:40:34</publishTime>
+    </File>
+    <File Include="Controls/wucReportAirlinesPayment.ascx">
+      <publishTime>12/19/2016 04:40:34</publishTime>
+    </File>
+    <File Include="Controls/wucReportCustomerReceivable.ascx">
+      <publishTime>03/27/2013 00:15:00</publishTime>
+    </File>
+    <File Include="Controls/wucReportSale.ascx">
+      <publishTime>12/19/2016 04:40:34</publishTime>
+    </File>
+    <File Include="Controls/wucVoucher.ascx">
+      <publishTime>12/19/2016 04:40:34</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>08/08/2010 01:33:42</publishTime>
+    </File>
+    <File Include="EHishabHome.aspx">
+      <publishTime>12/19/2016 04:40:30</publishTime>
+    </File>
+    <File Include="General.sitemap">
+      <publishTime>12/19/2016 04:40:30</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>04/18/2012 08:24:58</publishTime>
+    </File>
+    <File Include="Images/button_login.gif">
+      <publishTime>08/28/2010 23:55:16</publishTime>
+    </File>
+    <File Include="Images/cross.gif">
+      <publishTime>08/28/2010 23:55:16</publishTime>
+    </File>
+    <File Include="Images/DeleteRed.ico">
+      <publishTime>08/31/2010 00:20:28</publishTime>
+    </File>
+    <File Include="Images/eHishabLogo.JPG">
+      <publishTime>12/19/2016 04:40:34</publishTime>
+    </File>
+    <File Include="Images/LogoS.jpg">
+      <publishTime>04/23/2013 22:41:48</publishTime>
+    </File>
+    <File Include="Images/pop520x420.gif">
+      <publishTime>08/28/2010 23:55:16</publishTime>
+    </File>
+    <File Include="Images/pop720x420.gif">
+      <publishTime>12/08/2011 02:44:14</publishTime>
+    </File>
+    <File Include="js/cssverticalmenu.js">
+      <publishTime>02/02/2012 07:44:40</publishTime>
+    </File>
+    <File Include="js/jquery.js">
+      <publishTime>08/08/2010 01:33:42</publishTime>
+    </File>
+    <File Include="Login.aspx">
+      <publishTime>12/19/2016 04:40:30</publishTime>
+    </File>
+    <File Include="NoPermission.aspx">
+      <publishTime>05/22/2012 12:15:54</publishTime>
+    </File>
+    <File Include="OMS.Master">
+      <publishTime>12/19/2016 04:40:32</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>12/19/2016 04:40:32</publishTime>
+    </File>
+    <File Include="Report/frmReport.aspx">
+      <publishTime>08/08/2010 01:33:42</publishTime>
+    </File>
+    <File Include="TestOMS.aspx">
+      <publishTime>08/08/2010 01:33:42</publishTime>
+    </File>
+    <File Include="UIAccount/accountReport.aspx">
+      <publishTime>05/22/2012 12:37:22</publishTime>
+    </File>
+    <File Include="UIAccount/BalanceSheetNew.aspx">
+      <publishTime>12/19/2016 04:40:38</publishTime>
+    </File>
+    <File Include="UIAccount/BalanceSheetView.aspx">
+      <publishTime>12/19/2016 04:40:38</publishTime>
+    </File>
+    <File Include="UIAccount/BankAccountView.aspx">
+      <publishTime>12/19/2016 04:40:38</publishTime>
+    </File>
+    <File Include="UIAccount/BankBranchView.aspx">
+      <publishTime>03/28/2013 04:53:26</publishTime>
+    </File>
+    <File Include="UIAccount/BankLinkToChartOfAccount.aspx">
+      <publishTime>12/19/2016 04:40:38</publishTime>
+    </File>
+    <File Include="UIAccount/BankTransactionView.aspx">
+      <publishTime>03/28/2013 05:25:00</publishTime>
+    </File>
+    <File Include="UIAccount/BankView.aspx">
+      <publishTime>12/19/2016 04:40:38</publishTime>
+    </File>
+    <File Include="UIAccount/ChartOfAccountView.aspx">
+      <publishTime>12/19/2016 04:40:38</publishTime>
+    </File>
+    <File Include="UIAccount/ChequeBookView.aspx">
+      <publishTime>05/22/2012 12:39:28</publishTime>
+    </File>
+    <File Include="UIAccount/LedgerBalanceView.aspx">
+      <publishTime>12/19/2016 04:40:38</publishTime>
+    </File>
+    <File Include="UIAccount/PaymentTransactionView.aspx">
+      <publishTime>05/29/2012 00:56:34</publishTime>
+    </File>
+    <File Include="UIAccount/Print.aspx">
+      <publishTime>12/13/2011 00:03:48</publishTime>
+    </File>
+    <File Include="UIAccount/ProfitAndLossView.aspx">
+      <publishTime>12/19/2016 04:40:38</publishTime>
+    </File>
+    <File Include="UIAccount/ReceiveTransactionView.aspx">
+      <publishTime>05/22/2012 12:32:22</publishTime>
+    </File>
+    <File Include="UIAccount/rptVoucher.aspx">
+      <publishTime>12/19/2016 04:40:38</publishTime>
+    </File>
+    <File Include="UIAccount/TransactionPostingView.aspx">
+      <publishTime>03/28/2013 05:25:44</publishTime>
+    </File>
+    <File Include="UIAccount/TrialBalanceView.aspx">
+      <publishTime>12/19/2016 04:40:40</publishTime>
+    </File>
+    <File Include="UIAccount/VoucherTransactionFrom.aspx">
+      <publishTime>05/22/2012 12:32:46</publishTime>
+    </File>
+    <File Include="UIAdmin/CompanyInfoView.aspx">
+      <publishTime>12/19/2016 04:40:40</publishTime>
+    </File>
+    <File Include="UIAdmin/CreateRole.aspx">
+      <publishTime>05/22/2012 12:43:28</publishTime>
+    </File>
+    <File Include="UIAdmin/CreateUser.aspx">
+      <publishTime>03/27/2013 12:06:00</publishTime>
+    </File>
+    <File Include="UIAsset/AssetInfoCreate.aspx">
+      <publishTime>12/19/2016 04:40:40</publishTime>
+    </File>
+    <File Include="UIAsset/AssetType.aspx">
+      <publishTime>12/19/2016 04:40:40</publishTime>
+    </File>
+    <File Include="UIAsset/AssetTypeRatioSetup.aspx">
+      <publishTime>12/19/2016 04:40:40</publishTime>
+    </File>
+    <File Include="UIInventory/ChannelOrderDetailView.aspx">
+      <publishTime>03/10/2013 01:27:06</publishTime>
+    </File>
+    <File Include="UIInventory/ChannelSubOrderDetailView.aspx">
+      <publishTime>12/22/2010 05:23:38</publishTime>
+    </File>
+    <File Include="UIInventory/ChannelView.aspx">
+      <publishTime>08/08/2010 01:33:42</publishTime>
+    </File>
+    <File Include="UIInventory/ChannelWiseTotalOrderView.aspx">
+      <publishTime>08/08/2010 01:33:42</publishTime>
+    </File>
+    <File Include="UIInventory/CustomerView.aspx">
+      <publishTime>12/19/2016 04:40:40</publishTime>
+    </File>
+    <File Include="UIInventory/ItemView.aspx">
+      <publishTime>01/04/2011 05:41:38</publishTime>
+    </File>
+    <File Include="UIInventory/MeasurementUnitView.aspx">
+      <publishTime>04/24/2013 05:41:34</publishTime>
+    </File>
+    <File Include="UIInventory/OrderView.aspx">
+      <publishTime>04/24/2013 05:41:34</publishTime>
+    </File>
+    <File Include="UIInventory/PrintChannelOrderDetailView.aspx">
+      <publishTime>04/24/2013 05:41:34</publishTime>
+    </File>
+    <File Include="UIInventory/PurchaseView.aspx">
+      <publishTime>04/24/2013 05:41:34</publishTime>
+    </File>
+    <File Include="UIInventory/SaleView.aspx">
+      <publishTime>04/24/2013 05:41:36</publishTime>
+    </File>
+    <File Include="UIInventory/StockDetailView.aspx">
+      <publishTime>04/24/2013 05:41:36</publishTime>
+    </File>
+    <File Include="UIInventory/SupplierView.aspx">
+      <publishTime>12/19/2016 04:40:40</publishTime>
+    </File>
+    <File Include="UITicketSale/AirLinesPaymentView.aspx">
+      <publishTime>12/19/2016 04:40:40</publishTime>
+    </File>
+    <File Include="UITicketSale/CustomerReceivableView.aspx">
+      <publishTime>04/24/2013 05:41:36</publishTime>
+    </File>
+    <File Include="UITicketSale/rptAirlinesayment.aspx">
+      <publishTime>04/24/2013 05:41:36</publishTime>
+    </File>
+    <File Include="UITicketSale/rptCustomerRecevable.aspx">
+      <publishTime>04/24/2013 05:41:36</publishTime>
+    </File>
+    <File Include="UITicketSale/rptInvoice.aspx">
+      <publishTime>12/19/2016 04:40:40</publishTime>
+    </File>
+    <File Include="UITicketSale/rptMoneyReceipt.aspx">
+      <publishTime>12/19/2016 04:40:40</publishTime>
+    </File>
+    <File Include="UITicketSale/rptPayment.aspx">
+      <publishTime>04/24/2013 05:41:36</publishTime>
+    </File>
+    <File Include="UITicketSale/rptReceipt.aspx">
+      <publishTime>04/24/2013 05:41:36</publishTime>
+    </File>
+    <File Include="UITicketSale/rptSaleView.aspx">
+      <publishTime>12/19/2016 04:40:42</publishTime>
+    </File>
+    <File Include="UITicketSale/rptVoucher.aspx">
+      <publishTime>12/19/2016 04:40:42</publishTime>
+    </File>
+    <File Include="UITicketSale/TicketSaleView.aspx">
+      <publishTime>12/19/2016 04:40:42</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>12/24/2016 00:00:14</publishTime>
+    </File>
+    <File Include="WebForm1.aspx">
+      <publishTime>05/22/2012 12:47:08</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

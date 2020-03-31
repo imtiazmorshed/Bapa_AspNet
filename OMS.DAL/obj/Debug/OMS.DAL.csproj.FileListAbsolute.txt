@@ -1,0 +1,272 @@
+D:\Order Management\OMSSourceSafe\OMS.DAL\bin\Debug\OMS.DAL.dll.config
+D:\Order Management\OMSSourceSafe\OMS.DAL\bin\Debug\OMS.DAL.dll
+D:\Order Management\OMSSourceSafe\OMS.DAL\bin\Debug\OMS.DAL.pdb
+D:\Order Management\OMSSourceSafe\OMS.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Order Management\OMSSourceSafe\OMS.DAL\obj\Debug\OMS.DAL.dll
+D:\Order Management\OMSSourceSafe\OMS.DAL\obj\Debug\OMS.DAL.pdb
+D:\PersonalProject\OMSSourceSafe\OMS.DAL\bin\Debug\OMS.DAL.dll.config
+D:\PersonalProject\OMSSourceSafe\OMS.DAL\bin\Debug\OMS.DAL.dll
+D:\PersonalProject\OMSSourceSafe\OMS.DAL\bin\Debug\OMS.DAL.pdb
+D:\PersonalProject\OMSSourceSafe\OMS.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\PersonalProject\OMSSourceSafe\OMS.DAL\obj\Debug\OMS.DAL.dll
+D:\PersonalProject\OMSSourceSafe\OMS.DAL\obj\Debug\OMS.DAL.pdb
+D:\31-01-2012\OMSSourceSafe\OMS.DAL\bin\Debug\OMS.DAL.dll.config
+D:\31-01-2012\OMSSourceSafe\OMS.DAL\bin\Debug\OMS.DAL.dll
+D:\31-01-2012\OMSSourceSafe\OMS.DAL\bin\Debug\OMS.DAL.pdb
+D:\31-01-2012\OMSSourceSafe\OMS.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\31-01-2012\OMSSourceSafe\OMS.DAL\obj\Debug\OMS.DAL.dll
+D:\31-01-2012\OMSSourceSafe\OMS.DAL\obj\Debug\OMS.DAL.pdb
+E:\Zia_Working\OMSSourceSafe\OMSSourceSafe\OMS.DAL\bin\Debug\OMS.DAL.dll.config
+E:\Zia_Working\OMSSourceSafe\OMSSourceSafe\OMS.DAL\bin\Debug\OMS.DAL.dll
+E:\Zia_Working\OMSSourceSafe\OMSSourceSafe\OMS.DAL\bin\Debug\OMS.DAL.pdb
+E:\Zia_Working\OMSSourceSafe\OMSSourceSafe\OMS.DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\Zia_Working\OMSSourceSafe\OMSSourceSafe\OMS.DAL\obj\Debug\OMS.DAL.dll
+E:\Zia_Working\OMSSourceSafe\OMSSourceSafe\OMS.DAL\obj\Debug\OMS.DAL.pdb
+E:\Own Project\ehishab_solution\OMS.DAL\bin\Debug\OMS.DAL.dll.config
+E:\Own Project\ehishab_solution\OMS.DAL\bin\Debug\OMS.DAL.dll
+E:\Own Project\ehishab_solution\OMS.DAL\bin\Debug\OMS.DAL.pdb
+E:\Own Project\ehishab_solution\OMS.DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\Own Project\ehishab_solution\OMS.DAL\obj\Debug\OMS.DAL.dll
+E:\Own Project\ehishab_solution\OMS.DAL\obj\Debug\OMS.DAL.pdb
+D:\Personal Project\ehishabNew\ehishab_solution\OMS.DAL\bin\Debug\OMS.DAL.dll.config
+D:\Personal Project\ehishabNew\ehishab_solution\OMS.DAL\bin\Debug\OMS.DAL.dll
+D:\Personal Project\ehishabNew\ehishab_solution\OMS.DAL\bin\Debug\OMS.DAL.pdb
+D:\Personal Project\ehishabNew\ehishab_solution\OMS.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Personal Project\ehishabNew\ehishab_solution\OMS.DAL\obj\Debug\OMS.DAL.dll
+D:\Personal Project\ehishabNew\ehishab_solution\OMS.DAL\obj\Debug\OMS.DAL.pdb
+E:\Zia_Working\ehishabNew\ehishabNew\ehishab_solution\OMS.DAL\bin\Debug\OMS.DAL.dll.config
+E:\Zia_Working\ehishabNew\ehishabNew\ehishab_solution\OMS.DAL\bin\Debug\OMS.DAL.dll
+E:\Zia_Working\ehishabNew\ehishabNew\ehishab_solution\OMS.DAL\bin\Debug\OMS.DAL.pdb
+E:\Zia_Working\ehishabNew\ehishabNew\ehishab_solution\OMS.DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\Zia_Working\ehishabNew\ehishabNew\ehishab_solution\OMS.DAL\obj\Debug\OMS.DAL.dll
+E:\Zia_Working\ehishabNew\ehishabNew\ehishab_solution\OMS.DAL\obj\Debug\OMS.DAL.pdb
+D:\Personal Project\ehishabFinal\ehishab_solution\OMS.DAL\bin\Debug\OMS.DAL.dll.config
+D:\Personal Project\ehishabFinal\ehishab_solution\OMS.DAL\bin\Debug\OMS.DAL.dll
+D:\Personal Project\ehishabFinal\ehishab_solution\OMS.DAL\bin\Debug\OMS.DAL.pdb
+D:\Personal Project\ehishabFinal\ehishab_solution\OMS.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Personal Project\ehishabFinal\ehishab_solution\OMS.DAL\obj\Debug\OMS.DAL.dll
+D:\Personal Project\ehishabFinal\ehishab_solution\OMS.DAL\obj\Debug\OMS.DAL.pdb
+I:\Project 2013\eTicket\ehishab_solution\OMS.DAL\bin\Debug\OMS.DAL.dll.config
+I:\Project 2013\eTicket\ehishab_solution\OMS.DAL\bin\Debug\OMS.DAL.dll
+I:\Project 2013\eTicket\ehishab_solution\OMS.DAL\bin\Debug\OMS.DAL.pdb
+I:\Project 2013\eTicket\ehishab_solution\OMS.DAL\obj\Debug\ResolveAssemblyReference.cache
+I:\Project 2013\eTicket\ehishab_solution\OMS.DAL\obj\Debug\OMS.DAL.dll
+I:\Project 2013\eTicket\ehishab_solution\OMS.DAL\obj\Debug\OMS.DAL.pdb
+E:\Project 2013\eTicketSol\OMS.DAL\bin\Debug\OMS.DAL.dll.config
+E:\Project 2013\eTicketSol\OMS.DAL\bin\Debug\OMS.DAL.dll
+E:\Project 2013\eTicketSol\OMS.DAL\bin\Debug\OMS.DAL.pdb
+E:\Project 2013\eTicketSol\OMS.DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\Project 2013\eTicketSol\OMS.DAL\obj\Debug\OMS.DAL.dll
+E:\Project 2013\eTicketSol\OMS.DAL\obj\Debug\OMS.DAL.pdb
+F:\Zia\eTicketSol\OMS.DAL\bin\Debug\OMS.DAL.dll.config
+F:\Zia\eTicketSol\OMS.DAL\bin\Debug\OMS.DAL.dll
+F:\Zia\eTicketSol\OMS.DAL\bin\Debug\OMS.DAL.pdb
+F:\Zia\eTicketSol\OMS.DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\Zia\eTicketSol\OMS.DAL\obj\Debug\OMS.DAL.dll
+F:\Zia\eTicketSol\OMS.DAL\obj\Debug\OMS.DAL.pdb
+I:\Project 2013\eTicket\eTicketSol\OMS.DAL\bin\Debug\OMS.DAL.dll.config
+I:\Project 2013\eTicket\eTicketSol\OMS.DAL\bin\Debug\OMS.DAL.dll
+I:\Project 2013\eTicket\eTicketSol\OMS.DAL\bin\Debug\OMS.DAL.pdb
+I:\Project 2013\eTicket\eTicketSol\OMS.DAL\obj\Debug\ResolveAssemblyReference.cache
+I:\Project 2013\eTicket\eTicketSol\OMS.DAL\obj\Debug\OMS.DAL.dll
+I:\Project 2013\eTicket\eTicketSol\OMS.DAL\obj\Debug\OMS.DAL.pdb
+F:\eTicketSol\OMS.DAL\bin\Debug\OMS.DAL.dll.config
+F:\eTicketSol\OMS.DAL\bin\Debug\OMS.DAL.dll
+F:\eTicketSol\OMS.DAL\bin\Debug\OMS.DAL.pdb
+F:\eTicketSol\OMS.DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\eTicketSol\OMS.DAL\obj\Debug\OMS.DAL.dll
+F:\eTicketSol\OMS.DAL\obj\Debug\OMS.DAL.pdb
+F:\Zia\eticket_26-08-2013\eTicketSol\OMS.DAL\bin\Debug\OMS.DAL.dll.config
+F:\Zia\eticket_26-08-2013\eTicketSol\OMS.DAL\bin\Debug\OMS.DAL.dll
+F:\Zia\eticket_26-08-2013\eTicketSol\OMS.DAL\bin\Debug\OMS.DAL.pdb
+F:\Zia\eticket_26-08-2013\eTicketSol\OMS.DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\Zia\eticket_26-08-2013\eTicketSol\OMS.DAL\obj\Debug\OMS.DAL.dll
+F:\Zia\eticket_26-08-2013\eTicketSol\OMS.DAL\obj\Debug\OMS.DAL.pdb
+F:\Zia\eticket_29-08-2013\eTicketSol\OMS.DAL\bin\Debug\OMS.DAL.dll.config
+F:\Zia\eticket_29-08-2013\eTicketSol\OMS.DAL\bin\Debug\OMS.DAL.dll
+F:\Zia\eticket_29-08-2013\eTicketSol\OMS.DAL\bin\Debug\OMS.DAL.pdb
+F:\Zia\eticket_29-08-2013\eTicketSol\OMS.DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\Zia\eticket_29-08-2013\eTicketSol\OMS.DAL\obj\Debug\OMS.DAL.dll
+F:\Zia\eticket_29-08-2013\eTicketSol\OMS.DAL\obj\Debug\OMS.DAL.pdb
+F:\Zia\eticket_Sanjar\eTicketSol\OMS.DAL\bin\Debug\OMS.DAL.dll.config
+F:\Zia\eticket_Sanjar\eTicketSol\OMS.DAL\bin\Debug\OMS.DAL.dll
+F:\Zia\eticket_Sanjar\eTicketSol\OMS.DAL\bin\Debug\OMS.DAL.pdb
+F:\Zia\eticket_Sanjar\eTicketSol\OMS.DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\Zia\eticket_Sanjar\eTicketSol\OMS.DAL\obj\Debug\OMS.DAL.dll
+F:\Zia\eticket_Sanjar\eTicketSol\OMS.DAL\obj\Debug\OMS.DAL.pdb
+F:\Zia\eticket_Sanjar\eticket_17-09-2013\eTicketSol\OMS.DAL\bin\Debug\OMS.DAL.dll.config
+F:\Zia\eticket_Sanjar\eticket_17-09-2013\eTicketSol\OMS.DAL\bin\Debug\OMS.DAL.dll
+F:\Zia\eticket_Sanjar\eticket_17-09-2013\eTicketSol\OMS.DAL\bin\Debug\OMS.DAL.pdb
+F:\Zia\eticket_Sanjar\eticket_17-09-2013\eTicketSol\OMS.DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\Zia\eticket_Sanjar\eticket_17-09-2013\eTicketSol\OMS.DAL\obj\Debug\OMS.DAL.dll
+F:\Zia\eticket_Sanjar\eticket_17-09-2013\eTicketSol\OMS.DAL\obj\Debug\OMS.DAL.pdb
+E:\Project 2013\eticket_30-09-2013\eTicketSol\OMS.DAL\bin\Debug\OMS.DAL.dll.config
+E:\Project 2013\eticket_30-09-2013\eTicketSol\OMS.DAL\bin\Debug\OMS.DAL.dll
+E:\Project 2013\eticket_30-09-2013\eTicketSol\OMS.DAL\bin\Debug\OMS.DAL.pdb
+E:\Project 2013\eticket_30-09-2013\eTicketSol\OMS.DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\Project 2013\eticket_30-09-2013\eTicketSol\OMS.DAL\obj\Debug\OMS.DAL.dll
+E:\Project 2013\eticket_30-09-2013\eTicketSol\OMS.DAL\obj\Debug\OMS.DAL.pdb
+F:\Zia\eticket_Sanjar\eticket_23-10-2013\eTicketSol\OMS.DAL\bin\Debug\OMS.DAL.dll.config
+F:\Zia\eticket_Sanjar\eticket_23-10-2013\eTicketSol\OMS.DAL\bin\Debug\OMS.DAL.dll
+F:\Zia\eticket_Sanjar\eticket_23-10-2013\eTicketSol\OMS.DAL\bin\Debug\OMS.DAL.pdb
+F:\Zia\eticket_Sanjar\eticket_23-10-2013\eTicketSol\OMS.DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\Zia\eticket_Sanjar\eticket_23-10-2013\eTicketSol\OMS.DAL\obj\Debug\OMS.DAL.dll
+F:\Zia\eticket_Sanjar\eticket_23-10-2013\eTicketSol\OMS.DAL\obj\Debug\OMS.DAL.pdb
+E:\Project 2013\eTicket_27-10-2013\eticketSol\OMS.DAL\bin\Debug\OMS.DAL.dll.config
+E:\Project 2013\eTicket_27-10-2013\eticketSol\OMS.DAL\bin\Debug\OMS.DAL.dll
+E:\Project 2013\eTicket_27-10-2013\eticketSol\OMS.DAL\bin\Debug\OMS.DAL.pdb
+E:\Project 2013\eTicket_27-10-2013\eticketSol\OMS.DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\Project 2013\eTicket_27-10-2013\eticketSol\OMS.DAL\obj\Debug\OMS.DAL.dll
+E:\Project 2013\eTicket_27-10-2013\eticketSol\OMS.DAL\obj\Debug\OMS.DAL.pdb
+F:\Project 2014\eHishab_babu\OMS.DAL\bin\Debug\OMS.DAL.dll.config
+F:\Project 2014\eHishab_babu\OMS.DAL\bin\Debug\OMS.DAL.dll
+F:\Project 2014\eHishab_babu\OMS.DAL\bin\Debug\OMS.DAL.pdb
+F:\Project 2014\eHishab_babu\OMS.DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\Project 2014\eHishab_babu\OMS.DAL\obj\Debug\OMS.DAL.dll
+F:\Project 2014\eHishab_babu\OMS.DAL\obj\Debug\OMS.DAL.pdb
+F:\Project 2016\AGS Accounts\eHishab_babu\OMS.DAL\bin\Debug\OMS.DAL.dll.config
+F:\Project 2016\AGS Accounts\eHishab_babu\OMS.DAL\bin\Debug\OMS.DAL.dll
+F:\Project 2016\AGS Accounts\eHishab_babu\OMS.DAL\bin\Debug\OMS.DAL.pdb
+F:\Project 2016\AGS Accounts\eHishab_babu\OMS.DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\Project 2016\AGS Accounts\eHishab_babu\OMS.DAL\obj\Debug\OMS.DAL.dll
+F:\Project 2016\AGS Accounts\eHishab_babu\OMS.DAL\obj\Debug\OMS.DAL.pdb
+F:\Project 2016\AGS Accounts\eHishab_AGS\OMS.DAL\bin\Debug\OMS.DAL.dll.config
+F:\Project 2016\AGS Accounts\eHishab_AGS\OMS.DAL\bin\Debug\OMS.DAL.dll
+F:\Project 2016\AGS Accounts\eHishab_AGS\OMS.DAL\bin\Debug\OMS.DAL.pdb
+F:\Project 2016\AGS Accounts\eHishab_AGS\OMS.DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\Project 2016\AGS Accounts\eHishab_AGS\OMS.DAL\obj\Debug\OMS.DAL.dll
+F:\Project 2016\AGS Accounts\eHishab_AGS\OMS.DAL\obj\Debug\OMS.DAL.pdb
+D:\Project 2016\AGS Int\eHishab_AGS\OMS.DAL\bin\Debug\OMS.DAL.dll.config
+D:\Project 2016\AGS Int\eHishab_AGS\OMS.DAL\bin\Debug\OMS.DAL.dll
+D:\Project 2016\AGS Int\eHishab_AGS\OMS.DAL\bin\Debug\OMS.DAL.pdb
+D:\Project 2016\AGS Int\eHishab_AGS\OMS.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Project 2016\AGS Int\eHishab_AGS\OMS.DAL\obj\Debug\OMS.DAL.dll
+D:\Project 2016\AGS Int\eHishab_AGS\OMS.DAL\obj\Debug\OMS.DAL.pdb
+E:\Software\LOCAL SERVER\PrimetechAccounts\OMS.DAL\bin\Debug\OMS.DAL.dll.config
+E:\Software\LOCAL SERVER\PrimetechAccounts\OMS.DAL\bin\Debug\OMS.DAL.dll
+E:\Software\LOCAL SERVER\PrimetechAccounts\OMS.DAL\bin\Debug\OMS.DAL.pdb
+E:\Software\LOCAL SERVER\PrimetechAccounts\OMS.DAL\obj\Debug\OMS.DAL.dll
+E:\Software\LOCAL SERVER\PrimetechAccounts\OMS.DAL\obj\Debug\OMS.DAL.pdb
+F:\SHUVO\PrimetechAccounts\PrimetechAccounts\OMS.DAL\bin\Debug\OMS.DAL.dll.config
+F:\SHUVO\PrimetechAccounts\PrimetechAccounts\OMS.DAL\bin\Debug\OMS.DAL.dll
+F:\SHUVO\PrimetechAccounts\PrimetechAccounts\OMS.DAL\bin\Debug\OMS.DAL.pdb
+F:\SHUVO\PrimetechAccounts\PrimetechAccounts\OMS.DAL\obj\Debug\OMS.DAL.dll
+F:\SHUVO\PrimetechAccounts\PrimetechAccounts\OMS.DAL\obj\Debug\OMS.DAL.pdb
+F:\SHUVO\PrimetechAccounts\PrimetechAccounts\OMS.DAL\obj\Debug\OMS.DAL.csprojResolveAssemblyReference.cache
+F:\SHUVO\BAPA\PrimetechAccounts 14-06-2016\OMS.DAL\bin\Debug\OMS.DAL.dll.config
+F:\SHUVO\BAPA\PrimetechAccounts 14-06-2016\OMS.DAL\bin\Debug\OMS.DAL.dll
+F:\SHUVO\BAPA\PrimetechAccounts 14-06-2016\OMS.DAL\bin\Debug\OMS.DAL.pdb
+F:\SHUVO\BAPA\PrimetechAccounts 14-06-2016\OMS.DAL\obj\Debug\OMS.DAL.csprojResolveAssemblyReference.cache
+F:\SHUVO\BAPA\PrimetechAccounts 14-06-2016\OMS.DAL\obj\Debug\OMS.DAL.dll
+F:\SHUVO\BAPA\PrimetechAccounts 14-06-2016\OMS.DAL\obj\Debug\OMS.DAL.pdb
+C:\Users\SHUVO\Desktop\BAPA\PrimetechAccounts 16-06-2016\PrimetechAccounts 14-06-2016\OMS.DAL\bin\Debug\OMS.DAL.dll.config
+C:\Users\SHUVO\Desktop\BAPA\PrimetechAccounts 16-06-2016\PrimetechAccounts 14-06-2016\OMS.DAL\bin\Debug\OMS.DAL.dll
+C:\Users\SHUVO\Desktop\BAPA\PrimetechAccounts 16-06-2016\PrimetechAccounts 14-06-2016\OMS.DAL\bin\Debug\OMS.DAL.pdb
+C:\Users\SHUVO\Desktop\BAPA\PrimetechAccounts 16-06-2016\PrimetechAccounts 14-06-2016\OMS.DAL\obj\Debug\OMS.DAL.csprojResolveAssemblyReference.cache
+C:\Users\SHUVO\Desktop\BAPA\PrimetechAccounts 16-06-2016\PrimetechAccounts 14-06-2016\OMS.DAL\obj\Debug\OMS.DAL.dll
+C:\Users\SHUVO\Desktop\BAPA\PrimetechAccounts 16-06-2016\PrimetechAccounts 14-06-2016\OMS.DAL\obj\Debug\OMS.DAL.pdb
+D:\Shovo\PrimetechAccounts 18-06-2016 Night\PrimetechAccounts 14-06-2016\OMS.DAL\bin\Debug\OMS.DAL.dll.config
+D:\Shovo\PrimetechAccounts 18-06-2016 Night\PrimetechAccounts 14-06-2016\OMS.DAL\bin\Debug\OMS.DAL.dll
+D:\Shovo\PrimetechAccounts 18-06-2016 Night\PrimetechAccounts 14-06-2016\OMS.DAL\bin\Debug\OMS.DAL.pdb
+D:\Shovo\PrimetechAccounts 18-06-2016 Night\PrimetechAccounts 14-06-2016\OMS.DAL\obj\Debug\OMS.DAL.csprojResolveAssemblyReference.cache
+D:\Shovo\PrimetechAccounts 18-06-2016 Night\PrimetechAccounts 14-06-2016\OMS.DAL\obj\Debug\OMS.DAL.dll
+D:\Shovo\PrimetechAccounts 18-06-2016 Night\PrimetechAccounts 14-06-2016\OMS.DAL\obj\Debug\OMS.DAL.pdb
+F:\SHUVO\BAPA\PrimetechAccounts1-07-2016\OMS.DAL\bin\Debug\OMS.DAL.dll.config
+F:\SHUVO\BAPA\PrimetechAccounts1-07-2016\OMS.DAL\bin\Debug\OMS.DAL.dll
+F:\SHUVO\BAPA\PrimetechAccounts1-07-2016\OMS.DAL\bin\Debug\OMS.DAL.pdb
+F:\SHUVO\BAPA\PrimetechAccounts1-07-2016\OMS.DAL\obj\Debug\OMS.DAL.dll
+F:\SHUVO\BAPA\PrimetechAccounts1-07-2016\OMS.DAL\obj\Debug\OMS.DAL.pdb
+D:\working\BAPA\PrimetechAccounts17-07-2016 (1)\OMS.DAL\bin\Debug\OMS.DAL.dll.config
+D:\working\BAPA\PrimetechAccounts17-07-2016 (1)\OMS.DAL\bin\Debug\OMS.DAL.dll
+D:\working\BAPA\PrimetechAccounts17-07-2016 (1)\OMS.DAL\bin\Debug\OMS.DAL.pdb
+D:\working\BAPA\PrimetechAccounts17-07-2016 (1)\OMS.DAL\obj\Debug\OMS.DAL.csprojResolveAssemblyReference.cache
+D:\working\BAPA\PrimetechAccounts17-07-2016 (1)\OMS.DAL\obj\Debug\OMS.DAL.dll
+D:\working\BAPA\PrimetechAccounts17-07-2016 (1)\OMS.DAL\obj\Debug\OMS.DAL.pdb
+F:\SHUVO\BAPA\PrimetechAccounts-8-08-2016 (1)\PrimetechAccounts17-07-2016 (1)\OMS.DAL\bin\Debug\OMS.DAL.dll.config
+F:\SHUVO\BAPA\PrimetechAccounts-8-08-2016 (1)\PrimetechAccounts17-07-2016 (1)\OMS.DAL\bin\Debug\OMS.DAL.dll
+F:\SHUVO\BAPA\PrimetechAccounts-8-08-2016 (1)\PrimetechAccounts17-07-2016 (1)\OMS.DAL\bin\Debug\OMS.DAL.pdb
+F:\SHUVO\BAPA\PrimetechAccounts-8-08-2016 (1)\PrimetechAccounts17-07-2016 (1)\OMS.DAL\obj\Debug\OMS.DAL.csprojResolveAssemblyReference.cache
+F:\SHUVO\BAPA\PrimetechAccounts-8-08-2016 (1)\PrimetechAccounts17-07-2016 (1)\OMS.DAL\obj\Debug\OMS.DAL.dll
+F:\SHUVO\BAPA\PrimetechAccounts-8-08-2016 (1)\PrimetechAccounts17-07-2016 (1)\OMS.DAL\obj\Debug\OMS.DAL.pdb
+D:\working\BAPA\PrimetechAccounts-11-08-2016\OMS.DAL\bin\Debug\OMS.DAL.dll.config
+D:\working\BAPA\PrimetechAccounts-11-08-2016\OMS.DAL\bin\Debug\OMS.DAL.dll
+D:\working\BAPA\PrimetechAccounts-11-08-2016\OMS.DAL\bin\Debug\OMS.DAL.pdb
+D:\working\BAPA\PrimetechAccounts-11-08-2016\OMS.DAL\obj\Debug\OMS.DAL.csprojResolveAssemblyReference.cache
+D:\working\BAPA\PrimetechAccounts-11-08-2016\OMS.DAL\obj\Debug\OMS.DAL.dll
+D:\working\BAPA\PrimetechAccounts-11-08-2016\OMS.DAL\obj\Debug\OMS.DAL.pdb
+D:\Projects\Incentive-14-08-2016\OMS.DAL\bin\Debug\OMS.DAL.dll.config
+D:\Projects\Incentive-14-08-2016\OMS.DAL\bin\Debug\OMS.DAL.dll
+D:\Projects\Incentive-14-08-2016\OMS.DAL\bin\Debug\OMS.DAL.pdb
+D:\Projects\Incentive-14-08-2016\OMS.DAL\obj\Debug\OMS.DAL.csprojResolveAssemblyReference.cache
+D:\Projects\Incentive-14-08-2016\OMS.DAL\obj\Debug\OMS.DAL.dll
+D:\Projects\Incentive-14-08-2016\OMS.DAL\obj\Debug\OMS.DAL.pdb
+D:\working\BAPA\Incentive-15-08-2016\OMS.DAL\bin\Debug\OMS.DAL.dll.config
+D:\working\BAPA\Incentive-15-08-2016\OMS.DAL\bin\Debug\OMS.DAL.dll
+D:\working\BAPA\Incentive-15-08-2016\OMS.DAL\bin\Debug\OMS.DAL.pdb
+D:\working\BAPA\Incentive-15-08-2016\OMS.DAL\obj\Debug\OMS.DAL.csprojResolveAssemblyReference.cache
+D:\working\BAPA\Incentive-15-08-2016\OMS.DAL\obj\Debug\OMS.DAL.dll
+D:\working\BAPA\Incentive-15-08-2016\OMS.DAL\obj\Debug\OMS.DAL.pdb
+D:\BAPA\Incentive-Update-17-08-2016\OMS.DAL\obj\Debug\OMS.DAL.csprojResolveAssemblyReference.cache
+D:\BAPA\Incentive-Update-17-08-2016\OMS.DAL\obj\Debug\OMS.DAL.dll
+D:\BAPA\Incentive-Update-17-08-2016\OMS.DAL\obj\Debug\OMS.DAL.pdb
+D:\BAPA\Incentive-Update-17-08-2016\OMS.DAL\bin\Debug\OMS.DAL.dll.config
+D:\BAPA\Incentive-Update-17-08-2016\OMS.DAL\bin\Debug\OMS.DAL.dll
+D:\BAPA\Incentive-Update-17-08-2016\OMS.DAL\bin\Debug\OMS.DAL.pdb
+D:\working\BAPA\Incentive-22-08-2016\OMS.DAL\bin\Debug\OMS.DAL.dll.config
+D:\working\BAPA\Incentive-22-08-2016\OMS.DAL\bin\Debug\OMS.DAL.dll
+D:\working\BAPA\Incentive-22-08-2016\OMS.DAL\bin\Debug\OMS.DAL.pdb
+D:\working\BAPA\Incentive-22-08-2016\OMS.DAL\obj\Debug\OMS.DAL.dll
+D:\working\BAPA\Incentive-22-08-2016\OMS.DAL\obj\Debug\OMS.DAL.pdb
+D:\BAPA\Incentive-7-10-2016_new\Incentive-22-08-2016\OMS.DAL\bin\Debug\OMS.DAL.dll.config
+D:\BAPA\Incentive-7-10-2016_new\Incentive-22-08-2016\OMS.DAL\bin\Debug\OMS.DAL.dll
+D:\BAPA\Incentive-7-10-2016_new\Incentive-22-08-2016\OMS.DAL\bin\Debug\OMS.DAL.pdb
+D:\BAPA\Incentive-7-10-2016_new\Incentive-22-08-2016\OMS.DAL\obj\Debug\OMS.DAL.csprojResolveAssemblyReference.cache
+D:\BAPA\Incentive-7-10-2016_new\Incentive-22-08-2016\OMS.DAL\obj\Debug\OMS.DAL.dll
+D:\BAPA\Incentive-7-10-2016_new\Incentive-22-08-2016\OMS.DAL\obj\Debug\OMS.DAL.pdb
+D:\working\BAPA\Incentive-7-10-2016\OMS.DAL\bin\Debug\OMS.DAL.dll.config
+D:\working\BAPA\Incentive-7-10-2016\OMS.DAL\bin\Debug\OMS.DAL.dll
+D:\working\BAPA\Incentive-7-10-2016\OMS.DAL\bin\Debug\OMS.DAL.pdb
+D:\working\BAPA\Incentive-7-10-2016\OMS.DAL\obj\Debug\OMS.DAL.csprojResolveAssemblyReference.cache
+D:\working\BAPA\Incentive-7-10-2016\OMS.DAL\obj\Debug\OMS.DAL.dll
+D:\working\BAPA\Incentive-7-10-2016\OMS.DAL\obj\Debug\OMS.DAL.pdb
+F:\WorkingDir\RubelVhai\BAPA\Incentive-7-10-2016\OMS.DAL\bin\Debug\OMS.DAL.dll.config
+F:\WorkingDir\RubelVhai\BAPA\Incentive-7-10-2016\OMS.DAL\bin\Debug\OMS.DAL.dll
+F:\WorkingDir\RubelVhai\BAPA\Incentive-7-10-2016\OMS.DAL\bin\Debug\OMS.DAL.pdb
+F:\WorkingDir\RubelVhai\BAPA\Incentive-7-10-2016\OMS.DAL\obj\Debug\OMS.DAL.csprojResolveAssemblyReference.cache
+F:\WorkingDir\RubelVhai\BAPA\Incentive-7-10-2016\OMS.DAL\obj\Debug\OMS.DAL.dll
+F:\WorkingDir\RubelVhai\BAPA\Incentive-7-10-2016\OMS.DAL\obj\Debug\OMS.DAL.pdb
+F:\SHUVO\BAPA\BAPA\Incentive-24-10-2016\OMS.DAL\bin\Debug\OMS.DAL.dll.config
+F:\SHUVO\BAPA\BAPA\Incentive-24-10-2016\OMS.DAL\bin\Debug\OMS.DAL.dll
+F:\SHUVO\BAPA\BAPA\Incentive-24-10-2016\OMS.DAL\bin\Debug\OMS.DAL.pdb
+F:\SHUVO\BAPA\BAPA\Incentive-24-10-2016\OMS.DAL\obj\Debug\OMS.DAL.csprojResolveAssemblyReference.cache
+F:\SHUVO\BAPA\BAPA\Incentive-24-10-2016\OMS.DAL\obj\Debug\OMS.DAL.dll
+F:\SHUVO\BAPA\BAPA\Incentive-24-10-2016\OMS.DAL\obj\Debug\OMS.DAL.pdb
+F:\WorkingDir\RubelVhai\BAPA-Latest\BAPA_25_10_2016\OMS.DAL\bin\Debug\OMS.DAL.dll.config
+F:\WorkingDir\RubelVhai\BAPA-Latest\BAPA_25_10_2016\OMS.DAL\bin\Debug\OMS.DAL.dll
+F:\WorkingDir\RubelVhai\BAPA-Latest\BAPA_25_10_2016\OMS.DAL\bin\Debug\OMS.DAL.pdb
+F:\WorkingDir\RubelVhai\BAPA-Latest\BAPA_25_10_2016\OMS.DAL\obj\Debug\OMS.DAL.csprojResolveAssemblyReference.cache
+F:\WorkingDir\RubelVhai\BAPA-Latest\BAPA_25_10_2016\OMS.DAL\obj\Debug\OMS.DAL.dll
+F:\WorkingDir\RubelVhai\BAPA-Latest\BAPA_25_10_2016\OMS.DAL\obj\Debug\OMS.DAL.pdb
+D:\Imtiaz\BAPA_17_12_2016\BAPA_25_10_2016\OMS.DAL\bin\Debug\OMS.DAL.dll.config
+D:\Imtiaz\BAPA_17_12_2016\BAPA_25_10_2016\OMS.DAL\bin\Debug\OMS.DAL.dll
+D:\Imtiaz\BAPA_17_12_2016\BAPA_25_10_2016\OMS.DAL\bin\Debug\OMS.DAL.pdb
+D:\Imtiaz\BAPA_17_12_2016\BAPA_25_10_2016\OMS.DAL\obj\Debug\OMS.DAL.dll
+D:\Imtiaz\BAPA_17_12_2016\BAPA_25_10_2016\OMS.DAL\obj\Debug\OMS.DAL.pdb
+D:\Imtiaz\BAPA_17_12_2016\BAPA_25_10_2016\OMS.DAL\obj\Debug\OMS.DAL.csprojResolveAssemblyReference.cache
+D:\Imtiaz\BAPA_23_12_2016\OMS.DAL\bin\Debug\OMS.DAL.dll.config
+D:\Imtiaz\BAPA_23_12_2016\OMS.DAL\bin\Debug\OMS.DAL.dll
+D:\Imtiaz\BAPA_23_12_2016\OMS.DAL\bin\Debug\OMS.DAL.pdb
+D:\Imtiaz\BAPA_23_12_2016\OMS.DAL\obj\Debug\OMS.DAL.dll
+D:\Imtiaz\BAPA_23_12_2016\OMS.DAL\obj\Debug\OMS.DAL.pdb
+D:\Office\BAPA\BAPA_7_2_20176(1)\BAPA_23_12_2016\OMS.DAL\bin\Debug\OMS.DAL.dll.config
+D:\Office\BAPA\BAPA_7_2_20176(1)\BAPA_23_12_2016\OMS.DAL\bin\Debug\OMS.DAL.dll
+D:\Office\BAPA\BAPA_7_2_20176(1)\BAPA_23_12_2016\OMS.DAL\bin\Debug\OMS.DAL.pdb
+D:\Office\BAPA\BAPA_7_2_20176(1)\BAPA_23_12_2016\OMS.DAL\obj\Debug\OMS.DAL.csprojResolveAssemblyReference.cache
+D:\Office\BAPA\BAPA_7_2_20176(1)\BAPA_23_12_2016\OMS.DAL\obj\Debug\OMS.DAL.dll
+D:\Office\BAPA\BAPA_7_2_20176(1)\BAPA_23_12_2016\OMS.DAL\obj\Debug\OMS.DAL.pdb
+E:\BAPA_10_3_2017\BAPA_10_3_2017\OMS.DAL\bin\Debug\OMS.DAL.dll.config
+E:\BAPA_10_3_2017\BAPA_10_3_2017\OMS.DAL\bin\Debug\OMS.DAL.dll
+E:\BAPA_10_3_2017\BAPA_10_3_2017\OMS.DAL\bin\Debug\OMS.DAL.pdb
+E:\BAPA_10_3_2017\BAPA_10_3_2017\OMS.DAL\obj\Debug\OMS.DAL.csprojResolveAssemblyReference.cache
+E:\BAPA_10_3_2017\BAPA_10_3_2017\OMS.DAL\obj\Debug\OMS.DAL.dll
+E:\BAPA_10_3_2017\BAPA_10_3_2017\OMS.DAL\obj\Debug\OMS.DAL.pdb

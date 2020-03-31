@@ -1,0 +1,17 @@
+F:\Project 2016\eHishab_Demo\OMS.DAL\bin\Release\OMS.DAL.dll.config
+F:\Project 2016\eHishab_Demo\OMS.DAL\bin\Release\OMS.DAL.dll
+F:\Project 2016\eHishab_Demo\OMS.DAL\bin\Release\OMS.DAL.pdb
+F:\Project 2016\eHishab_Demo\OMS.DAL\obj\Release\ResolveAssemblyReference.cache
+F:\Project 2016\eHishab_Demo\OMS.DAL\obj\Release\OMS.DAL.dll
+F:\Project 2016\eHishab_Demo\OMS.DAL\obj\Release\OMS.DAL.pdb
+F:\Project 2016\PrimetechAccounts\OMS.DAL\bin\Release\OMS.DAL.dll.config
+F:\Project 2016\PrimetechAccounts\OMS.DAL\bin\Release\OMS.DAL.dll
+F:\Project 2016\PrimetechAccounts\OMS.DAL\bin\Release\OMS.DAL.pdb
+F:\Project 2016\PrimetechAccounts\OMS.DAL\obj\Release\ResolveAssemblyReference.cache
+F:\Project 2016\PrimetechAccounts\OMS.DAL\obj\Release\OMS.DAL.dll
+F:\Project 2016\PrimetechAccounts\OMS.DAL\obj\Release\OMS.DAL.pdb
+D:\working\BAPA\PrimetechAccounts17-07-2016 (1)\OMS.DAL\bin\Release\OMS.DAL.dll.config
+D:\working\BAPA\PrimetechAccounts17-07-2016 (1)\OMS.DAL\bin\Release\OMS.DAL.dll
+D:\working\BAPA\PrimetechAccounts17-07-2016 (1)\OMS.DAL\bin\Release\OMS.DAL.pdb
+D:\working\BAPA\PrimetechAccounts17-07-2016 (1)\OMS.DAL\obj\Release\OMS.DAL.dll
+D:\working\BAPA\PrimetechAccounts17-07-2016 (1)\OMS.DAL\obj\Release\OMS.DAL.pdb

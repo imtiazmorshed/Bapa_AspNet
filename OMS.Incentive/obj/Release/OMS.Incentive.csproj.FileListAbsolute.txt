@@ -1,0 +1,15 @@
+D:\Account\PrimetechAccounts\PrimetechAccounts\OMS.Incentive\bin\OMS.Incentive.dll
+D:\Account\PrimetechAccounts\PrimetechAccounts\OMS.Incentive\bin\OMS.Incentive.pdb
+D:\Account\PrimetechAccounts\PrimetechAccounts\OMS.Incentive\obj\Release\OMS.Incentive.dll
+D:\Account\PrimetechAccounts\PrimetechAccounts\OMS.Incentive\obj\Release\OMS.Incentive.pdb
+F:\SHUVO\PrimetechAccounts\PrimetechAccountsNight\PrimetechAccounts\OMS.Incentive\bin\OMS.Incentive.dll.config
+F:\SHUVO\PrimetechAccounts\PrimetechAccountsNight\PrimetechAccounts\OMS.Incentive\bin\OMS.Incentive.dll
+F:\SHUVO\PrimetechAccounts\PrimetechAccountsNight\PrimetechAccounts\OMS.Incentive\bin\OMS.Incentive.pdb
+F:\SHUVO\PrimetechAccounts\PrimetechAccountsNight\PrimetechAccounts\OMS.Incentive\obj\Release\OMS.Incentive.csprojResolveAssemblyReference.cache
+F:\SHUVO\PrimetechAccounts\PrimetechAccountsNight\PrimetechAccounts\OMS.Incentive\obj\Release\OMS.Incentive.dll
+F:\SHUVO\PrimetechAccounts\PrimetechAccountsNight\PrimetechAccounts\OMS.Incentive\obj\Release\OMS.Incentive.pdb
+D:\Final\PrimetechAccounts\PrimetechAccounts\OMS.Incentive\bin\OMS.Incentive.dll
+D:\Final\PrimetechAccounts\PrimetechAccounts\OMS.Incentive\bin\OMS.Incentive.pdb
+D:\Final\PrimetechAccounts\PrimetechAccounts\OMS.Incentive\obj\Release\OMS.Incentive.csprojResolveAssemblyReference.cache
+D:\Final\PrimetechAccounts\PrimetechAccounts\OMS.Incentive\obj\Release\OMS.Incentive.dll
+D:\Final\PrimetechAccounts\PrimetechAccounts\OMS.Incentive\obj\Release\OMS.Incentive.pdb

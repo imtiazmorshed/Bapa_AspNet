@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="" title=""  description="">
+    <siteMapNode url="" title="Stock Details"  description="">
+      <siteMapNode url="~/UIInventory/PurchaseView.aspx" title="Purchase" description="" />
+      <siteMapNode url="" title="Purchase Return"  description="" />
+      <siteMapNode url="~/UIInventory/SaleView.aspx" title="Sale"  description="" />
+      <siteMapNode url="" title="Sale Return"  description="" />
+    </siteMapNode>
+    <siteMapNode url="" title="Order Details"  description="">
+      <siteMapNode url="~/UIInventory/ChannelOrderDetailView.aspx" title="Channel Wise Order" description="" />
+      <siteMapNode url="~/UIInventory/ChannelSubOrderDetailView.aspx" title="Channel Wise Order Detail"  description="" />
+      <siteMapNode url="~/UIInventory/ChannelWiseTotalOrderView.aspx" title="Channel Wise Total Order"  description="" />
+    </siteMapNode>
+
+    <siteMapNode url="" title="Item"  description="">
+      <siteMapNode url="~/UIInventory/ItemView.aspx" title="Item Information"  description="" />
+      <siteMapNode url="~/UIInventory/MeasurementUnitView.aspx" title="Measurement Unit"  description="">
+      </siteMapNode>
+    </siteMapNode>
+    <siteMapNode url="" title="Contacts"  description="">
+      <!--<siteMapNode url="~/UIInventory/ChannelView.aspx" title="Channel Infrormation"  description=""></siteMapNode>-->
+      <siteMapNode url="~/UIInventory/CustomerView.aspx" title="Customer Infrormation"  description=""></siteMapNode>
+      <siteMapNode url="~/UIInventory/SupplierView.aspx" title="Supplier Infrormation"  description=""></siteMapNode>
+    </siteMapNode>
+
+    <siteMapNode url="" title="Ticket Sale"  description="">      
+      <siteMapNode url="~/UITicketSale/TicketSaleView.aspx" title="Ticket Sale"  description=""></siteMapNode>      
+    </siteMapNode>
+
+    <!--<siteMapNode url="" title="Stock Reports"  description="">
+      <siteMapNode url="~/UIInventory/StockDetailView.aspx" title="Stock Detail Reports" description="" />
+      -->
+    <!--<siteMapNode url="~/UIInventory/ChannelSubOrderDetailView.aspx" title="Channel Wise Order Detail"  description="" />
+      <siteMapNode url="~/UIInventory/ChannelWiseTotalOrderView.aspx" title="Channel Wise Total Order"  description="" />-->
+    <!--
+    </siteMapNode>-->
+
+    <siteMapNode url="" title="Financial Management"  description="">      
+      <siteMapNode url="~/UIAccount/ChartOfAccountView.aspx" title="Chart Of Account" description="" />
+      <siteMapNode url="" title="Transaction" description="" >
+        <siteMapNode url="~/UIAccount/PaymentTransactionView.aspx" title="Payment" description="" />
+        <siteMapNode url="~/UIAccount/ReceiveTransactionView.aspx" title="Receive" description="" />
+        <siteMapNode url="~/UIAccount/VoucherTransactionFrom.aspx" title="Voucher " description="" />
+      </siteMapNode>
+      <siteMapNode url= "~/UIAccount/TransactionPostingView.aspx" title="Transaction Posting" description="" />
+      <siteMapNode url="~/UIAccount/LedgerBalanceView.aspx" title="Ledger Balance" description="" />
+      <siteMapNode url="~/UIAccount/TrialBalanceView.aspx" title="Trial Balance" description="" />
+      <siteMapNode url="~/UIAccount/BalanceSheetView.aspx" title="Balance Sheet" description="" />
+      <siteMapNode url="~/UIAccount/ProfitAndLossView.aspx" title="Profit and Loss" description="" />
+      <siteMapNode url="~/UIAccount/accountReport.aspx" title="Accounts Report" description="" />
+    </siteMapNode>
+
+    <siteMapNode url="" title="Bank Management"  description="">
+      <siteMapNode url="~/UIAccount/BankView.aspx" title="Bank" description="" />
+      <siteMapNode url="~/UIAccount/BankBranchView.aspx" title="Bank Branch" description="" />
+      <siteMapNode url="~/UIAccount/BankAccountView.aspx" title="Bank Account" description="" />
+      <siteMapNode url="~/UIAccount/ChequeBookView.aspx" title="Cheque Book" description="" />
+      <siteMapNode url="~/UIAccount/BankLinkToChartOfAccount.aspx" title="Bank Link To COA" description="" />
+      <siteMapNode url="~/UIAccount/BankTransactionView.aspx" title="Bank Transaction" description="" />
+    </siteMapNode>
+    <siteMapNode url="" title="Admin Management"  description="">
+      <siteMapNode url="~/UIAdmin/CreateRole.aspx" title="Create Role" description="" />
+      <siteMapNode url="~/UIAdmin/CreateUser.aspx" title="Create User" description="" />
+    </siteMapNode>
+  </siteMapNode>
+
+</siteMap>

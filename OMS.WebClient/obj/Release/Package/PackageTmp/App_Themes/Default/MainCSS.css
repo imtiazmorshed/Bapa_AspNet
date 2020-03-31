@@ -1,0 +1,298 @@
+﻿.BornoCss
+{
+font-size:12px;
+border: 1px solid #bac9db;
+background: #d5dfec;
+padding: 0 2px 0 2px;
+margin: 0 0 0 0 !important;
+margin: 0 0 0 0;
+
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	padding: 0;
+	margin: 0;
+	color: #292728;
+	background-color: white;
+}
+
+
+
+.header
+{
+	width: 968px;
+	height: 100px;	
+	background: url("Images/header.jpg") left no-repeat;
+	
+	float:none;
+	
+}
+
+.casing {
+	margin: 0 auto 0 auto;
+	width: 968px;
+}
+
+
+
+
+.casing {
+	margin: 0 auto 0 auto;
+	width: 968px;
+}
+
+
+
+
+.in_put{
+	width:200px;
+	height: 20px;
+	border: 1px solid #7692aa;
+	
+	
+}
+
+.in_putBigWidth{
+	width:400px;
+	height: 20px;
+	border: 1px solid #7692aa;
+	
+	
+}
+
+
+.label
+{
+	font-size: 12px;
+	color: #222222;
+	font-weight: bold;
+	font-family: 'Microsoft Sans Serif';
+}
+
+.textSmallArea{
+	width:80px;
+	height: 20px;
+	border: 1px solid #7692aa;
+	
+}
+
+.textArea
+{
+ width:250px;
+ height:50px;
+	
+}
+.ddl
+{
+	width:200px;
+	height: 20px;
+	border: 1px solid #7692aa;
+}
+
+.ddlSmall
+{
+	width:100px;
+	height: 20px;
+	border: 1px solid #7692aa;
+	
+	
+}
+
+.in_other input {
+	width : 15px;
+	height: 15px;
+	border: 1px solid #7692aa;
+	
+	
+}
+
+.in_other label {
+	
+	
+	
+	
+}
+
+.input_submit {
+background:none repeat scroll 0 0 #B1D5E5;
+border:1px outset #A0CAE2;
+color:#272727;
+cursor:pointer;
+min-width:100px;
+font-weight:bold;
+height:25px;
+}
+
+.input_submit_Large {
+background:none repeat scroll 0 0 #B1D5E5;
+border:1px outset #A0CAE2;
+color:#272727;
+cursor:pointer;
+min-width:150px;
+font-weight:bold;
+height:25px;
+
+}
+
+.tdClass
+{
+border: thin solid #C0C0C0;
+
+	}
+
+
+
+/***********************Menu***********************************/
+
+.glossymenu, .glossymenu li ul{
+list-style-type: none;
+margin: 0;
+padding: 0;
+width: 185px; /*WIDTH OF MAIN MENU ITEMS*/
+border: 1px solid black;
+}
+
+.glossymenu li{
+position: relative;
+}
+
+.glossymenu li a{
+background: white url(Images/glossyback.gif) repeat-x bottom left;
+font: bold 12px Verdana, Helvetica, sans-serif;
+color: white;
+display: block;
+width: auto;
+padding: 5px 0;
+padding-left: 10px;
+text-decoration: none;
+}
+
+.glossymenu li ul{ /*SUB MENU STYLE*/
+position: absolute;
+width: 190px; /*WIDTH OF SUB MENU ITEMS*/
+left: 0;
+top: 0;
+display: none;
+}
+
+.glossymenu li ul li{
+float: left;
+}
+
+.glossymenu li ul a{
+width: 180px; /*WIDTH OF SUB MENU ITEMS - 10px padding-left for A elements */
+}
+
+.glossymenu .arrowdiv{
+position: absolute;
+right: 2px;
+background: transparent url(Images/arrow.gif) no-repeat center right;
+}
+
+.glossymenu li a:visited, .glossymenu li a:active{
+color: white;
+}
+
+.glossymenu li a:hover{
+background-image: url(Images/glossyback2.gif);
+}
+
+/* Holly Hack for IE \*/
+* html .glossymenu li { float: left; height: 1%; }
+* html .glossymenu li a { height: 1%; }
+/* End */
+
+
+/***********************Menu***********************************/
+
+.dGridHeaderClass  {
+background-color:#ACD9E2;
+color:#000000;
+font-size:9pt;
+font-weight:bold;
+height:35px;
+text-decoration:none;
+}
+.dGridAltRowClass {
+background-color:#EFF7FF;
+color:#222222;
+font-size:10pt;
+height:22px;
+text-decoration:none;
+}
+.dGridAltRowClass:hover, .dGridRowClass:hover {
+background-color:#C1E0BE;
+}
+.dGridRowClass {
+background-color:#DDEEFF;
+font-size:10pt;
+height:22px;
+}
+
+.thGrid
+{
+	vertical-align: top; 
+	border: 1px solid black;
+	}
+
+/**********************Ajax************************/
+
+.WaterMarkClass {
+	border:1px solid #BEBEBE;
+	background-color:#F2F2F2;
+	color:gray;
+	font-style:italic;
+}	
+
+/********************Najib**************************/
+.LabelTD
+{
+	font-family: tahoma;
+	font-size: 11px;
+	color: #464646;
+	font-weight:bold;
+	text-align:left;
+	padding-right:15px;
+	vertical-align : top;
+	align:left;
+}
+.LabelTDFlat
+{
+	font-family: tahoma;
+	font-size: 11px;
+	color: #464646;
+	font-weight:bold;
+	text-align:right;
+	padding-right:8px;
+}
+
+.ActionButton
+{
+	color: #08244c;
+	font-weight: bold;
+	font-size: 12px;
+	text-decoration:none;
+	width: 80px;
+    height: 20px;
+    text-align:center;
+    padding-top:3px;	
+	background-image:url("../Images/button_login.gif");
+	background-repeat:no-repeat;
+	
+}
+
+.GridHeader
+{
+	background-color: #6B696B;
+	font-weight: bold;
+	color: White;
+	text-align:left;
+	font-size:11px;
+	font-family: tahoma;
+}

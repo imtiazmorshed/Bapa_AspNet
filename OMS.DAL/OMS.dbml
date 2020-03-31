@@ -1,0 +1,1294 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="BAPA2" Class="OMSDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=ZIA;Initial Catalog=BAPA2;Integrated Security=True;User ID=sa" SettingsObjectName="OMS.DAL.Properties.Settings" SettingsPropertyName="BAPA2ConnectionString1" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Channel" Member="Channels">
+    <Type Name="Channel">
+      <Column Name="IID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="Code" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Address" Type="System.String" DbType="NVarChar(500) NOT NULL" CanBeNull="false" />
+      <Column Name="ParentID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="ChannelTypeID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="CityID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="Phone" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Mobile" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Fax" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Email" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Web" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="ContactPerson" Type="System.String" DbType="NVarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="ContactPersonAddress" Type="System.String" DbType="NVarChar(500) NOT NULL" CanBeNull="false" />
+      <Column Name="ContactPersonPhone" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="ContactPersonMobile" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="ContactPersonEmail" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="CreateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="CreateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="IsRemoved" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Channel_Order" Member="Orders" ThisKey="IID" OtherKey="ChannelID" Type="Order" />
+      <Association Name="ChannelType_Channel" Member="ChannelType" ThisKey="ChannelTypeID" OtherKey="IID" Type="ChannelType" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ChannelType" Member="ChannelTypes">
+    <Type Name="ChannelType">
+      <Column Name="IID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="Description" Type="System.String" DbType="NVarChar(500) NOT NULL" CanBeNull="false" />
+      <Column Name="CreateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="CreateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="IsRemoved" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="ChannelType_Channel" Member="Channels" ThisKey="IID" OtherKey="ChannelTypeID" Type="Channel" />
+    </Type>
+  </Table>
+  <Table Name="dbo.City" Member="Cities">
+    <Type Name="City">
+      <Column Name="IID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="StateID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="CountryID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="IsRemoved" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="State_City" Member="State" ThisKey="StateID" OtherKey="IID" Type="State" IsForeignKey="true" />
+      <Association Name="Country_City" Member="Country" ThisKey="CountryID" OtherKey="IID" Type="Country" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.State" Member="States">
+    <Type Name="State">
+      <Column Name="IID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="CountryID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="IsRemoved" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Association Name="State_City" Member="Cities" ThisKey="IID" OtherKey="StateID" Type="City" />
+      <Association Name="Country_State" Member="Country" ThisKey="CountryID" OtherKey="IID" Type="Country" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.[Order]" Member="Orders">
+    <Type Name="Order">
+      <Column Name="IID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="OrderNo" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="ChannelID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="Date" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="CreateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="CreateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="IsRemoved" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Order_OrderDetail" Member="OrderDetails" ThisKey="IID" OtherKey="OrderID" Type="OrderDetail" />
+      <Association Name="Channel_Order" Member="Channel" ThisKey="ChannelID" OtherKey="IID" Type="Channel" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.OrderDetail" Member="OrderDetails">
+    <Type Name="OrderDetail">
+      <Column Name="IID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="OrderID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="ItemID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="Quantity" Type="System.Decimal" DbType="Decimal(9,2) NOT NULL" CanBeNull="false" />
+      <Column Name="CreateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="CreateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="IsRemoved" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Order_OrderDetail" Member="Order" ThisKey="OrderID" OtherKey="IID" Type="Order" IsForeignKey="true" />
+      <Association Name="Item_OrderDetail" Member="Item" ThisKey="ItemID" OtherKey="IID" Type="Item" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ReferenceType" Member="ReferenceTypes">
+    <Type Name="ReferenceType">
+      <Column Name="IID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(250) NOT NULL" CanBeNull="false" />
+      <Association Name="ReferenceType_StockMaster" Member="StockMasters" ThisKey="IID" OtherKey="ReferenceTypeID" Type="StockMaster" />
+    </Type>
+  </Table>
+  <Table Name="dbo.StockTransactionType" Member="StockTransactionTypes">
+    <Type Name="StockTransactionType">
+      <Column Name="IID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(250) NOT NULL" CanBeNull="false" />
+      <Association Name="StockTransactionType_StockMaster" Member="StockMasters" ThisKey="IID" OtherKey="StockTransactionTypeID" Type="StockMaster" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Inv_Category" Member="Inv_Categories">
+    <Type Name="Inv_Category">
+      <Column Name="IID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="Code" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="DepartmentID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="CreateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="CreateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="IsRemoved" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Inv_Category_Item" Member="Items" ThisKey="IID" OtherKey="CategoryID" Type="Item" />
+      <Association Name="Inv_Department_Inv_Category" Member="Inv_Department" ThisKey="DepartmentID" OtherKey="IID" Type="Inv_Department" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Inv_Department" Member="Inv_Departments">
+    <Type Name="Inv_Department">
+      <Column Name="IID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="Code" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="CreateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="CreateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="IsRemoved" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Inv_Department_Inv_Category" Member="Inv_Categories" ThisKey="IID" OtherKey="DepartmentID" Type="Inv_Category" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Item" Member="Items">
+    <Type Name="Item">
+      <Column Name="IID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="Code" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="MeasurementUnitID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="CategoryID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="CreateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="CreateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="IsRemoved" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Item_OrderDetail" Member="OrderDetails" ThisKey="IID" OtherKey="ItemID" Type="OrderDetail" />
+      <Association Name="Item_StockDetail" Member="StockDetails" ThisKey="IID" OtherKey="ItemID" Type="StockDetail" />
+      <Association Name="Inv_Category_Item" Member="Inv_Category" ThisKey="CategoryID" OtherKey="IID" Type="Inv_Category" IsForeignKey="true" />
+      <Association Name="MeasurementUnit_Item" Member="MeasurementUnit" ThisKey="MeasurementUnitID" OtherKey="IID" Type="MeasurementUnit" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.MeasurementUnit" Member="MeasurementUnits">
+    <Type Name="MeasurementUnit">
+      <Column Name="IID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="Unit" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="CreateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="CreateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="IsRemoved" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="MeasurementUnit_Item" Member="Items" ThisKey="IID" OtherKey="MeasurementUnitID" Type="Item" />
+      <Association Name="MeasurementUnit_Ins_Item" Member="Ins_Items" ThisKey="IID" OtherKey="MeasurementUnitID" Type="Ins_Item" />
+    </Type>
+  </Table>
+  <Table Name="dbo.StockDetail" Member="StockDetails">
+    <Type Name="StockDetail">
+      <Column Name="IID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="StockMasterID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="BatchNo" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="ItemID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="Quantity" Type="System.Decimal" DbType="Decimal(18,3) NOT NULL" CanBeNull="false" />
+      <Column Name="CostPrice" Type="System.Decimal" DbType="Decimal(18,3) NOT NULL" CanBeNull="false" />
+      <Column Name="SellPrice" Type="System.Decimal" DbType="Decimal(18,3) NOT NULL" CanBeNull="false" />
+      <Column Name="Discount" Type="System.Decimal" DbType="Decimal(18,3) NOT NULL" CanBeNull="false" />
+      <Column Name="VAT" Type="System.Decimal" DbType="Decimal(18,3) NOT NULL" CanBeNull="false" />
+      <Column Name="ExpiryDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="Status" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="CreateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="CreateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="IsRemoved" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Item_StockDetail" Member="Item" ThisKey="ItemID" OtherKey="IID" Type="Item" IsForeignKey="true" />
+      <Association Name="StockMaster_StockDetail" Member="StockMaster" ThisKey="StockMasterID" OtherKey="IID" Type="StockMaster" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.EmployeeDailyShifting" Member="EmployeeDailyShiftings">
+    <Type Name="EmployeeDailyShifting">
+      <Column Name="IID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ShiftingID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="EmployeeID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="StartTime" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="EndTime" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="CreateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="CreateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="IsRemoved" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Shifting_EmployeeDailyShifting" Member="Shifting" ThisKey="ShiftingID" OtherKey="IID" Type="Shifting" IsForeignKey="true" />
+      <Association Name="HRM_Employee_EmployeeDailyShifting" Member="HRM_Employee" ThisKey="EmployeeID" OtherKey="IID" Type="HRM_Employee" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Shifting" Member="Shiftings">
+    <Type Name="Shifting">
+      <Column Name="IID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="StartTime" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="EndTime" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Association Name="Shifting_EmployeeDailyShifting" Member="EmployeeDailyShiftings" ThisKey="IID" OtherKey="ShiftingID" Type="EmployeeDailyShifting" />
+    </Type>
+  </Table>
+  <Table Name="dbo.HRM_Employee" Member="HRM_Employees">
+    <Type Name="HRM_Employee">
+      <Column Name="IID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="EmployeeCode" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="DesignationID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="DepartmentID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="FirstName" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="MiddleName" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="LastName" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="FatherName" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="MotherName" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="PresentAddress" Type="System.String" DbType="VarChar(1000) NOT NULL" CanBeNull="false" />
+      <Column Name="PermanentAddress" Type="System.String" DbType="VarChar(1000) NOT NULL" CanBeNull="false" />
+      <Column Name="DateOfBirth" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="PalceOfBirth" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="NationalIDNo" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="PassportNo" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Nationality" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Religion" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="JoinDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="Sex" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="MaritalStatus" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="IsRegular" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="BloodGroup" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="PhoneOffice" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="PhoneResidence" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="CellNo" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Email" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Notes" Type="System.String" DbType="VarChar(500) NOT NULL" CanBeNull="false" />
+      <Column Name="ReportsTo" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="CreateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="CreateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="IsRemoved" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="HRM_Employee_EmployeeDailyShifting" Member="EmployeeDailyShiftings" ThisKey="IID" OtherKey="EmployeeID" Type="EmployeeDailyShifting" />
+      <Association Name="HRM_Employee_StockMaster" Member="StockMasters" ThisKey="IID" OtherKey="PurchaseOrSaleBy" Type="StockMaster" />
+    </Type>
+  </Table>
+  <Table Name="dbo.StockMaster" Member="StockMasters">
+    <Type Name="StockMaster">
+      <Column Name="IID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="StockTransactionTypeID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="ReferenceTypeID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="ReferenceID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="PurchaseOrSaleBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="Date" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="TransactionNo" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="BillNo" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="TotalDiscount" Type="System.Decimal" DbType="Decimal(18,3) NOT NULL" CanBeNull="false" />
+      <Column Name="SpecialDiscount" Type="System.Decimal" DbType="Decimal(18,3) NOT NULL" CanBeNull="false" />
+      <Column Name="TotalVAT" Type="System.Decimal" DbType="Decimal(18,3) NOT NULL" CanBeNull="false" />
+      <Column Name="TotalAmount" Type="System.Decimal" DbType="Decimal(18,3) NOT NULL" CanBeNull="false" />
+      <Column Name="TotalPaidAmount" Type="System.Decimal" DbType="Decimal(18,3) NOT NULL" CanBeNull="false" />
+      <Column Name="TotalDueAmount" Type="System.Decimal" DbType="Decimal(18,3) NOT NULL" CanBeNull="false" />
+      <Column Name="Hold" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="StoreID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="FinancialYearID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Status" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="CreateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="CreateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="IsRemoved" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="StockMaster_StockDetail" Member="StockDetails" ThisKey="IID" OtherKey="StockMasterID" Type="StockDetail" />
+      <Association Name="HRM_Employee_StockMaster" Member="HRM_Employee" ThisKey="PurchaseOrSaleBy" OtherKey="IID" Type="HRM_Employee" IsForeignKey="true" />
+      <Association Name="ReferenceType_StockMaster" Member="ReferenceType" ThisKey="ReferenceTypeID" OtherKey="IID" Type="ReferenceType" IsForeignKey="true" />
+      <Association Name="StockTransactionType_StockMaster" Member="StockTransactionType" ThisKey="StockTransactionTypeID" OtherKey="IID" Type="StockTransactionType" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Acc_Class" Member="Acc_Classes">
+    <Type Name="Acc_Class">
+      <Column Name="IID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="AccountNature" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Acc_Class_Acc_ChartOfAccount" Member="Acc_ChartOfAccounts" ThisKey="IID" OtherKey="Gparent" Type="Acc_ChartOfAccount" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Acc_ChartOfAccountSupplier" Member="Acc_ChartOfAccountSuppliers">
+    <Type Name="Acc_ChartOfAccountSupplier">
+      <Column Name="IID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ChartOfAccountID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="SupplierID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="CreateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="CreateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="IsRemoved" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Supplier_Acc_ChartOfAccountSupplier" Member="Supplier" ThisKey="SupplierID" OtherKey="IID" Type="Supplier" IsForeignKey="true" />
+      <Association Name="Acc_ChartOfAccount_Acc_ChartOfAccountSupplier" Member="Acc_ChartOfAccount" ThisKey="ChartOfAccountID" OtherKey="IID" Type="Acc_ChartOfAccount" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Acc_ChartOfAccountCustomer" Member="Acc_ChartOfAccountCustomers">
+    <Type Name="Acc_ChartOfAccountCustomer">
+      <Column Name="IID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ChartOfAccountID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="CustomerID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="CreateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="CreateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="IsRemoved" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Customer_Acc_ChartOfAccountCustomer" Member="Customer" ThisKey="CustomerID" OtherKey="IID" Type="Customer" IsForeignKey="true" />
+      <Association Name="Acc_ChartOfAccount_Acc_ChartOfAccountCustomer" Member="Acc_ChartOfAccount" ThisKey="ChartOfAccountID" OtherKey="IID" Type="Acc_ChartOfAccount" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.SystemRole" Member="SystemRoles">
+    <Type Name="SystemRole">
+      <Column Name="IID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="RoleName" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="IsRemoved" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="SystemRole_PagesOnRole" Member="PagesOnRoles" ThisKey="IID" OtherKey="RoleID" Type="PagesOnRole" />
+      <Association Name="SystemRole_SystemUser" Member="SystemUsers" ThisKey="IID" OtherKey="RoleID" Type="SystemUser" />
+    </Type>
+  </Table>
+  <Table Name="dbo.PagesOnRole" Member="PagesOnRoles">
+    <Type Name="PagesOnRole">
+      <Column Name="IID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="PageID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="RoleID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="IsRemoved" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="SystemRole_PagesOnRole" Member="SystemRole" ThisKey="RoleID" OtherKey="IID" Type="SystemRole" IsForeignKey="true" />
+      <Association Name="SystemPage_PagesOnRole" Member="SystemPage" ThisKey="PageID" OtherKey="IID" Type="SystemPage" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.PagesOnUser" Member="PagesOnUsers">
+    <Type Name="PagesOnUser">
+      <Column Name="IID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="PageID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="UserID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="IsRemoved" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="SystemPage_PagesOnUser" Member="SystemPage" ThisKey="PageID" OtherKey="IID" Type="SystemPage" IsForeignKey="true" />
+      <Association Name="SystemUser_PagesOnUser" Member="SystemUser" ThisKey="UserID" OtherKey="IID" Type="SystemUser" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.SystemPage" Member="SystemPages">
+    <Type Name="SystemPage">
+      <Column Name="IID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="PageName" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Url" Type="System.String" DbType="NVarChar(4000) NOT NULL" CanBeNull="false" />
+      <Column Name="IsRemoved" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="SystemModuleID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Association Name="SystemPage_PagesOnRole" Member="PagesOnRoles" ThisKey="IID" OtherKey="PageID" Type="PagesOnRole" />
+      <Association Name="SystemPage_PagesOnUser" Member="PagesOnUsers" ThisKey="IID" OtherKey="PageID" Type="PagesOnUser" />
+      <Association Name="SystemModule_SystemPage" Member="SystemModule" ThisKey="SystemModuleID" OtherKey="IID" Type="SystemModule" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.SystemModule" Member="SystemModules">
+    <Type Name="SystemModule">
+      <Column Name="IID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(500) NOT NULL" CanBeNull="false" />
+      <Association Name="SystemModule_SystemPage" Member="SystemPages" ThisKey="IID" OtherKey="SystemModuleID" Type="SystemPage" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Country" Member="Countries">
+    <Type Name="Country">
+      <Column Name="IID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="ShortName" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Association Name="Country_City" Member="Cities" ThisKey="IID" OtherKey="CountryID" Type="City" />
+      <Association Name="Country_State" Member="States" ThisKey="IID" OtherKey="CountryID" Type="State" />
+      <Association Name="Country_TicketSale" Member="TicketSales" ThisKey="IID" OtherKey="DestinationCountry" Type="TicketSale" />
+      <Association Name="Country_Inv_Master" Member="Inv_Masters" ThisKey="IID" OtherKey="CountryID" Type="Inv_Master" />
+    </Type>
+  </Table>
+  <Table Name="dbo.FinancialYear" Member="FinancialYears">
+    <Type Name="FinancialYear">
+      <Column Name="IID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="FinancialYear" Member="FinancialYear1" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="IsRemoved" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.BranchInfo" Member="BranchInfos">
+    <Type Name="BranchInfo">
+      <Column Name="IID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="CompanyID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(500) NOT NULL" CanBeNull="false" />
+      <Column Name="Address" Type="System.String" DbType="NVarChar(500) NOT NULL" CanBeNull="false" />
+      <Column Name="Phone" Type="System.String" DbType="NVarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="Fax" Type="System.String" DbType="NVarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="Email" Type="System.String" DbType="NVarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="CityID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="CountryID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="Zip" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Website" Type="System.String" DbType="NVarChar(300) NOT NULL" CanBeNull="false" />
+      <Column Name="CreateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="CreateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="IsRemoved" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="BranchInfo_SystemUser" Member="SystemUsers" ThisKey="IID" OtherKey="BranchID" Type="SystemUser" />
+      <Association Name="BranchInfo_TicketSale" Member="TicketSales" ThisKey="IID" OtherKey="BranchID" Type="TicketSale" />
+      <Association Name="CompanyInfo_BranchInfo" Member="CompanyInfo" ThisKey="CompanyID" OtherKey="IID" Type="CompanyInfo" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.SystemUser" Member="SystemUsers">
+    <Type Name="SystemUser">
+      <Column Name="IID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="CreatedBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="CreatedDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="Email" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="FirstName" Type="System.String" DbType="NVarChar(500) NOT NULL" CanBeNull="false" />
+      <Column Name="LastName" Type="System.String" DbType="NVarChar(500) NOT NULL" CanBeNull="false" />
+      <Column Name="UserName" Type="System.String" DbType="NVarChar(500) NOT NULL" CanBeNull="false" />
+      <Column Name="IsRemoved" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="UpdatedBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="UpdatedDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="UserTypeID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="ProviderKey" Type="System.String" DbType="NVarChar(500) NOT NULL" CanBeNull="false" />
+      <Column Name="Roles" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Status" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="RoleID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="IsRoleBased" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="Password" Type="System.String" DbType="NVarChar(3000) NOT NULL" CanBeNull="false" />
+      <Column Name="BranchID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="SystemUser_PagesOnUser" Member="PagesOnUsers" ThisKey="IID" OtherKey="UserID" Type="PagesOnUser" />
+      <Association Name="BranchInfo_SystemUser" Member="BranchInfo" ThisKey="BranchID" OtherKey="IID" Type="BranchInfo" IsForeignKey="true" />
+      <Association Name="SystemRole_SystemUser" Member="SystemRole" ThisKey="RoleID" OtherKey="IID" Type="SystemRole" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Acc_BankTransaction" Member="Acc_BankTransactions">
+    <Type Name="Acc_BankTransaction">
+      <Column Name="IID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="TransactionMasterID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="ReferenceType" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="ChequeLeafID" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="Amount" Type="System.Decimal" DbType="Decimal(18,2) NOT NULL" CanBeNull="false" />
+      <Column Name="BankName" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="BranchName" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="BankAccount" Type="System.String" DbType="NVarChar(250)" CanBeNull="true" />
+      <Column Name="ChequeLeafNumber" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="CreateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="CreateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="IsRemoved" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="ChequeDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="BranchID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Acc_TransactionMaster_Acc_BankTransaction" Member="Acc_TransactionMaster" ThisKey="TransactionMasterID" OtherKey="IID" Type="Acc_TransactionMaster" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Acc_Bank" Member="Acc_Banks">
+    <Type Name="Acc_Bank">
+      <Column Name="IID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="ShortName" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="CreateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="CreateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="IsRemoved" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="BranchID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Acc_Bank_Acc_BankBranch" Member="Acc_BankBranches" ThisKey="IID" OtherKey="BankID" Type="Acc_BankBranch" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Acc_BankAccount" Member="Acc_BankAccounts">
+    <Type Name="Acc_BankAccount">
+      <Column Name="IID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="AccountNumber" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="BankBranchID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="BankAccountType" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="CreateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="CreateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="IsRemoved" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="BranchID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Acc_BankAccount_Acc_BankLinkToChartOfAccount" Member="Acc_BankLinkToChartOfAccounts" ThisKey="IID" OtherKey="BankAccountID" Type="Acc_BankLinkToChartOfAccount" />
+      <Association Name="Acc_BankAccount_Acc_ChequeBook" Member="Acc_ChequeBooks" ThisKey="IID" OtherKey="BankAccountID" Type="Acc_ChequeBook" />
+      <Association Name="Acc_BankBranch_Acc_BankAccount" Member="Acc_BankBranch" ThisKey="BankBranchID" OtherKey="IID" Type="Acc_BankBranch" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Acc_BankBranch" Member="Acc_BankBranches">
+    <Type Name="Acc_BankBranch">
+      <Column Name="IID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="BankID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="Address" Type="System.String" DbType="NVarChar(500) NOT NULL" CanBeNull="false" />
+      <Column Name="CreateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="CreateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="IsRemoved" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="BranchID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Acc_BankBranch_Acc_BankAccount" Member="Acc_BankAccounts" ThisKey="IID" OtherKey="BankBranchID" Type="Acc_BankAccount" />
+      <Association Name="Acc_Bank_Acc_BankBranch" Member="Acc_Bank" ThisKey="BankID" OtherKey="IID" Type="Acc_Bank" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Acc_BankLinkToChartOfAccount" Member="Acc_BankLinkToChartOfAccounts">
+    <Type Name="Acc_BankLinkToChartOfAccount">
+      <Column Name="IID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ChartOfAccountID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="BankAccountID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="Status" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="CreateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="CreateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="IsRemoved" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="BranchID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Acc_BankAccount_Acc_BankLinkToChartOfAccount" Member="Acc_BankAccount" ThisKey="BankAccountID" OtherKey="IID" Type="Acc_BankAccount" IsForeignKey="true" />
+      <Association Name="Acc_ChartOfAccount_Acc_BankLinkToChartOfAccount" Member="Acc_ChartOfAccount" ThisKey="ChartOfAccountID" OtherKey="IID" Type="Acc_ChartOfAccount" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Acc_ChequeBook" Member="Acc_ChequeBooks">
+    <Type Name="Acc_ChequeBook">
+      <Column Name="IID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="BankAccountID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="ChequeBookNumber" Type="System.String" DbType="NVarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="NumberofLeaf" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="StartLeafNumber" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="EndLeafNumber" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="IsActive" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="CreateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="CreateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="IsRemoved" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="BranchID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Acc_ChequeBook_Acc_ChequeLeaf" Member="Acc_ChequeLeafs" ThisKey="IID" OtherKey="ChequeBookID" Type="Acc_ChequeLeaf" />
+      <Association Name="Acc_BankAccount_Acc_ChequeBook" Member="Acc_BankAccount" ThisKey="BankAccountID" OtherKey="IID" Type="Acc_BankAccount" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Acc_ChequeLeaf" Member="Acc_ChequeLeafs">
+    <Type Name="Acc_ChequeLeaf">
+      <Column Name="IID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ChequeBookID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="LeafNumber" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Status" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="CreateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="CreateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="IsRemoved" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="BranchID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Acc_ChequeBook_Acc_ChequeLeaf" Member="Acc_ChequeBook" ThisKey="ChequeBookID" OtherKey="IID" Type="Acc_ChequeBook" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Customer" Member="Customers">
+    <Type Name="Customer">
+      <Column Name="IID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="Code" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Address" Type="System.String" DbType="NVarChar(500) NOT NULL" CanBeNull="false" />
+      <Column Name="Phone" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Mobile" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Fax" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Email" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="PassportNo" Type="System.String" DbType="NVarChar(250)" CanBeNull="true" />
+      <Column Name="NationalID" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="DateofBirth" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Web" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="ContactPerson" Type="System.String" DbType="NVarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="ContactPersonAddress" Type="System.String" DbType="NVarChar(500) NOT NULL" CanBeNull="false" />
+      <Column Name="ContactPersonPhone" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="ContactPersonMobile" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="ContactPersonEmail" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="CreateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="CreateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="IsRemoved" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="BranchID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Customer_Acc_ChartOfAccountCustomer" Member="Acc_ChartOfAccountCustomers" ThisKey="IID" OtherKey="CustomerID" Type="Acc_ChartOfAccountCustomer" />
+      <Association Name="Customer_TicketSale" Member="TicketSales" ThisKey="IID" OtherKey="CustomerID" Type="TicketSale" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Acc_TransactionMaster" Member="Acc_TransactionMasters">
+    <Type Name="Acc_TransactionMaster">
+      <Column Name="IID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="JournalCode" Type="System.String" DbType="NVarChar(30) NOT NULL" CanBeNull="false" />
+      <Column Name="TransactionTypeID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="TransactionDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="TransactionModeID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Particulars" Type="System.String" DbType="NVarChar(2000) NOT NULL" CanBeNull="false" />
+      <Column Name="Status" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="ToFrom" Type="System.String" DbType="NVarChar(150)" CanBeNull="true" />
+      <Column Name="PayReason" Type="System.String" DbType="NVarChar(150)" CanBeNull="true" />
+      <Column Name="ToFromAddress" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="ToFromName" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="ReferenceType" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ReferenceID" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="TransactionReference" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="CreateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="CreateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="IsRemoved" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="BranchID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Acc_TransactionMaster_Acc_BankTransaction" Member="Acc_BankTransactions" ThisKey="IID" OtherKey="TransactionMasterID" Type="Acc_BankTransaction" />
+      <Association Name="Acc_TransactionMaster_Acc_TransactionDetail" Member="Acc_TransactionDetails" ThisKey="IID" OtherKey="TransactionMasterID" Type="Acc_TransactionDetail" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Acc_TransactionDetail" Member="Acc_TransactionDetails">
+    <Type Name="Acc_TransactionDetail">
+      <Column Name="IID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="TransactionMasterID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="AccountID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="TransactionNature" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Amount" Type="System.Decimal" DbType="Decimal(18,2) NOT NULL" CanBeNull="false" />
+      <Column Name="Particulars" Type="System.String" DbType="NVarChar(500) NOT NULL" CanBeNull="false" />
+      <Column Name="CreateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="CreateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="IsRemoved" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="BranchID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Acc_TransactionMaster_Acc_TransactionDetail" Member="Acc_TransactionMaster" ThisKey="TransactionMasterID" OtherKey="IID" Type="Acc_TransactionMaster" IsForeignKey="true" />
+      <Association Name="Acc_ChartOfAccount_Acc_TransactionDetail" Member="Acc_ChartOfAccount" ThisKey="AccountID" OtherKey="IID" Type="Acc_ChartOfAccount" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Supplier" Member="Suppliers">
+    <Type Name="Supplier">
+      <Column Name="IID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="Code" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Address" Type="System.String" DbType="NVarChar(500) NOT NULL" CanBeNull="false" />
+      <Column Name="Phone" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Mobile" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Fax" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Email" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Web" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="ContactPerson" Type="System.String" DbType="NVarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="ContactPersonAddress" Type="System.String" DbType="NVarChar(500) NOT NULL" CanBeNull="false" />
+      <Column Name="ContactPersonPhone" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="ContactPersonMobile" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="ContactPersonEmail" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="CreateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="CreateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="IsRemoved" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="SupplierType" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="AirlinesType" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Supplier_Acc_ChartOfAccountSupplier" Member="Acc_ChartOfAccountSuppliers" ThisKey="IID" OtherKey="SupplierID" Type="Acc_ChartOfAccountSupplier" />
+      <Association Name="Supplier_AirlinesCommission" Member="AirlinesCommissions" ThisKey="IID" OtherKey="SupplierID" Type="AirlinesCommission" />
+      <Association Name="Supplier_TicketSale" Member="TicketSales" ThisKey="IID" OtherKey="AirlinesID" Type="TicketSale" />
+    </Type>
+  </Table>
+  <Table Name="dbo.AirlinesCommission" Member="AirlinesCommissions">
+    <Type Name="AirlinesCommission">
+      <Column Name="IID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="SupplierID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="NormalCommission" Type="System.Decimal" DbType="Decimal(18,2) NOT NULL" CanBeNull="false" />
+      <Column Name="ExcessCommission" Type="System.Decimal" DbType="Decimal(18,2)" CanBeNull="true" />
+      <Column Name="IsActive" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="CreateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="CreateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="IsRemoved" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="NormalCommissionType" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ExcessCommissionType" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="TicketClassID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Supplier_AirlinesCommission" Member="Supplier" ThisKey="SupplierID" OtherKey="IID" Type="Supplier" IsForeignKey="true" />
+      <Association Name="TicketClass_AirlinesCommission" Member="TicketClass" ThisKey="TicketClassID" OtherKey="IID" Type="TicketClass" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.TicketClass" Member="TicketClasses">
+    <Type Name="TicketClass">
+      <Column Name="IID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(250) NOT NULL" CanBeNull="false" />
+      <Association Name="TicketClass_AirlinesCommission" Member="AirlinesCommissions" ThisKey="IID" OtherKey="TicketClassID" Type="AirlinesCommission" />
+      <Association Name="TicketClass_TicketSale" Member="TicketSales" ThisKey="IID" OtherKey="TicketClassID" Type="TicketSale" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Payment" Member="Payments">
+    <Type Name="Payment">
+      <Column Name="IID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="BranchID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="ReferenceTypeID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="ReferenceID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="PaymentNo" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="ReferenceBillNo" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="PaymentMode" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="TotalDueAmount" Type="System.Decimal" DbType="Decimal(18,2) NOT NULL" CanBeNull="false" />
+      <Column Name="PaidAmount" Type="System.Decimal" DbType="Decimal(18,2) NOT NULL" CanBeNull="false" />
+      <Column Name="LastDueAmount" Type="System.Decimal" DbType="Decimal(18,2) NOT NULL" CanBeNull="false" />
+      <Column Name="PaymentDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="NextPaymentDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Status" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="CreateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="CreateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="IsRemoved" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.TicketSaleDetail" Member="TicketSaleDetails">
+    <Type Name="TicketSaleDetail">
+      <Column Name="IID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="TicketSaleID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="PassengerName" Type="System.String" DbType="NVarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="TicketNo" Type="System.String" DbType="NVarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="TicketPriceInUSD" Type="System.Decimal" DbType="Decimal(18,2) NOT NULL" CanBeNull="false" />
+      <Column Name="TicketPrice" Type="System.Decimal" DbType="Decimal(18,2) NOT NULL" CanBeNull="false" />
+      <Column Name="Tax" Type="System.Decimal" DbType="Decimal(18,2) NOT NULL" CanBeNull="false" />
+      <Column Name="TotalAmount" Type="System.Decimal" DbType="Decimal(18,2) NOT NULL" CanBeNull="false" />
+      <Column Name="Status" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="CreateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="CreateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="IsRemoved" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="TicketSale_TicketSaleDetail" Member="TicketSale" ThisKey="TicketSaleID" OtherKey="IID" Type="TicketSale" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Acc_ChartOfAccount" Member="Acc_ChartOfAccounts">
+    <Type Name="Acc_ChartOfAccount">
+      <Column Name="IID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="AccountNo" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="IsActive" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="AccountTypeID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="ParentID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="Gparent" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="CreateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="CreateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="IsRemoved" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="BranchID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="OpeningBalance" Type="System.Decimal" DbType="Decimal(18,2)" CanBeNull="true" />
+      <Column Name="BalanceSheetItemID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Acc_ChartOfAccount_Acc_ChartOfAccountSupplier" Member="Acc_ChartOfAccountSuppliers" ThisKey="IID" OtherKey="ChartOfAccountID" Type="Acc_ChartOfAccountSupplier" />
+      <Association Name="Acc_ChartOfAccount_Acc_ChartOfAccountCustomer" Member="Acc_ChartOfAccountCustomers" ThisKey="IID" OtherKey="ChartOfAccountID" Type="Acc_ChartOfAccountCustomer" />
+      <Association Name="Acc_ChartOfAccount_Acc_BankLinkToChartOfAccount" Member="Acc_BankLinkToChartOfAccounts" ThisKey="IID" OtherKey="ChartOfAccountID" Type="Acc_BankLinkToChartOfAccount" />
+      <Association Name="Acc_ChartOfAccount_Acc_TransactionDetail" Member="Acc_TransactionDetails" ThisKey="IID" OtherKey="AccountID" Type="Acc_TransactionDetail" />
+      <Association Name="Acc_ChartOfAccount_Acc_ChartOfAccountMember" Member="Acc_ChartOfAccountMembers" ThisKey="IID" OtherKey="ChartofAccountID" Type="Acc_ChartOfAccountMember" />
+      <Association Name="Acc_Class_Acc_ChartOfAccount" Member="Acc_Class" ThisKey="Gparent" OtherKey="IID" Type="Acc_Class" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.TicketSale" Member="TicketSales">
+    <Type Name="TicketSale">
+      <Column Name="IID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="BranchID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="TransactionDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="AirlinesID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="CustomerID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="SaleBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="TransactionNo" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Departure" Type="System.String" DbType="NVarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="Destination" Type="System.String" DbType="NVarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="BillNo" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="TicketPriceInUSD" Type="System.Decimal" DbType="Decimal(18,2) NOT NULL" CanBeNull="false" />
+      <Column Name="USDRate" Type="System.Decimal" DbType="Decimal(18,2) NOT NULL" CanBeNull="false" />
+      <Column Name="TicketPriceInTaka" Type="System.Decimal" DbType="Decimal(18,2) NOT NULL" CanBeNull="false" />
+      <Column Name="AirLinesCommissionInAmount" Type="System.Decimal" DbType="Decimal(18,2) NOT NULL" CanBeNull="false" />
+      <Column Name="AirlinesPayable" Type="System.Decimal" DbType="Decimal(18,2) NOT NULL" CanBeNull="false" />
+      <Column Name="AirlinesPaymentDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="CustomerDiscountType" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="CustomerDiscount" Type="System.Decimal" DbType="Decimal(18,2) NOT NULL" CanBeNull="false" />
+      <Column Name="CustomerDiscountInAmount" Type="System.Decimal" DbType="Decimal(18,2) NOT NULL" CanBeNull="false" />
+      <Column Name="CustomerReceivable" Type="System.Decimal" DbType="Decimal(18,2) NOT NULL" CanBeNull="false" />
+      <Column Name="CustomerDue" Type="System.Decimal" DbType="Decimal(18,2) NOT NULL" CanBeNull="false" />
+      <Column Name="CustomerPaid" Type="System.Decimal" DbType="Decimal(18,2) NOT NULL" CanBeNull="false" />
+      <Column Name="CustomerReceivableDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="TotalDiscount" Type="System.Decimal" DbType="Decimal(18,2) NOT NULL" CanBeNull="false" />
+      <Column Name="SpecialDiscount" Type="System.Decimal" DbType="Decimal(18,2) NOT NULL" CanBeNull="false" />
+      <Column Name="VAT" Type="System.Decimal" DbType="Decimal(18,2) NOT NULL" CanBeNull="false" />
+      <Column Name="TAX" Type="System.Decimal" DbType="Decimal(18,2) NOT NULL" CanBeNull="false" />
+      <Column Name="Hold" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="Refernce" Type="System.String" DbType="NVarChar(500) NOT NULL" CanBeNull="false" />
+      <Column Name="FinancialYearID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Status" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="CreateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="CreateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="IsRemoved" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Remarks" Type="System.String" DbType="NVarChar(500) NOT NULL" CanBeNull="false" />
+      <Column Name="TicketClassID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="IssueDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="DepartureDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="ReturnDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Sector" Type="System.String" DbType="NVarChar(250)" CanBeNull="true" />
+      <Column Name="DestinationCountry" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Association Name="TicketSale_TicketSaleDetail" Member="TicketSaleDetails" ThisKey="IID" OtherKey="TicketSaleID" Type="TicketSaleDetail" />
+      <Association Name="BranchInfo_TicketSale" Member="BranchInfo" ThisKey="BranchID" OtherKey="IID" Type="BranchInfo" IsForeignKey="true" />
+      <Association Name="Country_TicketSale" Member="Country" ThisKey="DestinationCountry" OtherKey="IID" Type="Country" IsForeignKey="true" />
+      <Association Name="Customer_TicketSale" Member="Customer" ThisKey="CustomerID" OtherKey="IID" Type="Customer" IsForeignKey="true" />
+      <Association Name="Supplier_TicketSale" Member="Supplier" ThisKey="AirlinesID" OtherKey="IID" Type="Supplier" IsForeignKey="true" />
+      <Association Name="TicketClass_TicketSale" Member="TicketClass" ThisKey="TicketClassID" OtherKey="IID" Type="TicketClass" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.CompanyInfo" Member="CompanyInfos">
+    <Type Name="CompanyInfo">
+      <Column Name="IID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="Address" Type="System.String" DbType="NVarChar(500) NOT NULL" CanBeNull="false" />
+      <Column Name="Phone" Type="System.String" DbType="NVarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="Fax" Type="System.String" DbType="NVarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="Email" Type="System.String" DbType="NVarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="CityID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="CountryID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="Zip" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Website" Type="System.String" DbType="NVarChar(300) NOT NULL" CanBeNull="false" />
+      <Column Name="Slogan" Type="System.String" DbType="NVarChar(500) NOT NULL" CanBeNull="false" />
+      <Column Name="LogoLocation" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Column Name="CreateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="CreateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="IsRemoved" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Description" Type="System.String" DbType="NVarChar(MAX) NOT NULL" CanBeNull="false" />
+      <Column Name="VATRegistrationNumber" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="TINNumber" Type="System.String" DbType="NVarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="LicencedNumber" Type="System.String" DbType="NVarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="Latitude" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="Longitude" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Association Name="CompanyInfo_BranchInfo" Member="BranchInfos" ThisKey="IID" OtherKey="CompanyID" Type="BranchInfo" />
+    </Type>
+  </Table>
+  <Table Name="dbo.AssetInformation" Member="AssetInformations">
+    <Type Name="AssetInformation">
+      <Column Name="IID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="AssetTypeID" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Serial" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Qty" Type="System.Decimal" DbType="Decimal(18,2)" CanBeNull="true" />
+      <Column Name="FARNo" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Location" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Origin" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="PurchesYear" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="UnitPrice" Type="System.Decimal" DbType="Decimal(18,0)" CanBeNull="true" />
+      <Column Name="CreateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="CreateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="IsRemoved" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Asset_Type_AssetInformation" Member="Asset_Type" ThisKey="AssetTypeID" OtherKey="IID" Type="Asset_Type" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.AssetDepriciationRatio" Member="AssetDepriciationRatios">
+    <Type Name="AssetDepriciationRatio">
+      <Column Name="IID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="AssettypeID" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="Ratio" Type="System.Decimal" DbType="Decimal(18,2)" CanBeNull="true" />
+      <Column Name="AssetYear" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="CreateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="CreateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="IsRemoved" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Asset_Type_AssetDepriciationRatio" Member="Asset_Type" ThisKey="AssettypeID" OtherKey="IID" Type="Asset_Type" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Asset_Type" Member="Asset_Types">
+    <Type Name="Asset_Type">
+      <Column Name="IID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="CreateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="CreateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="IsRemoved" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Code" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="Asset_Type_AssetInformation" Member="AssetInformations" ThisKey="IID" OtherKey="AssetTypeID" Type="AssetInformation" />
+      <Association Name="Asset_Type_AssetDepriciationRatio" Member="AssetDepriciationRatios" ThisKey="IID" OtherKey="AssettypeID" Type="AssetDepriciationRatio" />
+    </Type>
+  </Table>
+  <Table Name="dbo.CompanyType" Member="CompanyTypes">
+    <Type Name="CompanyType">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="CreateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="CreateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="IsRemoved" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="CompanyType_Member" Member="Members" ThisKey="ID" OtherKey="CompanyTypeID" Type="Member" />
+    </Type>
+  </Table>
+  <Table Name="dbo.CompanyCategory" Member="CompanyCategories">
+    <Type Name="CompanyCategory">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="CreateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="CreateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="IsRemoved" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="CompanyCategory_Member" Member="Members" ThisKey="ID" OtherKey="CompanyCategoryID" Type="Member" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Ins_DocumentType" Member="Ins_DocumentTypes">
+    <Type Name="Ins_DocumentType">
+      <Column Name="IID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(500) NOT NULL" CanBeNull="false" />
+      <Association Name="Ins_DocumentType_MemberDocument" Member="MemberDocuments" ThisKey="IID" OtherKey="DocumentTypeID" Type="MemberDocument" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Ins_ItemCategory" Member="Ins_ItemCategories">
+    <Type Name="Ins_ItemCategory">
+      <Column Name="IID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="Code" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="CreateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="CreateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="IsRemoved" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Ins_ItemCategory_Ins_Item" Member="Ins_Items" ThisKey="IID" OtherKey="CategoryID" Type="Ins_Item" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Ins_MemberVerification" Member="Ins_MemberVerifications">
+    <Type Name="Ins_MemberVerification">
+      <Column Name="IID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="MemberID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="Status" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="SubmitedDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Comments" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Association Name="Member_Ins_MemberVerification" Member="Member" ThisKey="MemberID" OtherKey="ID" Type="Member" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Ins_MemberVerificationDetail" Member="Ins_MemberVerificationDetails">
+    <Type Name="Ins_MemberVerificationDetail">
+      <Column Name="IID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="MemberID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="VerificationTypeId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Status" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Comment" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="LastUpdated" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="UpdatedBy" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Association Name="Ins_VerificationType_Ins_MemberVerificationDetail" Member="Ins_VerificationType" ThisKey="VerificationTypeId" OtherKey="IID" Type="Ins_VerificationType" IsForeignKey="true" />
+      <Association Name="Member_Ins_MemberVerificationDetail" Member="Member" ThisKey="MemberID" OtherKey="ID" Type="Member" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Ins_VerificationType" Member="Ins_VerificationTypes">
+    <Type Name="Ins_VerificationType">
+      <Column Name="IID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(500) NOT NULL" CanBeNull="false" />
+      <Column Name="NameBangla" Type="System.String" DbType="NVarChar(500) NOT NULL" CanBeNull="false" />
+      <Association Name="Ins_VerificationType_Ins_MemberVerificationDetail" Member="Ins_MemberVerificationDetails" ThisKey="IID" OtherKey="VerificationTypeId" Type="Ins_MemberVerificationDetail" />
+    </Type>
+  </Table>
+  <Table Name="dbo.MemberDocument" Member="MemberDocuments">
+    <Type Name="MemberDocument">
+      <Column Name="IID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="MemberID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="DocumentTypeID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="DocumentName" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Column Name="Path" Type="System.String" DbType="NVarChar(500) NOT NULL" CanBeNull="false" />
+      <Association Name="Ins_DocumentType_MemberDocument" Member="Ins_DocumentType" ThisKey="DocumentTypeID" OtherKey="IID" Type="Ins_DocumentType" IsForeignKey="true" />
+      <Association Name="Member_MemberDocument" Member="Member" ThisKey="MemberID" OtherKey="ID" Type="Member" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.BusinessType" Member="BusinessTypes">
+    <Type Name="BusinessType">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="CreateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="CreateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="IsRemoved" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Ins_MemberShipFee" Member="Ins_MemberShipFees">
+    <Type Name="Ins_MemberShipFee">
+      <Column Name="ID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="MemberID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="PayorderNumber" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="PayOrderDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="Path" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Type" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="RegistrationFee" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="CreateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="CreateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="IsRemoved" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Member_Ins_MemberShipFee" Member="Member" ThisKey="MemberID" OtherKey="ID" Type="Member" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Ins_Item" Member="Ins_Items">
+    <Type Name="Ins_Item">
+      <Column Name="IID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="Code" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="CategoryID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="MeasurementUnitID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="CreateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="CreateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="IsRemoved" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Ins_Item_Ins_MemberItem" Member="Ins_MemberItems" ThisKey="IID" OtherKey="ItemID" Type="Ins_MemberItem" />
+      <Association Name="Ins_ItemCategory_Ins_Item" Member="Ins_ItemCategory" ThisKey="CategoryID" OtherKey="IID" Type="Ins_ItemCategory" IsForeignKey="true" />
+      <Association Name="MeasurementUnit_Ins_Item" Member="MeasurementUnit" ThisKey="MeasurementUnitID" OtherKey="IID" Type="MeasurementUnit" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Currency" Member="Currencies">
+    <Type Name="Currency">
+      <Column Name="IID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="CountryAndCurrency" Type="System.String" DbType="NVarChar(500) NOT NULL" CanBeNull="false" />
+      <Column Name="CurrencyCode" Type="System.String" DbType="NVarChar(3) NOT NULL" CanBeNull="false" />
+      <Column Name="[Order]" Member="Order" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Symbols" Type="System.String" DbType="NVarChar(3) NOT NULL" CanBeNull="false" />
+      <Column Name="CreateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="CreateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="IsRemove" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Association Name="Currency_Ins_ChaForm" Member="Ins_ChaForms" ThisKey="IID" OtherKey="CurrencyId" Type="Ins_ChaForm" />
+      <Association Name="Currency_Inv_Master" Member="Inv_Masters" ThisKey="IID" OtherKey="CurrencyId" Type="Inv_Master" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Ins_ChaFormInvoice" Member="Ins_ChaFormInvoices">
+    <Type Name="Ins_ChaFormInvoice">
+      <Column Name="ID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ChaFormId" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="InvoiceMasterId" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Association Name="Ins_ChaForm_Ins_ChaFormInvoice" Member="Ins_ChaForm" ThisKey="ChaFormId" OtherKey="ID" Type="Ins_ChaForm" IsForeignKey="true" />
+      <Association Name="Inv_Master_Ins_ChaFormInvoice" Member="Inv_Master" ThisKey="InvoiceMasterId" OtherKey="IID" Type="Inv_Master" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Ins_ChaFormDeclineReson" Member="Ins_ChaFormDeclineResons">
+    <Type Name="Ins_ChaFormDeclineReson">
+      <Column Name="IID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ChaFormID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="Date" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="Reason" Type="System.String" DbType="NText NOT NULL" CanBeNull="false" UpdateCheck="Never" />
+      <Column Name="CreateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="CreateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="IsRemoved" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Ins_ChaForm_Ins_ChaFormDeclineReson" Member="Ins_ChaForm" ThisKey="ChaFormID" OtherKey="ID" Type="Ins_ChaForm" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Ins_BapaIncome" Member="Ins_BapaIncomes">
+    <Type Name="Ins_BapaIncome">
+      <Column Name="IID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="MemberID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="Type" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="ChaFromID" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="Amount" Type="System.Decimal" DbType="Money NOT NULL" CanBeNull="false" />
+      <Column Name="Date" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="PaymentStatus" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="PartialPaymentAmount" Type="System.Decimal" DbType="Money" CanBeNull="true" />
+      <Column Name="RemainingPaymentAmount" Type="System.Decimal" DbType="Money" CanBeNull="true" />
+      <Column Name="CreateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="CreateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="IsRemoved" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Ins_BapaIncome_Ins_MemberPaymentDetail" Member="Ins_MemberPaymentDetails" ThisKey="IID" OtherKey="BapaIncomeID" Type="Ins_MemberPaymentDetail" />
+      <Association Name="Ins_ChaForm_Ins_BapaIncome" Member="Ins_ChaForm" ThisKey="ChaFromID" OtherKey="ID" Type="Ins_ChaForm" IsForeignKey="true" />
+      <Association Name="Member_Ins_BapaIncome" Member="Member" ThisKey="MemberID" OtherKey="ID" Type="Member" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Ins_MemberPayment" Member="Ins_MemberPayments">
+    <Type Name="Ins_MemberPayment">
+      <Column Name="IID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="MemberID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="Date" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="Amount" Type="System.Decimal" DbType="Money NOT NULL" CanBeNull="false" />
+      <Column Name="Description" Type="System.String" DbType="NText NOT NULL" CanBeNull="false" UpdateCheck="Never" />
+      <Column Name="PaymentType" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="ChequeNo" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="ChequeDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="BankName" Type="System.String" DbType="NVarChar(200)" CanBeNull="true" />
+      <Column Name="ReceivedBy" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="ReceverName" Type="System.String" DbType="NVarChar(200)" CanBeNull="true" />
+      <Column Name="Status" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="CreateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="CreateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="IsRemoved" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Ins_MemberPayment_Ins_MemberPaymentDetail" Member="Ins_MemberPaymentDetails" ThisKey="IID" OtherKey="MemberPaymentID" Type="Ins_MemberPaymentDetail" />
+      <Association Name="Member_Ins_MemberPayment" Member="Member" ThisKey="MemberID" OtherKey="ID" Type="Member" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Ins_MemberPaymentDetail" Member="Ins_MemberPaymentDetails">
+    <Type Name="Ins_MemberPaymentDetail">
+      <Column Name="IID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="MemberPaymentID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="BapaIncomeID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="IsPertial" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Amount" Type="System.Decimal" DbType="Money NOT NULL" CanBeNull="false" />
+      <Column Name="CreateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="CreateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="IsRemoved" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Ins_BapaIncome_Ins_MemberPaymentDetail" Member="Ins_BapaIncome" ThisKey="BapaIncomeID" OtherKey="IID" Type="Ins_BapaIncome" IsForeignKey="true" />
+      <Association Name="Ins_MemberPayment_Ins_MemberPaymentDetail" Member="Ins_MemberPayment" ThisKey="MemberPaymentID" OtherKey="IID" Type="Ins_MemberPayment" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Ins_MembershipExpireInfo" Member="Ins_MembershipExpireInfos">
+    <Type Name="Ins_MembershipExpireInfo">
+      <Column Name="IID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="MemberID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="ExpireDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="CreateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="CreateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="IsRemoved" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Member_Ins_MembershipExpireInfo" Member="Member" ThisKey="MemberID" OtherKey="ID" Type="Member" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Acc_ChartOfAccountMember" Member="Acc_ChartOfAccountMembers">
+    <Type Name="Acc_ChartOfAccountMember">
+      <Column Name="IID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ChartofAccountID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="MemberID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="CreateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="CreateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="IsRemoved" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Acc_ChartOfAccount_Acc_ChartOfAccountMember" Member="Acc_ChartOfAccount" ThisKey="ChartofAccountID" OtherKey="IID" Type="Acc_ChartOfAccount" IsForeignKey="true" />
+      <Association Name="Member_Acc_ChartOfAccountMember" Member="Member" ThisKey="MemberID" OtherKey="ID" Type="Member" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Ins_ChaForm" Member="Ins_ChaForms">
+    <Type Name="Ins_ChaForm">
+      <Column Name="ID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="MemberID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="ExportLCNo" Type="System.String" DbType="NVarChar(200) NOT NULL" CanBeNull="false" />
+      <Column Name="LCDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="ExportValuation" Type="System.Decimal" DbType="Decimal(18,2) NOT NULL" CanBeNull="false" />
+      <Column Name="ForignCustomerName" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="ForignCustomerAddress" Type="System.String" DbType="NVarChar(500) NOT NULL" CanBeNull="false" />
+      <Column Name="ForignCustomerBankAddress" Type="System.String" DbType="NVarChar(500) NOT NULL" CanBeNull="false" />
+      <Column Name="ForignCustomerBankName" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Column Name="CurrencyId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="ShipmentDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="DestinationPort" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="EKIMPNumber" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="EKIMPDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="EKIMPAmount" Type="System.Decimal" DbType="Decimal(18,2) NOT NULL" CanBeNull="false" />
+      <Column Name="ProposedExportedAmount" Type="System.Decimal" DbType="Decimal(18,2) NOT NULL" CanBeNull="false" />
+      <Column Name="ProposedExportedCertificateNo" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="ProposedExportedCertificateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="NetFOBAmount" Type="System.Decimal" DbType="Decimal(18,2) NOT NULL" CanBeNull="false" />
+      <Column Name="ChaFormNo" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Status" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="CreateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="CreateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="IsRemoved" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Ins_ChaForm_Ins_ChaFormInvoice" Member="Ins_ChaFormInvoices" ThisKey="ID" OtherKey="ChaFormId" Type="Ins_ChaFormInvoice" />
+      <Association Name="Ins_ChaForm_Ins_ChaFormDeclineReson" Member="Ins_ChaFormDeclineResons" ThisKey="ID" OtherKey="ChaFormID" Type="Ins_ChaFormDeclineReson" />
+      <Association Name="Ins_ChaForm_Ins_BapaIncome" Member="Ins_BapaIncomes" ThisKey="ID" OtherKey="ChaFromID" Type="Ins_BapaIncome" />
+      <Association Name="Currency_Ins_ChaForm" Member="Currency" ThisKey="CurrencyId" OtherKey="IID" Type="Currency" IsForeignKey="true" />
+      <Association Name="Member_Ins_ChaForm" Member="Member" ThisKey="MemberID" OtherKey="ID" Type="Member" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Ins_MemberItem" Member="Ins_MemberItems">
+    <Type Name="Ins_MemberItem">
+      <Column Name="IID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="MemberID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="ItemID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="CreateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="CreateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="IsRemoved" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Code" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="ItemWeight" Type="System.Decimal" DbType="Money" CanBeNull="true" />
+      <Association Name="Ins_MemberItem_Inv_Detail" Member="Inv_Details" ThisKey="IID" OtherKey="InsMemberItemId" Type="Inv_Detail" />
+      <Association Name="Ins_Item_Ins_MemberItem" Member="Ins_Item" ThisKey="ItemID" OtherKey="IID" Type="Ins_Item" IsForeignKey="true" />
+      <Association Name="Member_Ins_MemberItem" Member="Member" ThisKey="MemberID" OtherKey="ID" Type="Member" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Inv_Detail" Member="Inv_Details">
+    <Type Name="Inv_Detail">
+      <Column Name="IID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="InvMasterId" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="InsMemberItemId" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="UnitPrice" Type="System.Decimal" DbType="Money NOT NULL" CanBeNull="false" />
+      <Column Name="Quantity" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="CreateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="CreateDate" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateDate" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Column Name="IsRemoved" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="CartonSize" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="TotalItemCount" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="TotalAmount" Type="System.Decimal" DbType="Money NOT NULL" CanBeNull="false" />
+      <Column Name="TotalWeight" Type="System.Decimal" DbType="Decimal(18,2) NOT NULL" CanBeNull="false" />
+      <Column Name="GrossWeight" Type="System.Decimal" DbType="Decimal(18,2) NOT NULL" CanBeNull="false" />
+      <Association Name="Ins_MemberItem_Inv_Detail" Member="Ins_MemberItem" ThisKey="InsMemberItemId" OtherKey="IID" Type="Ins_MemberItem" IsForeignKey="true" />
+      <Association Name="Inv_Master_Inv_Detail" Member="Inv_Master" ThisKey="InvMasterId" OtherKey="IID" Type="Inv_Master" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Ins_InvoiceEnclosedDocument" Member="Ins_InvoiceEnclosedDocuments">
+    <Type Name="Ins_InvoiceEnclosedDocument">
+      <Column Name="IID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="InvoiceID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(500) NOT NULL" CanBeNull="false" />
+      <Column Name="Path" Type="System.String" DbType="NVarChar(500) NOT NULL" CanBeNull="false" />
+      <Column Name="FileName" Type="System.String" DbType="NVarChar(200) NOT NULL" CanBeNull="false" />
+      <Column Name="CreatedDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Association Name="Inv_Master_Ins_InvoiceEnclosedDocument" Member="Inv_Master" ThisKey="InvoiceID" OtherKey="IID" Type="Inv_Master" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Member" Member="Members">
+    <Type Name="Member">
+      <Column Name="ID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(500) NOT NULL" CanBeNull="false" />
+      <Column Name="NameBangla" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Column Name="Address" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Column Name="AddressBangla" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Column Name="Phone" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Mobile" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Fax" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Email" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="IndustryLocation" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Column Name="CompanyEstablishmentYear" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="IndustryFoundationYear" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="TypeOfBusiness" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="CompanyTypeID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="CompanyCategoryID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="ManufacturedProducts" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Column Name="ImportedProducts" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Column Name="ExportedProducts" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Column Name="NameOfTheAssociations" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Column Name="MembershipStatus" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="TypeOfSubmission" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="MembershipCode" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="CreateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="CreateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="IsRemoved" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="ProviderKey" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="MemberVerificationStatus" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Member_Ins_MemberVerification" Member="Ins_MemberVerifications" ThisKey="ID" OtherKey="MemberID" Type="Ins_MemberVerification" />
+      <Association Name="Member_Ins_MemberVerificationDetail" Member="Ins_MemberVerificationDetails" ThisKey="ID" OtherKey="MemberID" Type="Ins_MemberVerificationDetail" />
+      <Association Name="Member_MemberDocument" Member="MemberDocuments" ThisKey="ID" OtherKey="MemberID" Type="MemberDocument" />
+      <Association Name="Member_Ins_MemberShipFee" Member="Ins_MemberShipFees" ThisKey="ID" OtherKey="MemberID" Type="Ins_MemberShipFee" />
+      <Association Name="Member_Ins_BapaIncome" Member="Ins_BapaIncomes" ThisKey="ID" OtherKey="MemberID" Type="Ins_BapaIncome" />
+      <Association Name="Member_Ins_MemberPayment" Member="Ins_MemberPayments" ThisKey="ID" OtherKey="MemberID" Type="Ins_MemberPayment" />
+      <Association Name="Member_Ins_MembershipExpireInfo" Member="Ins_MembershipExpireInfos" ThisKey="ID" OtherKey="MemberID" Type="Ins_MembershipExpireInfo" />
+      <Association Name="Member_Acc_ChartOfAccountMember" Member="Acc_ChartOfAccountMembers" ThisKey="ID" OtherKey="MemberID" Type="Acc_ChartOfAccountMember" />
+      <Association Name="Member_Ins_ChaForm" Member="Ins_ChaForms" ThisKey="ID" OtherKey="MemberID" Type="Ins_ChaForm" />
+      <Association Name="Member_Ins_MemberItem" Member="Ins_MemberItems" ThisKey="ID" OtherKey="MemberID" Type="Ins_MemberItem" />
+      <Association Name="Member_Inv_Master" Member="Inv_Masters" ThisKey="ID" OtherKey="MemberId" Type="Inv_Master" />
+      <Association Name="CompanyCategory_Member" Member="CompanyCategory" ThisKey="CompanyCategoryID" OtherKey="ID" Type="CompanyCategory" IsForeignKey="true" />
+      <Association Name="CompanyType_Member" Member="CompanyType" ThisKey="CompanyTypeID" OtherKey="ID" Type="CompanyType" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Inv_Master" Member="Inv_Masters">
+    <Type Name="Inv_Master">
+      <Column Name="IID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Date" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Column Name="Number" Type="System.String" DbType="NVarChar(200) NOT NULL" CanBeNull="false" />
+      <Column Name="DollarAmount" Type="System.Decimal" DbType="Money NOT NULL" CanBeNull="false" />
+      <Column Name="CurrencyId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="DollarCounversionRate" Type="System.Decimal" DbType="Money NOT NULL" CanBeNull="false" />
+      <Column Name="CreateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="CreateDate" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateDate" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Column Name="IsRemoved" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="ExportedLocalItemDescription" Type="System.String" DbType="NText" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="ExportedLocalItemQuantity" Type="System.String" DbType="NText" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="ExportedLocalItemAmount" Type="System.Decimal" DbType="Money" CanBeNull="true" />
+      <Column Name="MemberId" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="ExportedLocalDistrubuterNameAndAddress" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Column Name="CurrencyAmount" Type="System.Decimal" DbType="Money" CanBeNull="true" />
+      <Column Name="CountryID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Association Name="Inv_Master_Ins_ChaFormInvoice" Member="Ins_ChaFormInvoices" ThisKey="IID" OtherKey="InvoiceMasterId" Type="Ins_ChaFormInvoice" />
+      <Association Name="Inv_Master_Inv_Detail" Member="Inv_Details" ThisKey="IID" OtherKey="InvMasterId" Type="Inv_Detail" />
+      <Association Name="Inv_Master_Ins_InvoiceEnclosedDocument" Member="Ins_InvoiceEnclosedDocuments" ThisKey="IID" OtherKey="InvoiceID" Type="Ins_InvoiceEnclosedDocument" />
+      <Association Name="Country_Inv_Master" Member="Country" ThisKey="CountryID" OtherKey="IID" Type="Country" IsForeignKey="true" />
+      <Association Name="Currency_Inv_Master" Member="Currency" ThisKey="CurrencyId" OtherKey="IID" Type="Currency" IsForeignKey="true" />
+      <Association Name="Member_Inv_Master" Member="Member" ThisKey="MemberId" OtherKey="ID" Type="Member" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>

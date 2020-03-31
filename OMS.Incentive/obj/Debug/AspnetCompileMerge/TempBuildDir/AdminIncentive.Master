@@ -1,0 +1,234 @@
+﻿ <%@ Master Language="C#" AutoEventWireup="true" CodeBehind="AdminIncentive.master.cs" Inherits="OMS.Incentive.AdminIncentive" %>
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Member Admin Panel" />
+    <meta name="author" content="" />
+    <title>Member | Dashboard</title>
+
+    <link rel="stylesheet" href="/Theme/assets/js/jquery-ui/css/no-theme/jquery-ui-1.10.3.custom.min.css" />
+    <link rel="stylesheet" href="/Theme/assets/css/font-icons/entypo/css/entypo.css" />
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Noto+Sans:400,700,400italic" />
+    <link rel="stylesheet" href="/Theme/assets/css/bootstrap.css" />
+    <link rel="stylesheet" href="/Theme/assets/css/neon-core.css" />
+    <link rel="stylesheet" href="/Theme/assets/css/neon-theme.css" />
+    <link rel="stylesheet" href="/Theme/assets/css/neon-forms.css" />
+    <link rel="stylesheet" href="/Theme/assets/css/custom.css" />
+    <script src="/Theme/assets/js/jquery-1.11.0.min.js"></script>
+    <link href="Content/font-awesome.min.css" rel="stylesheet" />
+    <!--[if lt IE 9]><script src="assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+
+
+</head>
+<body class="page-body  page-fade" data-url="#">
+    <div class="page-container">
+        <!-- add class "sidebar-collapsed" to close sidebar by default, "chat-visible" to make chat appear always -->
+
+        <div class="sidebar-menu">
+            <header class="logo-env">
+
+                <!-- logo -->
+                <div class="logo">
+                    <a href="index.html">
+                        <img src="/Theme/assets/images/logo@2x.png" width="120" alt="" />
+                    </a>
+                </div>
+
+                <!-- logo collapse icon -->
+
+                <div class="sidebar-collapse">
+                    <a href="#" class="sidebar-collapse-icon with-animation">
+                        <!-- add class "with-animation" if you want sidebar to have animation during expanding/collapsing transition -->
+                        <i class="entypo-menu"></i>
+                    </a>
+                </div>
+
+
+
+                <!-- open/close menu icon (do not remove if you want to enable menu on mobile devices) -->
+                <div class="sidebar-mobile-menu visible-xs">
+                    <a href="#" class="with-animation">
+                        <!-- add class "with-animation" to support animation -->
+                        <i class="entypo-menu"></i>
+                    </a>
+                </div>
+
+            </header>
+
+
+            <ul id="main-menu" class="">
+                <!-- add class "multiple-expanded" to allow multiple submenus to open -->
+                <!-- class "auto-inherit-active-class" will automatically add "active" class for parent elements who are marked already with class "active" -->
+                <!-- Search Bar -->
+                <li id="search">
+                    <form method="get" action="">
+                        <input type="text" name="q" class="search-input" placeholder="Search something..." />
+                        <button type="submit">
+                            <i class="entypo-search"></i>
+                        </button>
+                    </form>
+                </li>
+                <li class="active opened active">
+                    <a href="index.html">
+                        <i class="entypo-gauge"></i>
+                        <span>Dashboard</span>
+                    </a>
+                    <ul>
+                        <li class="active">
+                            <a href="/MemberVerification/ExistingMemberVerification.aspx">
+                                <span>Existing Member Verification</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/MemberVerification/ExistingMemberInCommiteeMeeting.aspx">
+                                <span>Commitee Meeting(Existing)</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/MemberVerification/NewMemberVerification.aspx">
+                                <span>New Member Verification</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/MemberVerification/MemberInCommiteeMeeting.aspx">
+                                <span>Commitee Meeting(New)</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/MemberRegisterd/UploadDocuments.aspx">
+                                <span>Upload Documents</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/MemberRegisterd/AccountInformation.aspx">
+                                <span>Account Information</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/Admin/ItemList.aspx">
+                                <span>Item</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/Admin/ItemCategoryList.aspx">
+                                <span>Item Category</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/Admin/MemberItem.aspx">
+                                <span>Member Product</span></a>
+                        </li>
+                        <li>
+                            <a href="/Admin/MemberChaForm.aspx">
+                                <span>Member Cha-Form</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/Admin/InvoiceList.aspx">
+                                <span>Invoice List</span>
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="/Admin/Invoice.aspx">
+                                <span>Create Member Invoice</span>
+
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/Admin/ChaFromCreate.aspx">
+                                <span>Create Member Cha-Form</span>
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="/Admin/ChaFormListingApproved.aspx">
+                                <span>Member Cha-Form List</span>
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="/Login/login.aspx">
+                                <span>Sing Out</span>
+                                <span class="badge badge-success badge-roundless">BAPA</span>
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+
+        </div>
+        <%--<div class="main-content">--%>
+        <div class="main">
+            <div class="row">
+                <!-- Profile Info and Notifications -->
+                <div class="col-md-12 col-sm-12 clearfix" style="background-color: aquamarine; margin-bottom: 20px; height: 80px">
+                    <ul class="user-info pull-left pull-none-xsm">
+
+                        <!-- Profile Info -->
+                        <li class="profile-info dropdown">
+                            <!-- add class "pull-right" if you want to place this from right -->
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                                <img src="/Theme/assets/images/logo@2x.png" alt="" class="img-circle" width="44" />
+                                <h3 style="margin-bottom: 20px;">Bangladesh Agro-Processors' Association (BAPA)</h3>
+                            </a>
+                        </li>
+
+                    </ul>
+                </div>
+            </div>
+
+            <div class="row" style="min-height:500px; background-color:#d0d3d8">
+                <div class="col-md-12 clearfix">
+                    <form id="form1" runat="server" class="form-horizontal">
+                        <div>
+                            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                            </asp:ContentPlaceHolder>
+                        </div>
+                    </form>
+                </div>
+            </div>
+            <!-- Footer -->
+        </div>
+    <footer class="comment-footer">
+        <p class="pull-right"><a href="#">Back to top</a></p>
+        &copy; 2016 <strong>Bangladesh Agro-Processors’ Association </strong> Admin Theme by <a href="http://bapabd.org/" target="_blank">BAPA</a>
+    </footer>
+    </div>
+    <link rel="stylesheet" href="/Theme/assets/js/jvectormap/jquery-jvectormap-1.2.2.css" />
+    <link rel="stylesheet" href="/Theme/assets/js/rickshaw/rickshaw.min.css" />
+    <!-- Bottom Scripts -->
+    <script src="/Theme/assets/js/gsap/main-gsap.js"></script>
+    <script src="/Theme/assets/js/jquery-ui/js/jquery-ui-1.10.3.minimal.min.js"></script>
+    <script src="/Theme/assets/js/bootstrap.js"></script>
+    <script src="/Theme/assets/js/joinable.js"></script>
+    <script src="/Theme/assets/js/resizeable.js"></script>
+    <script src="/Theme/assets/js/neon-api.js"></script>
+    <script src="/Theme/assets/js/jvectormap/jquery-jvectormap-1.2.2.min.js"></script>
+    <script src="/Theme/assets/js/jvectormap/jquery-jvectormap-europe-merc-en.js"></script>
+    <script src="/Theme/assets/js/jquery.sparkline.min.js"></script>
+    <script src="/Theme/assets/js/rickshaw/vendor/d3.v3.js"></script>
+    <script src="/Theme/assets/js/rickshaw/rickshaw.min.js"></script>
+    <script src="/Theme/assets/js/raphael-min.js"></script>
+    <script src="/Theme/assets/js/morris.min.js"></script>
+    <script src="/Theme/assets/js/toastr.js"></script>
+    <script src="/Theme/assets/js/neon-chat.js"></script>
+    <script src="/Theme/assets/js/neon-custom.js"></script>
+    <script src="/Theme/assets/js/neon-demo.js"></script>
+    
+
+</body>
+</html>
+

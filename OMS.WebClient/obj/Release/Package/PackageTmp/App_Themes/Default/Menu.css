@@ -1,0 +1,29 @@
+﻿.Menu-Skin-Vertical{
+background:none repeat scroll 0 0 blue;
+left:0px;
+position:relative;
+
+z-index:300;
+	top: -91px;
+}
+
+
+ .Menu-Skin-StaticItem{
+/*url("bg-menu-example.png") repeat-x scroll 0 0 #FFFFFF;*/
+font-size:small;
+padding:0 0 0 5px;
+
+}
+
+
+
+
+
+
+/*.Menu-Skin-StaticItem {
+url("bg-menu-example.png") repeat-x scroll 0 0 #FFFFFF;
+font-size:small;
+}*/
+.Menu-Skin-DynamicHover {
+background-image:none;
+}

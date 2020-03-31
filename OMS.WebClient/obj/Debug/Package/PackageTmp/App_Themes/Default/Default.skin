@@ -1,0 +1,47 @@
+﻿<%--
+Default skin template. The following skins are provided as examples only.
+
+1. Named control skin. The SkinId should be uniquely defined because
+   duplicate SkinId's per control type are not allowed in the same theme.
+
+<asp:GridView runat="server" SkinId="gridviewSkin" BackColor="White" >
+   <AlternatingRowStyle BackColor="Blue" />
+</asp:GridView>
+
+2. Default skin. The SkinId is not defined. Only one default 
+   control skin per control type is allowed in the same theme.
+
+<asp:Image runat="server" ImageUrl="~/images/image1.jpg" />
+--%>
+
+
+<asp:TextBox runat="server" CssClass="in_put"></asp:TextBox>
+           
+<asp:Label CssClass="label"  runat="server"  ></asp:Label>
+
+<asp:DropDownList  runat="server" CssClass="ddl"/>
+
+<asp:RadioButton CssClass="in_other" runat="server" />           
+
+<asp:Button runat="server"  CssClass="input_submit" />
+
+
+
+<asp:Menu SkinID="SampleMenuVertical" runat="server"
+    Height="20"    
+    BackColor="#ACD9E2"
+    ForeColor="black"
+    Font-Size="small" 
+    Font-Names="verdana"
+    DynamicHorizontalOffset="-3" 
+    DynamicVerticalOffset="3"
+    StaticEnableDefaultPopOutImage="true"
+    CssClass="Menu-Skin-Vertical">
+    <StaticMenuItemStyle BackColor="#ACD9E2"   ForeColor="black" BorderStyle="solid" BorderWidth="1px" BorderColor="#8BD2E0" HorizontalPadding="0px" VerticalPadding="8px" Width="200px" Height="20" CssClass="Menu-Skin-StaticItem" />    
+    <StaticHoverStyle BackColor="#EFF7FF"  ForeColor="Black" />
+    <DynamicMenuItemStyle BackColor="#ACD9E2" ForeColor="Black" BorderStyle="solid" BorderWidth="1px" BorderColor="#8BD2E0" HorizontalPadding="0px" VerticalPadding="8px" Width="200px" Height="20" CssClass="Menu-Skin-StaticItem" />
+    <DynamicHoverStyle BackColor="#ACD9E2"   ForeColor="black" BorderStyle="solid"/>    
+</asp:Menu>
+
+
+

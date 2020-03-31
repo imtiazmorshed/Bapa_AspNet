@@ -1,0 +1,358 @@
+C:\Users\SHUVO\Desktop\BAPA\PrimetechAccounts 16-06-2016\PrimetechAccounts 14-06-2016\OMS.Incentive\bin\OMS.Incentive.dll
+C:\Users\SHUVO\Desktop\BAPA\PrimetechAccounts 16-06-2016\PrimetechAccounts 14-06-2016\OMS.Incentive\bin\OMS.Incentive.pdb
+C:\Users\SHUVO\Desktop\BAPA\PrimetechAccounts 16-06-2016\PrimetechAccounts 14-06-2016\OMS.Incentive\obj\Debug\OMS.Incentive.csprojResolveAssemblyReference.cache
+C:\Users\SHUVO\Desktop\BAPA\PrimetechAccounts 16-06-2016\PrimetechAccounts 14-06-2016\OMS.Incentive\obj\Debug\OMS.Incentive.dll
+C:\Users\SHUVO\Desktop\BAPA\PrimetechAccounts 16-06-2016\PrimetechAccounts 14-06-2016\OMS.Incentive\obj\Debug\OMS.Incentive.pdb
+C:\Users\SHUVO\Desktop\BAPA\PrimetechAccounts 16-06-2016\PrimetechAccounts 14-06-2016\OMS.Incentive\bin\OMS.Incentive.dll.config
+C:\Users\SHUVO\Desktop\BAPA\PrimetechAccounts 16-06-2016\PrimetechAccounts 14-06-2016\OMS.Incentive\bin\OMS.DAL.dll
+C:\Users\SHUVO\Desktop\BAPA\PrimetechAccounts 16-06-2016\PrimetechAccounts 14-06-2016\OMS.Incentive\bin\OMS.Facade.dll
+C:\Users\SHUVO\Desktop\BAPA\PrimetechAccounts 16-06-2016\PrimetechAccounts 14-06-2016\OMS.Incentive\bin\OMS.Framework.dll
+C:\Users\SHUVO\Desktop\BAPA\PrimetechAccounts 16-06-2016\PrimetechAccounts 14-06-2016\OMS.Incentive\bin\OMS.DAL.pdb
+C:\Users\SHUVO\Desktop\BAPA\PrimetechAccounts 16-06-2016\PrimetechAccounts 14-06-2016\OMS.Incentive\bin\OMS.Facade.pdb
+C:\Users\SHUVO\Desktop\BAPA\PrimetechAccounts 16-06-2016\PrimetechAccounts 14-06-2016\OMS.Incentive\bin\OMS.Framework.pdb
+D:\Shovo\PrimetechAccounts 18-06-2016 Night\PrimetechAccounts 14-06-2016\OMS.Incentive\bin\OMS.Incentive.dll.config
+D:\Shovo\PrimetechAccounts 18-06-2016 Night\PrimetechAccounts 14-06-2016\OMS.Incentive\bin\OMS.Incentive.dll
+D:\Shovo\PrimetechAccounts 18-06-2016 Night\PrimetechAccounts 14-06-2016\OMS.Incentive\bin\OMS.Incentive.pdb
+D:\Shovo\PrimetechAccounts 18-06-2016 Night\PrimetechAccounts 14-06-2016\OMS.Incentive\bin\OMS.DAL.dll
+D:\Shovo\PrimetechAccounts 18-06-2016 Night\PrimetechAccounts 14-06-2016\OMS.Incentive\bin\OMS.Facade.dll
+D:\Shovo\PrimetechAccounts 18-06-2016 Night\PrimetechAccounts 14-06-2016\OMS.Incentive\bin\OMS.Framework.dll
+D:\Shovo\PrimetechAccounts 18-06-2016 Night\PrimetechAccounts 14-06-2016\OMS.Incentive\bin\OMS.DAL.pdb
+D:\Shovo\PrimetechAccounts 18-06-2016 Night\PrimetechAccounts 14-06-2016\OMS.Incentive\bin\OMS.Facade.pdb
+D:\Shovo\PrimetechAccounts 18-06-2016 Night\PrimetechAccounts 14-06-2016\OMS.Incentive\bin\OMS.Framework.pdb
+D:\Shovo\PrimetechAccounts 18-06-2016 Night\PrimetechAccounts 14-06-2016\OMS.Incentive\obj\Debug\OMS.Incentive.csprojResolveAssemblyReference.cache
+D:\Shovo\PrimetechAccounts 18-06-2016 Night\PrimetechAccounts 14-06-2016\OMS.Incentive\obj\Debug\OMS.Incentive.dll
+D:\Shovo\PrimetechAccounts 18-06-2016 Night\PrimetechAccounts 14-06-2016\OMS.Incentive\obj\Debug\OMS.Incentive.pdb
+D:\BAPA\PrimetechAccounts18-06-2016\OMS.Incentive\bin\OMS.Incentive.dll.config
+D:\BAPA\PrimetechAccounts18-06-2016\OMS.Incentive\bin\OMS.Incentive.dll
+D:\BAPA\PrimetechAccounts18-06-2016\OMS.Incentive\bin\OMS.Incentive.pdb
+D:\BAPA\PrimetechAccounts18-06-2016\OMS.Incentive\bin\OMS.DAL.dll
+D:\BAPA\PrimetechAccounts18-06-2016\OMS.Incentive\bin\OMS.Facade.dll
+D:\BAPA\PrimetechAccounts18-06-2016\OMS.Incentive\bin\OMS.Framework.dll
+D:\BAPA\PrimetechAccounts18-06-2016\OMS.Incentive\bin\OMS.DAL.pdb
+D:\BAPA\PrimetechAccounts18-06-2016\OMS.Incentive\bin\OMS.Facade.pdb
+D:\BAPA\PrimetechAccounts18-06-2016\OMS.Incentive\bin\OMS.Framework.pdb
+D:\BAPA\PrimetechAccounts18-06-2016\OMS.Incentive\obj\Debug\OMS.Incentive.csprojResolveAssemblyReference.cache
+D:\BAPA\PrimetechAccounts18-06-2016\OMS.Incentive\obj\Debug\OMS.Incentive.dll
+D:\BAPA\PrimetechAccounts18-06-2016\OMS.Incentive\obj\Debug\OMS.Incentive.pdb
+F:\SHUVO\BAPA\PrimetechAccounts19-06-2016\PrimetechAccounts18-06-2016\OMS.Incentive\bin\OMS.Incentive.dll.config
+F:\SHUVO\BAPA\PrimetechAccounts19-06-2016\PrimetechAccounts18-06-2016\OMS.Incentive\bin\OMS.Incentive.dll
+F:\SHUVO\BAPA\PrimetechAccounts19-06-2016\PrimetechAccounts18-06-2016\OMS.Incentive\bin\OMS.Incentive.pdb
+F:\SHUVO\BAPA\PrimetechAccounts19-06-2016\PrimetechAccounts18-06-2016\OMS.Incentive\bin\OMS.DAL.dll
+F:\SHUVO\BAPA\PrimetechAccounts19-06-2016\PrimetechAccounts18-06-2016\OMS.Incentive\bin\OMS.Facade.dll
+F:\SHUVO\BAPA\PrimetechAccounts19-06-2016\PrimetechAccounts18-06-2016\OMS.Incentive\bin\OMS.Framework.dll
+F:\SHUVO\BAPA\PrimetechAccounts19-06-2016\PrimetechAccounts18-06-2016\OMS.Incentive\bin\OMS.DAL.pdb
+F:\SHUVO\BAPA\PrimetechAccounts19-06-2016\PrimetechAccounts18-06-2016\OMS.Incentive\bin\OMS.Facade.pdb
+F:\SHUVO\BAPA\PrimetechAccounts19-06-2016\PrimetechAccounts18-06-2016\OMS.Incentive\bin\OMS.Framework.pdb
+F:\SHUVO\BAPA\PrimetechAccounts19-06-2016\PrimetechAccounts18-06-2016\OMS.Incentive\obj\Debug\OMS.Incentive.csprojResolveAssemblyReference.cache
+F:\SHUVO\BAPA\PrimetechAccounts19-06-2016\PrimetechAccounts18-06-2016\OMS.Incentive\obj\Debug\OMS.Incentive.dll
+F:\SHUVO\BAPA\PrimetechAccounts19-06-2016\PrimetechAccounts18-06-2016\OMS.Incentive\obj\Debug\OMS.Incentive.pdb
+C:\Users\SHUVO\Desktop\BAPA\PrimetechAccounts21-06-2016\PrimetechAccounts18-06-2016\OMS.Incentive\bin\OMS.Incentive.dll.config
+C:\Users\SHUVO\Desktop\BAPA\PrimetechAccounts21-06-2016\PrimetechAccounts18-06-2016\OMS.Incentive\bin\OMS.Incentive.dll
+C:\Users\SHUVO\Desktop\BAPA\PrimetechAccounts21-06-2016\PrimetechAccounts18-06-2016\OMS.Incentive\bin\OMS.Incentive.pdb
+C:\Users\SHUVO\Desktop\BAPA\PrimetechAccounts21-06-2016\PrimetechAccounts18-06-2016\OMS.Incentive\bin\OMS.DAL.dll
+C:\Users\SHUVO\Desktop\BAPA\PrimetechAccounts21-06-2016\PrimetechAccounts18-06-2016\OMS.Incentive\bin\OMS.Facade.dll
+C:\Users\SHUVO\Desktop\BAPA\PrimetechAccounts21-06-2016\PrimetechAccounts18-06-2016\OMS.Incentive\bin\OMS.Framework.dll
+C:\Users\SHUVO\Desktop\BAPA\PrimetechAccounts21-06-2016\PrimetechAccounts18-06-2016\OMS.Incentive\bin\OMS.DAL.pdb
+C:\Users\SHUVO\Desktop\BAPA\PrimetechAccounts21-06-2016\PrimetechAccounts18-06-2016\OMS.Incentive\bin\OMS.Facade.pdb
+C:\Users\SHUVO\Desktop\BAPA\PrimetechAccounts21-06-2016\PrimetechAccounts18-06-2016\OMS.Incentive\bin\OMS.Framework.pdb
+C:\Users\SHUVO\Desktop\BAPA\PrimetechAccounts21-06-2016\PrimetechAccounts18-06-2016\OMS.Incentive\obj\Debug\OMS.Incentive.csprojResolveAssemblyReference.cache
+C:\Users\SHUVO\Desktop\BAPA\PrimetechAccounts21-06-2016\PrimetechAccounts18-06-2016\OMS.Incentive\obj\Debug\OMS.Incentive.dll
+C:\Users\SHUVO\Desktop\BAPA\PrimetechAccounts21-06-2016\PrimetechAccounts18-06-2016\OMS.Incentive\obj\Debug\OMS.Incentive.pdb
+F:\SHUVO\BAPA\PrimetechAccounts1-07-2016\OMS.Incentive\obj\Debug\OMS.Incentive.csprojResolveAssemblyReference.cache
+F:\SHUVO\BAPA\PrimetechAccounts1-07-2016\OMS.Incentive\bin\OMS.Incentive.dll.config
+F:\SHUVO\BAPA\PrimetechAccounts1-07-2016\OMS.Incentive\bin\OMS.Incentive.dll
+F:\SHUVO\BAPA\PrimetechAccounts1-07-2016\OMS.Incentive\bin\OMS.Incentive.pdb
+F:\SHUVO\BAPA\PrimetechAccounts1-07-2016\OMS.Incentive\bin\OMS.DAL.dll
+F:\SHUVO\BAPA\PrimetechAccounts1-07-2016\OMS.Incentive\bin\OMS.Facade.dll
+F:\SHUVO\BAPA\PrimetechAccounts1-07-2016\OMS.Incentive\bin\OMS.Framework.dll
+F:\SHUVO\BAPA\PrimetechAccounts1-07-2016\OMS.Incentive\bin\OMS.DAL.pdb
+F:\SHUVO\BAPA\PrimetechAccounts1-07-2016\OMS.Incentive\bin\OMS.Facade.pdb
+F:\SHUVO\BAPA\PrimetechAccounts1-07-2016\OMS.Incentive\bin\OMS.Framework.pdb
+F:\SHUVO\BAPA\PrimetechAccounts1-07-2016\OMS.Incentive\obj\Debug\OMS.Incentive.dll
+F:\SHUVO\BAPA\PrimetechAccounts1-07-2016\OMS.Incentive\obj\Debug\OMS.Incentive.pdb
+D:\working\BAPA\PrimetechAccounts17-07-2016 (1)\OMS.Incentive\bin\OMS.Incentive.dll.config
+D:\working\BAPA\PrimetechAccounts17-07-2016 (1)\OMS.Incentive\bin\OMS.Incentive.dll
+D:\working\BAPA\PrimetechAccounts17-07-2016 (1)\OMS.Incentive\bin\OMS.Incentive.pdb
+D:\working\BAPA\PrimetechAccounts17-07-2016 (1)\OMS.Incentive\bin\OMS.DAL.dll
+D:\working\BAPA\PrimetechAccounts17-07-2016 (1)\OMS.Incentive\bin\OMS.Facade.dll
+D:\working\BAPA\PrimetechAccounts17-07-2016 (1)\OMS.Incentive\bin\OMS.Framework.dll
+D:\working\BAPA\PrimetechAccounts17-07-2016 (1)\OMS.Incentive\bin\OMS.DAL.pdb
+D:\working\BAPA\PrimetechAccounts17-07-2016 (1)\OMS.Incentive\bin\OMS.Facade.pdb
+D:\working\BAPA\PrimetechAccounts17-07-2016 (1)\OMS.Incentive\bin\OMS.Framework.pdb
+D:\working\BAPA\PrimetechAccounts17-07-2016 (1)\OMS.Incentive\obj\Debug\OMS.Incentive.csprojResolveAssemblyReference.cache
+D:\working\BAPA\PrimetechAccounts17-07-2016 (1)\OMS.Incentive\obj\Debug\OMS.Incentive.dll
+D:\working\BAPA\PrimetechAccounts17-07-2016 (1)\OMS.Incentive\obj\Debug\OMS.Incentive.pdb
+F:\SHUVO\BAPA\PrimetechAccounts-8-08-2016 (1)\PrimetechAccounts17-07-2016 (1)\OMS.Incentive\bin\OMS.Incentive.dll.config
+F:\SHUVO\BAPA\PrimetechAccounts-8-08-2016 (1)\PrimetechAccounts17-07-2016 (1)\OMS.Incentive\bin\OMS.Incentive.dll
+F:\SHUVO\BAPA\PrimetechAccounts-8-08-2016 (1)\PrimetechAccounts17-07-2016 (1)\OMS.Incentive\bin\OMS.Incentive.pdb
+F:\SHUVO\BAPA\PrimetechAccounts-8-08-2016 (1)\PrimetechAccounts17-07-2016 (1)\OMS.Incentive\bin\OMS.DAL.dll
+F:\SHUVO\BAPA\PrimetechAccounts-8-08-2016 (1)\PrimetechAccounts17-07-2016 (1)\OMS.Incentive\bin\OMS.Facade.dll
+F:\SHUVO\BAPA\PrimetechAccounts-8-08-2016 (1)\PrimetechAccounts17-07-2016 (1)\OMS.Incentive\bin\OMS.Framework.dll
+F:\SHUVO\BAPA\PrimetechAccounts-8-08-2016 (1)\PrimetechAccounts17-07-2016 (1)\OMS.Incentive\bin\OMS.DAL.pdb
+F:\SHUVO\BAPA\PrimetechAccounts-8-08-2016 (1)\PrimetechAccounts17-07-2016 (1)\OMS.Incentive\bin\OMS.Facade.pdb
+F:\SHUVO\BAPA\PrimetechAccounts-8-08-2016 (1)\PrimetechAccounts17-07-2016 (1)\OMS.Incentive\bin\OMS.Framework.pdb
+F:\SHUVO\BAPA\PrimetechAccounts-8-08-2016 (1)\PrimetechAccounts17-07-2016 (1)\OMS.Incentive\obj\Debug\OMS.Incentive.csprojResolveAssemblyReference.cache
+F:\SHUVO\BAPA\PrimetechAccounts-8-08-2016 (1)\PrimetechAccounts17-07-2016 (1)\OMS.Incentive\obj\Debug\OMS.Incentive.dll
+F:\SHUVO\BAPA\PrimetechAccounts-8-08-2016 (1)\PrimetechAccounts17-07-2016 (1)\OMS.Incentive\obj\Debug\OMS.Incentive.pdb
+D:\working\BAPA\PrimetechAccounts-11-08-2016\OMS.Incentive\bin\OMS.Incentive.dll.config
+D:\working\BAPA\PrimetechAccounts-11-08-2016\OMS.Incentive\bin\OMS.Incentive.dll
+D:\working\BAPA\PrimetechAccounts-11-08-2016\OMS.Incentive\bin\OMS.Incentive.pdb
+D:\working\BAPA\PrimetechAccounts-11-08-2016\OMS.Incentive\bin\OMS.DAL.dll
+D:\working\BAPA\PrimetechAccounts-11-08-2016\OMS.Incentive\bin\OMS.Facade.dll
+D:\working\BAPA\PrimetechAccounts-11-08-2016\OMS.Incentive\bin\OMS.Framework.dll
+D:\working\BAPA\PrimetechAccounts-11-08-2016\OMS.Incentive\bin\OMS.DAL.pdb
+D:\working\BAPA\PrimetechAccounts-11-08-2016\OMS.Incentive\bin\OMS.Facade.pdb
+D:\working\BAPA\PrimetechAccounts-11-08-2016\OMS.Incentive\bin\OMS.Framework.pdb
+D:\working\BAPA\PrimetechAccounts-11-08-2016\OMS.Incentive\obj\Debug\OMS.Incentive.csprojResolveAssemblyReference.cache
+D:\working\BAPA\PrimetechAccounts-11-08-2016\OMS.Incentive\obj\Debug\OMS.Incentive.dll
+D:\working\BAPA\PrimetechAccounts-11-08-2016\OMS.Incentive\obj\Debug\OMS.Incentive.pdb
+F:\SHUVO\BAPA\Incentive-13-08-2016\OMS.Incentive\obj\Debug\OMS.Incentive.csprojResolveAssemblyReference.cache
+F:\SHUVO\BAPA\Incentive-13-08-2016\OMS.Incentive\obj\Debug\OMS.Incentive.dll
+F:\SHUVO\BAPA\Incentive-13-08-2016\OMS.Incentive\bin\OMS.Incentive.dll.config
+F:\SHUVO\BAPA\Incentive-13-08-2016\OMS.Incentive\bin\OMS.Incentive.dll
+F:\SHUVO\BAPA\Incentive-13-08-2016\OMS.Incentive\bin\OMS.Incentive.pdb
+F:\SHUVO\BAPA\Incentive-13-08-2016\OMS.Incentive\bin\OMS.DAL.dll
+F:\SHUVO\BAPA\Incentive-13-08-2016\OMS.Incentive\bin\OMS.Facade.dll
+F:\SHUVO\BAPA\Incentive-13-08-2016\OMS.Incentive\bin\OMS.Framework.dll
+F:\SHUVO\BAPA\Incentive-13-08-2016\OMS.Incentive\bin\OMS.DAL.pdb
+F:\SHUVO\BAPA\Incentive-13-08-2016\OMS.Incentive\bin\OMS.Facade.pdb
+F:\SHUVO\BAPA\Incentive-13-08-2016\OMS.Incentive\bin\OMS.Framework.pdb
+F:\SHUVO\BAPA\Incentive-13-08-2016\OMS.Incentive\obj\Debug\OMS.Incentive.pdb
+D:\Projects\Incentive-14-08-2016\OMS.Incentive\bin\OMS.Incentive.dll.config
+D:\Projects\Incentive-14-08-2016\OMS.Incentive\bin\OMS.Incentive.dll
+D:\Projects\Incentive-14-08-2016\OMS.Incentive\bin\OMS.Incentive.pdb
+D:\Projects\Incentive-14-08-2016\OMS.Incentive\bin\OMS.DAL.dll
+D:\Projects\Incentive-14-08-2016\OMS.Incentive\bin\OMS.Facade.dll
+D:\Projects\Incentive-14-08-2016\OMS.Incentive\bin\OMS.Framework.dll
+D:\Projects\Incentive-14-08-2016\OMS.Incentive\bin\OMS.DAL.pdb
+D:\Projects\Incentive-14-08-2016\OMS.Incentive\bin\OMS.Facade.pdb
+D:\Projects\Incentive-14-08-2016\OMS.Incentive\bin\OMS.Framework.pdb
+D:\Projects\Incentive-14-08-2016\OMS.Incentive\obj\Debug\OMS.Incentive.csprojResolveAssemblyReference.cache
+D:\Projects\Incentive-14-08-2016\OMS.Incentive\obj\Debug\OMS.Incentive.dll
+D:\Projects\Incentive-14-08-2016\OMS.Incentive\obj\Debug\OMS.Incentive.pdb
+D:\working\BAPA\Incentive-15-08-2016\OMS.Incentive\bin\OMS.Incentive.dll.config
+D:\working\BAPA\Incentive-15-08-2016\OMS.Incentive\bin\OMS.Incentive.dll
+D:\working\BAPA\Incentive-15-08-2016\OMS.Incentive\bin\OMS.Incentive.pdb
+D:\working\BAPA\Incentive-15-08-2016\OMS.Incentive\bin\OMS.DAL.dll
+D:\working\BAPA\Incentive-15-08-2016\OMS.Incentive\bin\OMS.Facade.dll
+D:\working\BAPA\Incentive-15-08-2016\OMS.Incentive\bin\OMS.Framework.dll
+D:\working\BAPA\Incentive-15-08-2016\OMS.Incentive\bin\OMS.DAL.pdb
+D:\working\BAPA\Incentive-15-08-2016\OMS.Incentive\bin\OMS.Facade.pdb
+D:\working\BAPA\Incentive-15-08-2016\OMS.Incentive\bin\OMS.Framework.pdb
+D:\working\BAPA\Incentive-15-08-2016\OMS.Incentive\obj\Debug\OMS.Incentive.csprojResolveAssemblyReference.cache
+D:\working\BAPA\Incentive-15-08-2016\OMS.Incentive\obj\Debug\OMS.Incentive.dll
+D:\working\BAPA\Incentive-15-08-2016\OMS.Incentive\obj\Debug\OMS.Incentive.pdb
+F:\SHUVO\BAPA\Incentive-Update-15-08-2016\OMS.Incentive\bin\OMS.Incentive.dll.config
+F:\SHUVO\BAPA\Incentive-Update-15-08-2016\OMS.Incentive\bin\OMS.Incentive.dll
+F:\SHUVO\BAPA\Incentive-Update-15-08-2016\OMS.Incentive\bin\OMS.Incentive.pdb
+F:\SHUVO\BAPA\Incentive-Update-15-08-2016\OMS.Incentive\bin\OMS.DAL.dll
+F:\SHUVO\BAPA\Incentive-Update-15-08-2016\OMS.Incentive\bin\OMS.Facade.dll
+F:\SHUVO\BAPA\Incentive-Update-15-08-2016\OMS.Incentive\bin\OMS.Framework.dll
+F:\SHUVO\BAPA\Incentive-Update-15-08-2016\OMS.Incentive\bin\OMS.DAL.pdb
+F:\SHUVO\BAPA\Incentive-Update-15-08-2016\OMS.Incentive\bin\OMS.Facade.pdb
+F:\SHUVO\BAPA\Incentive-Update-15-08-2016\OMS.Incentive\bin\OMS.Framework.pdb
+F:\SHUVO\BAPA\Incentive-Update-15-08-2016\OMS.Incentive\obj\Debug\OMS.Incentive.csprojResolveAssemblyReference.cache
+F:\SHUVO\BAPA\Incentive-Update-15-08-2016\OMS.Incentive\obj\Debug\OMS.Incentive.dll
+F:\SHUVO\BAPA\Incentive-Update-15-08-2016\OMS.Incentive\obj\Debug\OMS.Incentive.pdb
+D:\BAPA\Incentive-Update-17-08-2016\OMS.Incentive\bin\OMS.Incentive.dll.config
+D:\BAPA\Incentive-Update-17-08-2016\OMS.Incentive\bin\OMS.Incentive.dll
+D:\BAPA\Incentive-Update-17-08-2016\OMS.Incentive\bin\OMS.Incentive.pdb
+D:\BAPA\Incentive-Update-17-08-2016\OMS.Incentive\bin\OMS.DAL.dll
+D:\BAPA\Incentive-Update-17-08-2016\OMS.Incentive\bin\OMS.Facade.dll
+D:\BAPA\Incentive-Update-17-08-2016\OMS.Incentive\bin\OMS.Framework.dll
+D:\BAPA\Incentive-Update-17-08-2016\OMS.Incentive\bin\OMS.DAL.pdb
+D:\BAPA\Incentive-Update-17-08-2016\OMS.Incentive\bin\OMS.Facade.pdb
+D:\BAPA\Incentive-Update-17-08-2016\OMS.Incentive\bin\OMS.Framework.pdb
+D:\BAPA\Incentive-Update-17-08-2016\OMS.Incentive\obj\Debug\OMS.Incentive.csprojResolveAssemblyReference.cache
+D:\BAPA\Incentive-Update-17-08-2016\OMS.Incentive\obj\Debug\OMS.Incentive.dll
+D:\BAPA\Incentive-Update-17-08-2016\OMS.Incentive\obj\Debug\OMS.Incentive.pdb
+F:\SHUVO\BAPA\Incentive-Night-18-08-2016\Incentive-Update-17-08-2016\OMS.Incentive\bin\OMS.Incentive.dll.config
+F:\SHUVO\BAPA\Incentive-Night-18-08-2016\Incentive-Update-17-08-2016\OMS.Incentive\bin\OMS.Incentive.dll
+F:\SHUVO\BAPA\Incentive-Night-18-08-2016\Incentive-Update-17-08-2016\OMS.Incentive\bin\OMS.Incentive.pdb
+F:\SHUVO\BAPA\Incentive-Night-18-08-2016\Incentive-Update-17-08-2016\OMS.Incentive\bin\OMS.DAL.dll
+F:\SHUVO\BAPA\Incentive-Night-18-08-2016\Incentive-Update-17-08-2016\OMS.Incentive\bin\OMS.Facade.dll
+F:\SHUVO\BAPA\Incentive-Night-18-08-2016\Incentive-Update-17-08-2016\OMS.Incentive\bin\OMS.Framework.dll
+F:\SHUVO\BAPA\Incentive-Night-18-08-2016\Incentive-Update-17-08-2016\OMS.Incentive\bin\OMS.DAL.pdb
+F:\SHUVO\BAPA\Incentive-Night-18-08-2016\Incentive-Update-17-08-2016\OMS.Incentive\bin\OMS.Facade.pdb
+F:\SHUVO\BAPA\Incentive-Night-18-08-2016\Incentive-Update-17-08-2016\OMS.Incentive\bin\OMS.Framework.pdb
+F:\SHUVO\BAPA\Incentive-Night-18-08-2016\Incentive-Update-17-08-2016\OMS.Incentive\obj\Debug\OMS.Incentive.csprojResolveAssemblyReference.cache
+F:\SHUVO\BAPA\Incentive-Night-18-08-2016\Incentive-Update-17-08-2016\OMS.Incentive\obj\Debug\OMS.Incentive.dll
+F:\SHUVO\BAPA\Incentive-Night-18-08-2016\Incentive-Update-17-08-2016\OMS.Incentive\obj\Debug\OMS.Incentive.pdb
+F:\SHUVO\BAPA\Incentive-18-08-2016\OMS.Incentive\bin\OMS.Incentive.dll.config
+F:\SHUVO\BAPA\Incentive-18-08-2016\OMS.Incentive\bin\OMS.Incentive.dll
+F:\SHUVO\BAPA\Incentive-18-08-2016\OMS.Incentive\bin\OMS.Incentive.pdb
+F:\SHUVO\BAPA\Incentive-18-08-2016\OMS.Incentive\bin\OMS.DAL.dll
+F:\SHUVO\BAPA\Incentive-18-08-2016\OMS.Incentive\bin\OMS.Facade.dll
+F:\SHUVO\BAPA\Incentive-18-08-2016\OMS.Incentive\bin\OMS.Framework.dll
+F:\SHUVO\BAPA\Incentive-18-08-2016\OMS.Incentive\bin\OMS.DAL.pdb
+F:\SHUVO\BAPA\Incentive-18-08-2016\OMS.Incentive\bin\OMS.Facade.pdb
+F:\SHUVO\BAPA\Incentive-18-08-2016\OMS.Incentive\bin\OMS.Framework.pdb
+F:\SHUVO\BAPA\Incentive-18-08-2016\OMS.Incentive\obj\Debug\OMS.Incentive.csprojResolveAssemblyReference.cache
+F:\SHUVO\BAPA\Incentive-18-08-2016\OMS.Incentive\obj\Debug\OMS.Incentive.dll
+F:\SHUVO\BAPA\Incentive-18-08-2016\OMS.Incentive\obj\Debug\OMS.Incentive.pdb
+D:\working\BAPA\Incentive-22-08-2016\OMS.Incentive\bin\OMS.Incentive.dll.config
+D:\working\BAPA\Incentive-22-08-2016\OMS.Incentive\bin\OMS.Incentive.dll
+D:\working\BAPA\Incentive-22-08-2016\OMS.Incentive\bin\OMS.Incentive.pdb
+D:\working\BAPA\Incentive-22-08-2016\OMS.Incentive\bin\OMS.DAL.dll
+D:\working\BAPA\Incentive-22-08-2016\OMS.Incentive\bin\OMS.Facade.dll
+D:\working\BAPA\Incentive-22-08-2016\OMS.Incentive\bin\OMS.Framework.dll
+D:\working\BAPA\Incentive-22-08-2016\OMS.Incentive\bin\OMS.DAL.pdb
+D:\working\BAPA\Incentive-22-08-2016\OMS.Incentive\bin\OMS.Facade.pdb
+D:\working\BAPA\Incentive-22-08-2016\OMS.Incentive\bin\OMS.Framework.pdb
+D:\working\BAPA\Incentive-22-08-2016\OMS.Incentive\obj\Debug\OMS.Incentive.csprojResolveAssemblyReference.cache
+D:\working\BAPA\Incentive-22-08-2016\OMS.Incentive\obj\Debug\OMS.Incentive.dll
+D:\working\BAPA\Incentive-22-08-2016\OMS.Incentive\obj\Debug\OMS.Incentive.pdb
+D:\BAPA\Incentive-7-10-2016_new\Incentive-22-08-2016\OMS.Incentive\bin\OMS.Incentive.dll.config
+D:\BAPA\Incentive-7-10-2016_new\Incentive-22-08-2016\OMS.Incentive\bin\OMS.Incentive.dll
+D:\BAPA\Incentive-7-10-2016_new\Incentive-22-08-2016\OMS.Incentive\bin\OMS.Incentive.pdb
+D:\BAPA\Incentive-7-10-2016_new\Incentive-22-08-2016\OMS.Incentive\bin\OMS.DAL.dll
+D:\BAPA\Incentive-7-10-2016_new\Incentive-22-08-2016\OMS.Incentive\bin\OMS.Facade.dll
+D:\BAPA\Incentive-7-10-2016_new\Incentive-22-08-2016\OMS.Incentive\bin\OMS.Framework.dll
+D:\BAPA\Incentive-7-10-2016_new\Incentive-22-08-2016\OMS.Incentive\bin\OMS.DAL.pdb
+D:\BAPA\Incentive-7-10-2016_new\Incentive-22-08-2016\OMS.Incentive\bin\OMS.Facade.pdb
+D:\BAPA\Incentive-7-10-2016_new\Incentive-22-08-2016\OMS.Incentive\bin\OMS.Framework.pdb
+D:\BAPA\Incentive-7-10-2016_new\Incentive-22-08-2016\OMS.Incentive\obj\Debug\OMS.Incentive.csprojResolveAssemblyReference.cache
+D:\BAPA\Incentive-7-10-2016_new\Incentive-22-08-2016\OMS.Incentive\obj\Debug\OMS.Incentive.dll
+D:\BAPA\Incentive-7-10-2016_new\Incentive-22-08-2016\OMS.Incentive\obj\Debug\OMS.Incentive.pdb
+D:\working\BAPA\Incentive-7-10-2016\OMS.Incentive\bin\OMS.Incentive.dll.config
+D:\working\BAPA\Incentive-7-10-2016\OMS.Incentive\bin\OMS.Incentive.dll
+D:\working\BAPA\Incentive-7-10-2016\OMS.Incentive\bin\OMS.Incentive.pdb
+D:\working\BAPA\Incentive-7-10-2016\OMS.Incentive\bin\OMS.DAL.dll
+D:\working\BAPA\Incentive-7-10-2016\OMS.Incentive\bin\OMS.Facade.dll
+D:\working\BAPA\Incentive-7-10-2016\OMS.Incentive\bin\OMS.Framework.dll
+D:\working\BAPA\Incentive-7-10-2016\OMS.Incentive\bin\OMS.DAL.pdb
+D:\working\BAPA\Incentive-7-10-2016\OMS.Incentive\bin\OMS.Facade.pdb
+D:\working\BAPA\Incentive-7-10-2016\OMS.Incentive\bin\OMS.Framework.pdb
+D:\working\BAPA\Incentive-7-10-2016\OMS.Incentive\obj\Debug\OMS.Incentive.csprojResolveAssemblyReference.cache
+D:\working\BAPA\Incentive-7-10-2016\OMS.Incentive\obj\Debug\OMS.Incentive.dll
+D:\working\BAPA\Incentive-7-10-2016\OMS.Incentive\obj\Debug\OMS.Incentive.pdb
+F:\WorkingDir\RubelVhai\BAPA\Incentive-7-10-2016\OMS.Incentive\bin\OMS.Incentive.dll.config
+F:\WorkingDir\RubelVhai\BAPA\Incentive-7-10-2016\OMS.Incentive\bin\OMS.Incentive.dll
+F:\WorkingDir\RubelVhai\BAPA\Incentive-7-10-2016\OMS.Incentive\bin\OMS.Incentive.pdb
+F:\WorkingDir\RubelVhai\BAPA\Incentive-7-10-2016\OMS.Incentive\bin\OMS.DAL.dll
+F:\WorkingDir\RubelVhai\BAPA\Incentive-7-10-2016\OMS.Incentive\bin\OMS.Facade.dll
+F:\WorkingDir\RubelVhai\BAPA\Incentive-7-10-2016\OMS.Incentive\bin\OMS.Framework.dll
+F:\WorkingDir\RubelVhai\BAPA\Incentive-7-10-2016\OMS.Incentive\bin\OMS.DAL.pdb
+F:\WorkingDir\RubelVhai\BAPA\Incentive-7-10-2016\OMS.Incentive\bin\OMS.Facade.pdb
+F:\WorkingDir\RubelVhai\BAPA\Incentive-7-10-2016\OMS.Incentive\bin\OMS.Framework.pdb
+F:\WorkingDir\RubelVhai\BAPA\Incentive-7-10-2016\OMS.Incentive\obj\Debug\OMS.Incentive.csprojResolveAssemblyReference.cache
+F:\WorkingDir\RubelVhai\BAPA\Incentive-7-10-2016\OMS.Incentive\obj\Debug\OMS.Incentive.dll
+F:\WorkingDir\RubelVhai\BAPA\Incentive-7-10-2016\OMS.Incentive\obj\Debug\OMS.Incentive.pdb
+F:\WorkingDir\RubelVhai\BAPA\Incentive-7-10-2016\OMS.Incentive\bin\AjaxControlToolkit.dll
+F:\SHUVO\BAPA\BAPA\Incentive-24-10-2016\OMS.Incentive\bin\OMS.Incentive.dll.config
+F:\SHUVO\BAPA\BAPA\Incentive-24-10-2016\OMS.Incentive\bin\OMS.Incentive.dll
+F:\SHUVO\BAPA\BAPA\Incentive-24-10-2016\OMS.Incentive\bin\OMS.Incentive.pdb
+F:\SHUVO\BAPA\BAPA\Incentive-24-10-2016\OMS.Incentive\bin\AjaxControlToolkit.dll
+F:\SHUVO\BAPA\BAPA\Incentive-24-10-2016\OMS.Incentive\bin\OMS.DAL.dll
+F:\SHUVO\BAPA\BAPA\Incentive-24-10-2016\OMS.Incentive\bin\OMS.Facade.dll
+F:\SHUVO\BAPA\BAPA\Incentive-24-10-2016\OMS.Incentive\bin\OMS.Framework.dll
+F:\SHUVO\BAPA\BAPA\Incentive-24-10-2016\OMS.Incentive\bin\OMS.DAL.pdb
+F:\SHUVO\BAPA\BAPA\Incentive-24-10-2016\OMS.Incentive\bin\OMS.Facade.pdb
+F:\SHUVO\BAPA\BAPA\Incentive-24-10-2016\OMS.Incentive\bin\OMS.Framework.pdb
+F:\SHUVO\BAPA\BAPA\Incentive-24-10-2016\OMS.Incentive\obj\Debug\OMS.Incentive.csprojResolveAssemblyReference.cache
+F:\SHUVO\BAPA\BAPA\Incentive-24-10-2016\OMS.Incentive\obj\Debug\OMS.Incentive.dll
+F:\SHUVO\BAPA\BAPA\Incentive-24-10-2016\OMS.Incentive\obj\Debug\OMS.Incentive.pdb
+D:\BAPA\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.Incentive\bin\OMS.Incentive.dll.config
+D:\BAPA\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.Incentive\bin\OMS.Incentive.dll
+D:\BAPA\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.Incentive\bin\OMS.Incentive.pdb
+D:\BAPA\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.Incentive\bin\AjaxControlToolkit.dll
+D:\BAPA\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.Incentive\bin\OMS.DAL.dll
+D:\BAPA\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.Incentive\bin\OMS.Facade.dll
+D:\BAPA\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.Incentive\bin\OMS.Framework.dll
+D:\BAPA\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.Incentive\bin\OMS.DAL.pdb
+D:\BAPA\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.Incentive\bin\OMS.Facade.pdb
+D:\BAPA\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.Incentive\bin\OMS.Framework.pdb
+D:\BAPA\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.Incentive\obj\Debug\OMS.Incentive.csprojResolveAssemblyReference.cache
+D:\BAPA\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.Incentive\obj\Debug\OMS.Incentive.dll
+D:\BAPA\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.Incentive\obj\Debug\OMS.Incentive.pdb
+F:\WorkingDir\RubelVhai\BAPA_25\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.Incentive\bin\OMS.Incentive.dll.config
+F:\WorkingDir\RubelVhai\BAPA_25\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.Incentive\bin\OMS.Incentive.dll
+F:\WorkingDir\RubelVhai\BAPA_25\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.Incentive\bin\OMS.Incentive.pdb
+F:\WorkingDir\RubelVhai\BAPA_25\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.Incentive\bin\AjaxControlToolkit.dll
+F:\WorkingDir\RubelVhai\BAPA_25\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.Incentive\bin\OMS.DAL.dll
+F:\WorkingDir\RubelVhai\BAPA_25\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.Incentive\bin\OMS.Facade.dll
+F:\WorkingDir\RubelVhai\BAPA_25\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.Incentive\bin\OMS.Framework.dll
+F:\WorkingDir\RubelVhai\BAPA_25\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.Incentive\bin\OMS.DAL.pdb
+F:\WorkingDir\RubelVhai\BAPA_25\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.Incentive\bin\OMS.Facade.pdb
+F:\WorkingDir\RubelVhai\BAPA_25\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.Incentive\bin\OMS.Framework.pdb
+F:\WorkingDir\RubelVhai\BAPA_25\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.Incentive\obj\Debug\OMS.Incentive.csprojResolveAssemblyReference.cache
+F:\WorkingDir\RubelVhai\BAPA_25\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.Incentive\obj\Debug\OMS.Incentive.dll
+F:\WorkingDir\RubelVhai\BAPA_25\BAPA_24_Night\BAPA\Incentive-24-10-2016\OMS.Incentive\obj\Debug\OMS.Incentive.pdb
+F:\WorkingDir\RubelVhai\BAPA-Latest\BAPA_25_10_2016\OMS.Incentive\bin\OMS.Incentive.dll.config
+F:\WorkingDir\RubelVhai\BAPA-Latest\BAPA_25_10_2016\OMS.Incentive\bin\OMS.Incentive.dll
+F:\WorkingDir\RubelVhai\BAPA-Latest\BAPA_25_10_2016\OMS.Incentive\bin\OMS.Incentive.pdb
+F:\WorkingDir\RubelVhai\BAPA-Latest\BAPA_25_10_2016\OMS.Incentive\bin\AjaxControlToolkit.dll
+F:\WorkingDir\RubelVhai\BAPA-Latest\BAPA_25_10_2016\OMS.Incentive\bin\OMS.DAL.dll
+F:\WorkingDir\RubelVhai\BAPA-Latest\BAPA_25_10_2016\OMS.Incentive\bin\OMS.Facade.dll
+F:\WorkingDir\RubelVhai\BAPA-Latest\BAPA_25_10_2016\OMS.Incentive\bin\OMS.Framework.dll
+F:\WorkingDir\RubelVhai\BAPA-Latest\BAPA_25_10_2016\OMS.Incentive\bin\OMS.DAL.pdb
+F:\WorkingDir\RubelVhai\BAPA-Latest\BAPA_25_10_2016\OMS.Incentive\bin\OMS.Facade.pdb
+F:\WorkingDir\RubelVhai\BAPA-Latest\BAPA_25_10_2016\OMS.Incentive\bin\OMS.Framework.pdb
+F:\WorkingDir\RubelVhai\BAPA-Latest\BAPA_25_10_2016\OMS.Incentive\obj\Debug\OMS.Incentive.csprojResolveAssemblyReference.cache
+F:\WorkingDir\RubelVhai\BAPA-Latest\BAPA_25_10_2016\OMS.Incentive\obj\Debug\OMS.Incentive.dll
+F:\WorkingDir\RubelVhai\BAPA-Latest\BAPA_25_10_2016\OMS.Incentive\obj\Debug\OMS.Incentive.pdb
+D:\Imtiaz\BAPA_17_12_2016\BAPA_25_10_2016\OMS.Incentive\obj\Debug\OMS.Incentive.csprojResolveAssemblyReference.cache
+D:\Imtiaz\BAPA_17_12_2016\BAPA_25_10_2016\OMS.Incentive\bin\OMS.Incentive.dll.config
+D:\Imtiaz\BAPA_17_12_2016\BAPA_25_10_2016\OMS.Incentive\bin\OMS.Incentive.dll
+D:\Imtiaz\BAPA_17_12_2016\BAPA_25_10_2016\OMS.Incentive\bin\OMS.Incentive.pdb
+D:\Imtiaz\BAPA_17_12_2016\BAPA_25_10_2016\OMS.Incentive\bin\AjaxControlToolkit.dll
+D:\Imtiaz\BAPA_17_12_2016\BAPA_25_10_2016\OMS.Incentive\bin\OMS.DAL.dll
+D:\Imtiaz\BAPA_17_12_2016\BAPA_25_10_2016\OMS.Incentive\bin\OMS.Facade.dll
+D:\Imtiaz\BAPA_17_12_2016\BAPA_25_10_2016\OMS.Incentive\bin\OMS.Framework.dll
+D:\Imtiaz\BAPA_17_12_2016\BAPA_25_10_2016\OMS.Incentive\bin\OMS.DAL.pdb
+D:\Imtiaz\BAPA_17_12_2016\BAPA_25_10_2016\OMS.Incentive\bin\OMS.Facade.pdb
+D:\Imtiaz\BAPA_17_12_2016\BAPA_25_10_2016\OMS.Incentive\bin\OMS.Framework.pdb
+D:\Imtiaz\BAPA_17_12_2016\BAPA_25_10_2016\OMS.Incentive\obj\Debug\OMS.Incentive.dll
+D:\Imtiaz\BAPA_17_12_2016\BAPA_25_10_2016\OMS.Incentive\obj\Debug\OMS.Incentive.pdb
+D:\BAPA\BAPA_21_12_2016\BAPA_25_10_2016\OMS.Incentive\bin\OMS.Incentive.dll.config
+D:\BAPA\BAPA_21_12_2016\BAPA_25_10_2016\OMS.Incentive\bin\OMS.Incentive.dll
+D:\BAPA\BAPA_21_12_2016\BAPA_25_10_2016\OMS.Incentive\bin\OMS.Incentive.pdb
+D:\BAPA\BAPA_21_12_2016\BAPA_25_10_2016\OMS.Incentive\bin\AjaxControlToolkit.dll
+D:\BAPA\BAPA_21_12_2016\BAPA_25_10_2016\OMS.Incentive\bin\OMS.DAL.dll
+D:\BAPA\BAPA_21_12_2016\BAPA_25_10_2016\OMS.Incentive\bin\OMS.Facade.dll
+D:\BAPA\BAPA_21_12_2016\BAPA_25_10_2016\OMS.Incentive\bin\OMS.Framework.dll
+D:\BAPA\BAPA_21_12_2016\BAPA_25_10_2016\OMS.Incentive\bin\OMS.DAL.pdb
+D:\BAPA\BAPA_21_12_2016\BAPA_25_10_2016\OMS.Incentive\bin\OMS.Facade.pdb
+D:\BAPA\BAPA_21_12_2016\BAPA_25_10_2016\OMS.Incentive\bin\OMS.Framework.pdb
+D:\BAPA\BAPA_21_12_2016\BAPA_25_10_2016\OMS.Incentive\obj\Debug\OMS.Incentive.csprojResolveAssemblyReference.cache
+D:\BAPA\BAPA_21_12_2016\BAPA_25_10_2016\OMS.Incentive\obj\Debug\OMS.Incentive.dll
+D:\BAPA\BAPA_21_12_2016\BAPA_25_10_2016\OMS.Incentive\obj\Debug\OMS.Incentive.pdb
+D:\Imtiaz\BAPA_23_12_2016\OMS.Incentive\bin\OMS.Incentive.dll.config
+D:\Imtiaz\BAPA_23_12_2016\OMS.Incentive\bin\OMS.Incentive.dll
+D:\Imtiaz\BAPA_23_12_2016\OMS.Incentive\bin\OMS.Incentive.pdb
+D:\Imtiaz\BAPA_23_12_2016\OMS.Incentive\bin\AjaxControlToolkit.dll
+D:\Imtiaz\BAPA_23_12_2016\OMS.Incentive\bin\OMS.DAL.dll
+D:\Imtiaz\BAPA_23_12_2016\OMS.Incentive\bin\OMS.Facade.dll
+D:\Imtiaz\BAPA_23_12_2016\OMS.Incentive\bin\OMS.Framework.dll
+D:\Imtiaz\BAPA_23_12_2016\OMS.Incentive\bin\OMS.DAL.pdb
+D:\Imtiaz\BAPA_23_12_2016\OMS.Incentive\bin\OMS.Facade.pdb
+D:\Imtiaz\BAPA_23_12_2016\OMS.Incentive\bin\OMS.Framework.pdb
+D:\Imtiaz\BAPA_23_12_2016\OMS.Incentive\obj\Debug\OMS.Incentive.csprojResolveAssemblyReference.cache
+D:\Imtiaz\BAPA_23_12_2016\OMS.Incentive\obj\Debug\OMS.Incentive.dll
+D:\Imtiaz\BAPA_23_12_2016\OMS.Incentive\obj\Debug\OMS.Incentive.pdb
+D:\Office\BAPA\BAPA_7_2_20176(1)\BAPA_23_12_2016\OMS.Incentive\bin\OMS.Incentive.dll.config
+D:\Office\BAPA\BAPA_7_2_20176(1)\BAPA_23_12_2016\OMS.Incentive\bin\OMS.Incentive.dll
+D:\Office\BAPA\BAPA_7_2_20176(1)\BAPA_23_12_2016\OMS.Incentive\bin\OMS.Incentive.pdb
+D:\Office\BAPA\BAPA_7_2_20176(1)\BAPA_23_12_2016\OMS.Incentive\bin\AjaxControlToolkit.dll
+D:\Office\BAPA\BAPA_7_2_20176(1)\BAPA_23_12_2016\OMS.Incentive\bin\OMS.DAL.dll
+D:\Office\BAPA\BAPA_7_2_20176(1)\BAPA_23_12_2016\OMS.Incentive\bin\OMS.Facade.dll
+D:\Office\BAPA\BAPA_7_2_20176(1)\BAPA_23_12_2016\OMS.Incentive\bin\OMS.Framework.dll
+D:\Office\BAPA\BAPA_7_2_20176(1)\BAPA_23_12_2016\OMS.Incentive\bin\OMS.DAL.pdb
+D:\Office\BAPA\BAPA_7_2_20176(1)\BAPA_23_12_2016\OMS.Incentive\bin\OMS.Facade.pdb
+D:\Office\BAPA\BAPA_7_2_20176(1)\BAPA_23_12_2016\OMS.Incentive\bin\OMS.Framework.pdb
+D:\Office\BAPA\BAPA_7_2_20176(1)\BAPA_23_12_2016\OMS.Incentive\obj\Debug\OMS.Incentive.csprojResolveAssemblyReference.cache
+D:\Office\BAPA\BAPA_7_2_20176(1)\BAPA_23_12_2016\OMS.Incentive\obj\Debug\OMS.Incentive.dll
+D:\Office\BAPA\BAPA_7_2_20176(1)\BAPA_23_12_2016\OMS.Incentive\obj\Debug\OMS.Incentive.pdb
+E:\BAPA_10_3_2017\BAPA_10_3_2017\OMS.Incentive\bin\OMS.Incentive.dll.config
+E:\BAPA_10_3_2017\BAPA_10_3_2017\OMS.Incentive\bin\OMS.Incentive.dll
+E:\BAPA_10_3_2017\BAPA_10_3_2017\OMS.Incentive\bin\OMS.Incentive.pdb
+E:\BAPA_10_3_2017\BAPA_10_3_2017\OMS.Incentive\bin\AjaxControlToolkit.dll
+E:\BAPA_10_3_2017\BAPA_10_3_2017\OMS.Incentive\bin\OMS.DAL.dll
+E:\BAPA_10_3_2017\BAPA_10_3_2017\OMS.Incentive\bin\OMS.Facade.dll
+E:\BAPA_10_3_2017\BAPA_10_3_2017\OMS.Incentive\bin\OMS.Framework.dll
+E:\BAPA_10_3_2017\BAPA_10_3_2017\OMS.Incentive\bin\OMS.DAL.pdb
+E:\BAPA_10_3_2017\BAPA_10_3_2017\OMS.Incentive\bin\OMS.Facade.pdb
+E:\BAPA_10_3_2017\BAPA_10_3_2017\OMS.Incentive\bin\OMS.Framework.pdb
+E:\BAPA_10_3_2017\BAPA_10_3_2017\OMS.Incentive\obj\Debug\OMS.Incentive.csprojResolveAssemblyReference.cache
+E:\BAPA_10_3_2017\BAPA_10_3_2017\OMS.Incentive\obj\Debug\OMS.Incentive.dll
+E:\BAPA_10_3_2017\BAPA_10_3_2017\OMS.Incentive\obj\Debug\OMS.Incentive.pdb

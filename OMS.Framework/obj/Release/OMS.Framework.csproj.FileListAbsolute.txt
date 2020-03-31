@@ -1,0 +1,14 @@
+F:\Project 2016\eHishab_Demo\OMS.Framework\bin\Release\OMS.Framework.dll
+F:\Project 2016\eHishab_Demo\OMS.Framework\bin\Release\OMS.Framework.pdb
+F:\Project 2016\eHishab_Demo\OMS.Framework\obj\Release\ResolveAssemblyReference.cache
+F:\Project 2016\eHishab_Demo\OMS.Framework\obj\Release\OMS.Framework.dll
+F:\Project 2016\eHishab_Demo\OMS.Framework\obj\Release\OMS.Framework.pdb
+F:\Project 2016\PrimetechAccounts\OMS.Framework\bin\Release\OMS.Framework.dll
+F:\Project 2016\PrimetechAccounts\OMS.Framework\bin\Release\OMS.Framework.pdb
+F:\Project 2016\PrimetechAccounts\OMS.Framework\obj\Release\ResolveAssemblyReference.cache
+F:\Project 2016\PrimetechAccounts\OMS.Framework\obj\Release\OMS.Framework.dll
+F:\Project 2016\PrimetechAccounts\OMS.Framework\obj\Release\OMS.Framework.pdb
+D:\working\BAPA\PrimetechAccounts17-07-2016 (1)\OMS.Framework\bin\Release\OMS.Framework.dll
+D:\working\BAPA\PrimetechAccounts17-07-2016 (1)\OMS.Framework\bin\Release\OMS.Framework.pdb
+D:\working\BAPA\PrimetechAccounts17-07-2016 (1)\OMS.Framework\obj\Release\OMS.Framework.dll
+D:\working\BAPA\PrimetechAccounts17-07-2016 (1)\OMS.Framework\obj\Release\OMS.Framework.pdb
